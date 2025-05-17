@@ -1,0 +1,862 @@
+Match ID,Date,City,Venue,Teams,Winner,Result Type,Result Margin,Overs,Toss Winner,Toss Decision,Player of Match,Umpires,Match Referee,Match Type,Gender
+1000851,2016-11-03,Perth,Western Australia Cricket Association Ground,"Australia, South Africa",South Africa,normal,177 runs,Null,South Africa,bat,K Rabada,"Aleem Dar, NJ Llong",AJ Pycroft,Test,male
+1000853,2016-11-12,Hobart,Bellerive Oval,"Australia, South Africa",South Africa,normal,80 runs,Null,South Africa,field,KJ Abbott,"Aleem Dar, RA Kettleborough",AJ Pycroft,Test,male
+1000855,2016-11-24,Adelaide,Adelaide Oval,"Australia, South Africa",Australia,normal,7 wickets,Null,South Africa,bat,UT Khawaja,"RA Kettleborough, NJ Llong",AJ Pycroft,Test,male
+1000881,2016-12-15,Brisbane,"Brisbane Cricket Ground, Woolloongabba","Australia, Pakistan",Australia,normal,39 runs,Null,Australia,bat,Asad Shafiq,"IJ Gould, RK Illingworth",RS Madugalle,Test,male
+1000883,2016-12-26,Melbourne,Melbourne Cricket Ground,"Australia, Pakistan",Australia,normal,18 runs,Null,Pakistan,bat,SPD Smith,"IJ Gould, S Ravi",RS Madugalle,Test,male
+1000885,2017-01-03,Sydney,Sydney Cricket Ground,"Australia, Pakistan",Australia,normal,220 runs,Null,Australia,bat,DA Warner,"RK Illingworth, S Ravi",RS Madugalle,Test,male
+1019985,2017-01-12,Wellington,Basin Reserve,"New Zealand, Bangladesh",New Zealand,normal,7 wickets,Null,New Zealand,field,TWM Latham,"M Erasmus, PR Reiffel",J Srinath,Test,male
+1019987,2017-01-20,Christchurch,Hagley Oval,"New Zealand, Bangladesh",New Zealand,normal,9 wickets,Null,New Zealand,field,TG Southee,"NJ Llong, PR Reiffel",J Srinath,Test,male
+1019993,2016-11-17,Christchurch,Hagley Oval,"New Zealand, Pakistan",New Zealand,normal,8 wickets,Null,New Zealand,field,C de Grandhomme,"IJ Gould, S Ravi",RB Richardson,Test,male
+1019995,2016-11-25,Hamilton,Seddon Park,"New Zealand, Pakistan",New Zealand,normal,138 runs,Null,Pakistan,field,TG Southee,"SD Fry, S Ravi",RB Richardson,Test,male
+1020041,2017-03-08,Dunedin,University Oval,"New Zealand, South Africa",Null,draw,Null,Null,South Africa,bat,D Elgar,"HDPK Dharmasena, BNJ Oxenford",DC Boon,Test,male
+1020043,2017-03-16,Wellington,Basin Reserve,"New Zealand, South Africa",South Africa,normal,8 wickets,Null,South Africa,field,KA Maharaj,"HDPK Dharmasena, RJ Tucker",DC Boon,Test,male
+1020045,2017-03-25,Hamilton,Seddon Park,"New Zealand, South Africa",Null,draw,Null,Null,South Africa,bat,KS Williamson,"BNJ Oxenford, RJ Tucker",DC Boon,Test,male
+1022593,2016-07-21,Antigua,"Sir Vivian Richards Stadium, North Sound","West Indies, India",India,normal,92 runs,Null,India,bat,R Ashwin,"Aleem Dar, IJ Gould",RS Madugalle,Test,male
+1022595,2016-07-30,Jamaica,"Sabina Park, Kingston","West Indies, India",Null,draw,Null,Null,West Indies,bat,RL Chase,"Aleem Dar, IJ Gould",RS Madugalle,Test,male
+1022597,2016-08-09,St Lucia,"Darren Sammy National Cricket Stadium, Gros Islet","West Indies, India",India,normal,237 runs,Null,West Indies,field,R Ashwin,"NJ Llong, RJ Tucker",RS Madugalle,Test,male
+1022599,2016-08-18,Trinidad,"Queen's Park Oval, Port of Spain","West Indies, India",Null,draw,Null,Null,West Indies,bat,Null,"NJ Llong, RJ Tucker",RS Madugalle,Test,male
+1024041,2016-07-28,Bulawayo,Queens Sports Club,"Zimbabwe, New Zealand",New Zealand,normal,117 runs,Null,Zimbabwe,bat,LRPL Taylor,"MA Gough, PR Reiffel",DC Boon,Test,male
+1024043,2016-08-06,Bulawayo,Queens Sports Club,"Zimbabwe, New Zealand",New Zealand,normal,254 runs,Null,New Zealand,bat,KS Williamson,"MA Gough, PR Reiffel",DC Boon,Test,male
+1029825,2016-10-20,Chittagong,Zahur Ahmed Chowdhury Stadium,"Bangladesh, England",England,normal,22 runs,Null,England,bat,BA Stokes,"HDPK Dharmasena, CB Gaffaney",RS Madugalle,Test,male
+1029827,2016-10-28,Mirpur,Shere Bangla National Stadium,"Bangladesh, England",Bangladesh,normal,108 runs,Null,Bangladesh,bat,Mehedi Hasan Miraz,"HDPK Dharmasena, S Ravi",RS Madugalle,Test,male
+1030213,2016-09-22,Kanpur,Green Park,"India, New Zealand",India,normal,197 runs,Null,India,bat,RA Jadeja,"RA Kettleborough, RJ Tucker",DC Boon,Test,male
+1030215,2016-09-30,Kolkata,Eden Gardens,"India, New Zealand",India,normal,178 runs,Null,India,bat,WP Saha,"RA Kettleborough, RJ Tucker",DC Boon,Test,male
+1030217,2016-10-08,Indore,Holkar Cricket Stadium,"India, New Zealand",India,normal,321 runs,Null,India,bat,R Ashwin,"HDPK Dharmasena, BNJ Oxenford",DC Boon,Test,male
+1031437,2017-07-06,London,Lord's,"England, South Africa",England,normal,211 runs,Null,England,bat,MM Ali,"S Ravi, PR Reiffel",JJ Crowe,Test,male
+1031439,2017-07-14,Nottingham,Trent Bridge,"South Africa, England",South Africa,normal,340 runs,Null,South Africa,bat,VD Philander,"SD Fry, PR Reiffel",JJ Crowe,Test,male
+1031441,2017-07-27,London,Kennington Oval,"England, South Africa",England,normal,239 runs,Null,England,bat,BA Stokes,"JS Wilson, Aleem Dar",RS Madugalle,Test,male
+1031443,2017-08-04,Manchester,Old Trafford,"England, South Africa",England,normal,177 runs,Null,England,bat,MM Ali,"Aleem Dar, HDPK Dharmasena",RS Madugalle,Test,male
+1031659,2017-08-17,Birmingham,Edgbaston,"England, West Indies",England,normal,209 runs,Null,England,bat,AN Cook,"M Erasmus, S Ravi",DC Boon,Test,male
+1031661,2017-08-25,Leeds,Headingley,"England, West Indies",West Indies,normal,5 wickets,Null,England,bat,SD Hope,"CB Gaffaney, S Ravi",DC Boon,Test,male
+1031663,2017-09-07,London,Lord's,"West Indies, England",England,normal,9 wickets,Null,West Indies,bat,BA Stokes,"CB Gaffaney, M Erasmus",DC Boon,Test,male
+1034809,2016-11-09,Rajkot,Saurashtra Cricket Association Stadium,"India, England",Null,draw,Null,Null,England,bat,MM Ali,"HDPK Dharmasena, CB Gaffaney",RS Madugalle,Test,male
+1034811,2016-11-17,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,"India, England",India,normal,246 runs,Null,India,bat,V Kohli,"HDPK Dharmasena, RJ Tucker",RS Madugalle,Test,male
+1034813,2016-11-26,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali","India, England",India,normal,8 wickets,Null,England,bat,RA Jadeja,"M Erasmus, CB Gaffaney",RS Madugalle,Test,male
+1034815,2016-12-08,Mumbai,Wankhede Stadium,"India, England",India,normal,36 runs,Null,England,bat,V Kohli,"M Erasmus, BNJ Oxenford, PR Reiffel",JJ Crowe,Test,male
+1034817,2016-12-16,Chennai,"MA Chidambaram Stadium, Chepauk","India, England",India,normal,75 runs,Null,England,bat,KK Nair,"M Erasmus, SD Fry",JJ Crowe,Test,male
+1041761,2017-02-09,Hyderabad,"Rajiv Gandhi International Stadium, Uppal","India, Bangladesh",India,normal,208 runs,Null,India,bat,V Kohli,"M Erasmus, JS Wilson",AJ Pycroft,Test,male
+1050229,2016-10-13,Dubai,Dubai International Cricket Stadium,"Pakistan, West Indies",Pakistan,normal,56 runs,Null,Pakistan,bat,Azhar Ali,"RK Illingworth, PR Reiffel",JJ Crowe,Test,male
+1050231,2016-10-21,Abu Dhabi,Sheikh Zayed Stadium,"Pakistan, West Indies",Pakistan,normal,133 runs,Null,Pakistan,bat,Yasir Shah,"MA Gough, RK Illingworth",JJ Crowe,Test,male
+1050233,2016-10-30,Sharjah,Sharjah Cricket Stadium,"Pakistan, West Indies",West Indies,normal,5 wickets,Null,Pakistan,bat,KC Brathwaite,"MA Gough, PR Reiffel",JJ Crowe,Test,male
+1059702,2016-10-29,Null,Harare Sports Club,"Zimbabwe, Sri Lanka",Sri Lanka,normal,225 runs,Null,Sri Lanka,bat,AG Cremer,"SD Fry, IJ Gould",BC Broad,Test,male
+1059703,2016-11-06,Null,Harare Sports Club,"Zimbabwe, Sri Lanka",Sri Lanka,normal,257 runs,Null,Zimbabwe,field,HMRKB Herath,"SD Fry, IJ Gould",BC Broad,Test,male
+1062573,2017-02-23,Pune,Maharashtra Cricket Association Stadium,"India, Australia",Australia,normal,333 runs,Null,Australia,bat,SNJ O'Keefe,"RA Kettleborough, NJ Llong",BC Broad,Test,male
+1062574,2017-03-04,Bengaluru,M Chinnaswamy Stadium,"India, Australia",India,normal,75 runs,Null,India,bat,KL Rahul,"RK Illingworth, NJ Llong",BC Broad,Test,male
+1062575,2017-03-16,Ranchi,JSCA International Stadium Complex,"India, Australia",Null,draw,Null,Null,Australia,bat,CA Pujara,"CB Gaffaney, IJ Gould",RB Richardson,Test,male
+1062576,2017-03-25,Dharamsala,Himachal Pradesh Cricket Association Stadium,"India, Australia",India,normal,8 wickets,Null,Australia,bat,RA Jadeja,"M Erasmus, IJ Gould",RB Richardson,Test,male
+1072305,2017-11-23,Brisbane,"Brisbane Cricket Ground, Woolloongabba","England, Australia",Australia,normal,10 wickets,Null,England,bat,SPD Smith,"Aleem Dar, M Erasmus",RB Richardson,Test,male
+1072306,2017-12-02,Adelaide,Adelaide Oval,"Australia, England",Australia,normal,120 runs,Null,England,field,SE Marsh,"Aleem Dar, CB Gaffaney",RB Richardson,Test,male
+1072307,2017-12-14,Perth,W.A.C.A. Ground,"England, Australia",Australia,normal,41 runs,Null,England,bat,SPD Smith,"CB Gaffaney, M Erasmus",RB Richardson,Test,male
+1072308,2017-12-26,Melbourne,Melbourne Cricket Ground,"Australia, England",Null,draw,Null,Null,Australia,bat,AN Cook,"HDPK Dharmasena, S Ravi",RS Madugalle,Test,male
+1072309,2018-01-04,Sydney,Sydney Cricket Ground,"England, Australia",Australia,normal,123 runs,Null,England,bat,PJ Cummins,"JS Wilson, HDPK Dharmasena",RS Madugalle,Test,male
+1075502,2017-09-28,Potchefstroom,Senwes Park,"South Africa, Bangladesh",South Africa,normal,333 runs,Null,Bangladesh,field,D Elgar,"BNJ Oxenford, CB Gaffaney",RS Madugalle,Test,male
+1075503,2017-10-06,Bloemfontein,Mangaung Oval,"South Africa, Bangladesh",South Africa,normal,254 runs,Null,Bangladesh,field,K Rabada,"BNJ Oxenford, HDPK Dharmasena",RS Madugalle,Test,male
+1075982,2018-03-01,Durban,Kingsmead,"Australia, South Africa",Australia,normal,118 runs,Null,Australia,bat,MA Starc,"HDPK Dharmasena, S Ravi",JJ Crowe,Test,male
+1075983,2018-03-09,Port Elizabeth,St George's Park,"Australia, South Africa",South Africa,normal,6 wickets,Null,Australia,bat,K Rabada,"HDPK Dharmasena, CB Gaffaney",JJ Crowe,Test,male
+1075984,2018-03-22,Cape Town,Newlands,"South Africa, Australia",South Africa,normal,322 runs,Null,South Africa,bat,M Morkel,"RK Illingworth, NJ Llong",AJ Pycroft,Test,male
+1075985,2018-03-30,Johannesburg,The Wanderers Stadium,"South Africa, Australia",South Africa,normal,492 runs,Null,South Africa,bat,VD Philander,"IJ Gould, NJ Llong",AJ Pycroft,Test,male
+1077953,2017-04-21,Jamaica,"Sabina Park, Kingston","West Indies, Pakistan",Pakistan,normal,7 wickets,Null,Pakistan,field,Yasir Shah,"RK Illingworth, RA Kettleborough",BC Broad,Test,male
+1077954,2017-04-30,Barbados,"Kensington Oval, Bridgetown","West Indies, Pakistan",West Indies,normal,106 runs,Null,West Indies,bat,ST Gabriel,"RA Kettleborough, BNJ Oxenford",BC Broad,Test,male
+1077955,2017-05-10,Dominica,"Windsor Park, Roseau","West Indies, Pakistan",Pakistan,normal,101 runs,Null,West Indies,field,RL Chase,"RK Illingworth, BNJ Oxenford",BC Broad,Test,male
+1083444,2017-03-07,Null,Galle International Stadium,"Sri Lanka, Bangladesh",Sri Lanka,normal,259 runs,Null,Sri Lanka,bat,BKG Mendis,"Aleem Dar, M Erasmus",AJ Pycroft,Test,male
+1083445,2017-03-15,Colombo,P Sara Oval,"Sri Lanka, Bangladesh",Bangladesh,normal,4 wickets,Null,Sri Lanka,bat,Tamim Iqbal,"Aleem Dar, S Ravi",AJ Pycroft,Test,male
+1086066,2017-11-09,Sydney,"North Sydney Oval, Sydney","England, Australia",Null,draw,Null,Null,England,bat,EA Perry,"GC Joshua, GA Abood",SR Bernard,Test,female
+1104284,2017-08-27,Dhaka,"Shere Bangla National Stadium, Mirpur","Bangladesh, Australia",Bangladesh,normal,20 runs,Null,Bangladesh,bat,Shakib Al Hasan,"Aleem Dar, NJ Llong",JJ Crowe,Test,male
+1104285,2017-09-04,Chattogram,Zahur Ahmed Chowdhury Stadium,"Bangladesh, Australia",Australia,normal,7 wickets,Null,Bangladesh,bat,NM Lyon,"IJ Gould, NJ Llong",JJ Crowe,Test,male
+1104483,2017-07-14,Colombo,"R.Premadasa Stadium, Khettarama","Zimbabwe, Sri Lanka",Sri Lanka,normal,4 wickets,Null,Zimbabwe,bat,DAS Gunaratne,"IJ Gould, NJ Llong",BC Broad,Test,male
+1109602,2017-07-26,Null,Galle International Stadium,"India, Sri Lanka",India,normal,304 runs,Null,India,bat,S Dhawan,"BNJ Oxenford, RK Illingworth",RB Richardson,Test,male
+1109603,2017-08-03,Colombo,Sinhalese Sports Club Ground,"India, Sri Lanka",India,normal,53 runs,Null,India,bat,RA Jadeja,"RJ Tucker, BNJ Oxenford",RB Richardson,Test,male
+1109604,2017-08-12,Pallekele,Pallekele International Cricket Stadium,"India, Sri Lanka",India,normal,171 runs,Null,India,bat,HH Pandya,"RJ Tucker, RK Illingworth",RB Richardson,Test,male
+1115780,2018-03-22,Auckland,Eden Park,"England, New Zealand",New Zealand,normal,49 runs,Null,New Zealand,field,TA Boult,"BNJ Oxenford, PR Reiffel",RB Richardson,Test,male
+1115781,2018-03-30,Christchurch,Hagley Oval,"England, New Zealand",Null,draw,Null,Null,New Zealand,field,TG Southee,"BNJ Oxenford, M Erasmus",RB Richardson,Test,male
+1115793,2017-12-01,Wellington,Basin Reserve,"West Indies, New Zealand",New Zealand,normal,67 runs,Null,New Zealand,field,N Wagner,"RJ Tucker, IJ Gould",BC Broad,Test,male
+1115794,2017-12-09,Hamilton,Seddon Park,"New Zealand, West Indies",New Zealand,normal,240 runs,Null,West Indies,field,LRPL Taylor,"RJ Tucker, BNJ Oxenford",BC Broad,Test,male
+1119535,2018-05-24,London,Lord's,"England, Pakistan",Pakistan,normal,9 wickets,Null,England,bat,Mohammad Abbas,"RJ Tucker, PR Reiffel",JJ Crowe,Test,male
+1119536,2018-06-01,Leeds,Headingley,"Pakistan, England",England,normal,55 runs,Null,Pakistan,bat,JC Buttler,"RJ Tucker, BNJ Oxenford",JJ Crowe,Test,male
+1119549,2018-08-01,Birmingham,Edgbaston,"England, India",England,normal,31 runs,Null,England,bat,SM Curran,"Aleem Dar, CB Gaffaney",JJ Crowe,Test,male
+1119550,2018-08-09,London,Lord's,"India, England",England,normal,159 runs,Null,England,field,CR Woakes,"Aleem Dar, M Erasmus",JJ Crowe,Test,male
+1119551,2018-08-18,Nottingham,Trent Bridge,"India, England",India,normal,203 runs,Null,England,field,V Kohli,"CB Gaffaney, M Erasmus",JJ Crowe,Test,male
+1119552,2018-08-30,Southampton,The Rose Bowl,"England, India",England,normal,60 runs,Null,England,bat,MM Ali,"BNJ Oxenford, HDPK Dharmasena",AJ Pycroft,Test,male
+1119553,2018-09-07,London,Kennington Oval,"England, India",England,normal,118 runs,Null,England,bat,AN Cook,"JS Wilson, HDPK Dharmasena",AJ Pycroft,Test,male
+1120284,2017-09-28,Abu Dhabi,Sheikh Zayed Stadium,"Sri Lanka, Pakistan",Sri Lanka,normal,21 runs,Null,Sri Lanka,bat,HMRKB Herath,"RA Kettleborough, NJ Llong",AJ Pycroft,Test,male
+1120285,2017-10-06,Dubai,Dubai International Cricket Stadium,"Sri Lanka, Pakistan",Sri Lanka,normal,68 runs,Null,Sri Lanka,bat,FDM Karunaratne,"RA Kettleborough, NJ Llong",AJ Pycroft,Test,male
+1122276,2018-01-05,Cape Town,Newlands,"South Africa, India",South Africa,normal,72 runs,Null,South Africa,bat,VD Philander,"RA Kettleborough, MA Gough",BC Broad,Test,male
+1122277,2018-01-13,Centurion,SuperSport Park,"South Africa, India",South Africa,normal,135 runs,Null,South Africa,bat,L Ngidi,"MA Gough, PR Reiffel",BC Broad,Test,male
+1122278,2018-01-24,Johannesburg,The Wanderers Stadium,"India, South Africa",India,normal,63 runs,Null,India,bat,B Kumar,"Aleem Dar, IJ Gould",AJ Pycroft,Test,male
+1122310,2017-12-26,Port Elizabeth,"St George's Park, Port Elizabeth","South Africa, Zimbabwe",South Africa,normal,120 runs,Null,South Africa,bat,AK Markram,"PR Reiffel, RA Kettleborough",BC Broad,Test,male
+1122723,2017-11-16,Kolkata,Eden Gardens,"India, Sri Lanka",Null,draw,Null,Null,Sri Lanka,field,B Kumar,"RA Kettleborough, JS Wilson, NJ Llong",DC Boon,Test,male
+1122724,2017-11-24,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha","Sri Lanka, India",India,normal,239 runs,Null,Sri Lanka,bat,V Kohli,"RA Kettleborough, JS Wilson",DC Boon,Test,male
+1122725,2017-12-02,Delhi,Arun Jaitley Stadium,"India, Sri Lanka",Null,draw,Null,Null,India,bat,V Kohli,"JS Wilson, NJ Llong",DC Boon,Test,male
+1122886,2017-10-21,Bulawayo,Queens Sports Club,"West Indies, Zimbabwe",West Indies,normal,117 runs,Null,West Indies,bat,D Bishoo,"HDPK Dharmasena, PR Reiffel",J Srinath,Test,male
+1122887,2017-10-29,Bulawayo,Queens Sports Club,"Zimbabwe, West Indies",Null,draw,Null,Null,Zimbabwe,bat,Sikandar Raza,"HDPK Dharmasena, SD Fry",J Srinath,Test,male
+1127284,2018-05-11,Dublin,"The Village, Malahide","Ireland, Pakistan",Pakistan,normal,5 wickets,Null,Ireland,field,KJ O'Brien,"RK Illingworth, NJ Llong",BC Broad,Test,male
+1130744,2018-01-31,Chattogram,Zahur Ahmed Chowdhury Stadium,"Bangladesh, Sri Lanka",Null,draw,Null,Null,Bangladesh,bat,Mominul Haque,"RJ Tucker, M Erasmus",DC Boon,Test,male
+1130745,2018-02-08,Dhaka,"Shere Bangla National Stadium, Mirpur","Sri Lanka, Bangladesh",Sri Lanka,normal,215 runs,Null,Sri Lanka,bat,ARS Silva,"RJ Tucker, JS Wilson",DC Boon,Test,male
+1135149,2018-06-06,Trinidad,"Queen's Park Oval, Port of Spain","West Indies, Sri Lanka",West Indies,normal,226 runs,Null,West Indies,bat,SO Dowrich,"RA Kettleborough, Aleem Dar",J Srinath,Test,male
+1135150,2018-06-14,St Lucia,"Daren Sammy National Cricket Stadium, Gros Islet","Sri Lanka, West Indies",Null,draw,Null,Null,Sri Lanka,bat,ST Gabriel,"Aleem Dar, IJ Gould",J Srinath,Test,male
+1135151,2018-06-23,Barbados,"Kensington Oval, Bridgetown","West Indies, Sri Lanka",Sri Lanka,normal,4 wickets,Null,West Indies,bat,JO Holder,"RA Kettleborough, IJ Gould",J Srinath,Test,male
+1140385,2018-11-06,Null,Galle International Stadium,"England, Sri Lanka",England,normal,211 runs,Null,England,bat,BT Foakes,"CB Gaffaney, M Erasmus",AJ Pycroft,Test,male
+1140386,2018-11-14,Pallekele,Pallekele International Cricket Stadium,"England, Sri Lanka",England,normal,57 runs,Null,England,bat,JE Root,"M Erasmus, S Ravi",AJ Pycroft,Test,male
+1140387,2018-11-23,Colombo,Sinhalese Sports Club Ground,"England, Sri Lanka",England,normal,42 runs,Null,England,bat,JM Bairstow,"CB Gaffaney, S Ravi",AJ Pycroft,Test,male
+1142581,2018-07-12,Null,Galle International Stadium,"Sri Lanka, South Africa",Sri Lanka,normal,278 runs,Null,Sri Lanka,bat,FDM Karunaratne,"RJ Tucker, PR Reiffel",RB Richardson,Test,male
+1142582,2018-07-20,Colombo,Sinhalese Sports Club Ground,"Sri Lanka, South Africa",Sri Lanka,normal,199 runs,Null,Sri Lanka,bat,FDM Karunaratne,"RJ Tucker, NJ Llong",RB Richardson,Test,male
+1144153,2018-12-26,Centurion,SuperSport Park,"South Africa, Pakistan",South Africa,normal,6 wickets,Null,Pakistan,bat,D Olivier,"BNJ Oxenford, S Ravi",DC Boon,Test,male
+1144154,2019-01-03,Cape Town,Newlands,"South Africa, Pakistan",South Africa,normal,9 wickets,Null,South Africa,field,F du Plessis,"JS Wilson, BNJ Oxenford",DC Boon,Test,male
+1144155,2019-01-11,Johannesburg,The Wanderers Stadium,"South Africa, Pakistan",South Africa,normal,107 runs,Null,South Africa,bat,Q de Kock,"JS Wilson, S Ravi",DC Boon,Test,male
+1144164,2019-02-13,Durban,Kingsmead,"South Africa, Sri Lanka",Sri Lanka,normal,1 wickets,Null,Sri Lanka,field,MDKJ Perera,"RA Kettleborough, Aleem Dar",RB Richardson,Test,male
+1144165,2019-02-21,Port Elizabeth,St George's Park,"South Africa, Sri Lanka",Sri Lanka,normal,8 wickets,Null,South Africa,bat,BKG Mendis,"Aleem Dar, IJ Gould",RB Richardson,Test,male
+1144993,2018-12-06,Adelaide,Adelaide Oval,"India, Australia",India,normal,31 runs,Null,India,bat,CA Pujara,"HDPK Dharmasena, NJ Llong",RS Madugalle,Test,male
+1144994,2018-12-14,Null,Perth Stadium,"Australia, India",Australia,normal,146 runs,Null,Australia,bat,NM Lyon,"HDPK Dharmasena, CB Gaffaney",RS Madugalle,Test,male
+1144995,2018-12-26,Melbourne,Melbourne Cricket Ground,"Australia, India",India,normal,137 runs,Null,India,bat,JJ Bumrah,"IJ Gould, M Erasmus",AJ Pycroft,Test,male
+1144996,2019-01-03,Sydney,Sydney Cricket Ground,"Australia, India",Null,draw,Null,Null,India,bat,CA Pujara,"RA Kettleborough, IJ Gould",AJ Pycroft,Test,male
+1145000,2019-01-24,Brisbane,"Brisbane Cricket Ground, Woolloongabba","Australia, Sri Lanka",Australia,normal,40 runs,Null,Sri Lanka,bat,PJ Cummins,"RK Illingworth, M Erasmus",J Srinath,Test,male
+1145001,2019-02-01,Canberra,Manuka Oval,"Australia, Sri Lanka",Australia,normal,366 runs,Null,Australia,bat,MA Starc,"MA Gough, RK Illingworth",J Srinath,Test,male
+1146717,2018-07-04,North Sound,Sir Vivian Richards Stadium,"Bangladesh, West Indies",West Indies,normal,219 runs,Null,West Indies,field,KAJ Roach,"RK Illingworth, RA Kettleborough",BC Broad,Test,male
+1146718,2018-07-12,Jamaica,"Sabina Park, Kingston","West Indies, Bangladesh",West Indies,normal,166 runs,Null,Bangladesh,field,JO Holder,"RK Illingworth, S Ravi",BC Broad,Test,male
+1152839,2019-07-24,London,Lord's,"England, Ireland",England,normal,143 runs,Null,England,bat,MJ Leach,"Aleem Dar, RSA Palliyaguruge",AJ Pycroft,Test,male
+1152846,2019-08-01,Birmingham,Edgbaston,"England, Australia",Australia,normal,251 runs,Null,Australia,bat,SPD Smith,"Aleem Dar, JS Wilson",RS Madugalle,Test,male
+1152847,2019-08-14,London,Lord's,"England, Australia",Null,draw,Null,Null,Australia,field,BA Stokes,"Aleem Dar, CB Gaffaney",RS Madugalle,Test,male
+1152848,2019-08-22,Leeds,Headingley,"England, Australia",England,normal,1 wickets,Null,England,field,BA Stokes,"CB Gaffaney, JS Wilson",J Srinath,Test,male
+1152849,2019-09-04,Manchester,Old Trafford,"England, Australia",Australia,normal,185 runs,Null,Australia,bat,SPD Smith,"HDPK Dharmasena, M Erasmus",J Srinath,Test,male
+1152850,2019-09-12,London,Kennington Oval,"England, Australia",England,normal,135 runs,Null,Australia,field,JC Archer,"HDPK Dharmasena, M Erasmus",J Srinath,Test,male
+1153311,2018-11-22,Chattogram,Zahur Ahmed Chowdhury Stadium,"Bangladesh, West Indies",Bangladesh,normal,64 runs,Null,Bangladesh,bat,Mominul Haque,"Aleem Dar, RK Illingworth",DC Boon,Test,male
+1153312,2018-11-30,Dhaka,"Shere Bangla National Stadium, Mirpur","Bangladesh, West Indies",Bangladesh,normal,184 runs,Null,Bangladesh,bat,Mehedi Hasan Miraz,"Aleem Dar, RSA Palliyaguruge",AJ Pycroft,Test,male
+1153639,2018-11-03,Null,Sylhet International Cricket Stadium,"Zimbabwe, Bangladesh",Zimbabwe,normal,151 runs,Null,Zimbabwe,bat,SC Williams,"RA Kettleborough, RJ Tucker",RS Madugalle,Test,male
+1153640,2018-11-11,Dhaka,"Shere Bangla National Stadium, Mirpur","Bangladesh, Zimbabwe",Bangladesh,normal,218 runs,Null,Bangladesh,bat,Mushfiqur Rahim,"RA Kettleborough, HDPK Dharmasena",RS Madugalle,Test,male
+1153838,2018-12-15,Wellington,"Basin Reserve, Wellington","Sri Lanka, New Zealand",Null,draw,Null,Null,New Zealand,field,TWM Latham,"MA Gough, RJ Tucker",RB Richardson,Test,male
+1153839,2018-12-26,Christchurch,Hagley Oval,"New Zealand, Sri Lanka",New Zealand,normal,423 runs,Null,Sri Lanka,field,TG Southee,"MA Gough, RK Illingworth",RB Richardson,Test,male
+1153847,2019-02-28,Hamilton,Seddon Park,"New Zealand, Bangladesh",New Zealand,normal,52 runs,Null,New Zealand,field,KS Williamson,"NJ Llong, PR Reiffel",DC Boon,Test,male
+1153848,2019-03-08,Wellington,Basin Reserve,"New Zealand, Bangladesh",New Zealand,normal,12 runs,Null,New Zealand,field,LRPL Taylor,"PR Reiffel, RSA Palliyaguruge",DC Boon,Test,male
+1157370,2018-10-07,Dubai,Dubai International Cricket Stadium,"Pakistan, Australia",Null,draw,Null,Null,Pakistan,bat,UT Khawaja,"RA Kettleborough, RK Illingworth",RS Madugalle,Test,male
+1157371,2018-10-16,Abu Dhabi,Sheikh Zayed Stadium,"Pakistan, Australia",Pakistan,normal,373 runs,Null,Pakistan,bat,Mohammad Abbas,"RK Illingworth, S Ravi",RS Madugalle,Test,male
+1157381,2018-11-16,Abu Dhabi,Sheikh Zayed Stadium,"New Zealand, Pakistan",New Zealand,normal,4 runs,Null,New Zealand,bat,AY Patel,"BNJ Oxenford, IJ Gould",J Srinath,Test,male
+1157382,2018-11-24,Dubai,Dubai International Cricket Stadium,"Pakistan, New Zealand",Pakistan,normal,16 runs,Null,Pakistan,bat,Yasir Shah,"BNJ Oxenford, PR Reiffel",J Srinath,Test,male
+1157383,2018-12-03,Abu Dhabi,Sheikh Zayed Stadium,"New Zealand, Pakistan",New Zealand,normal,123 runs,Null,New Zealand,bat,KS Williamson,"IJ Gould, PR Reiffel",J Srinath,Test,male
+1157752,2018-10-04,Rajkot,Saurashtra Cricket Association Stadium,"India, West Indies",India,normal,272 runs,Null,India,bat,PP Shaw,"IJ Gould, NJ Llong",BC Broad,Test,male
+1157753,2018-10-12,Hyderabad,"Rajiv Gandhi International Stadium, Uppal","West Indies, India",India,normal,10 wickets,Null,West Indies,bat,UT Yadav,"BNJ Oxenford, IJ Gould",BC Broad,Test,male
+1158062,2019-01-23,Bridgetown,"Kensington Oval, Barbados","West Indies, England",West Indies,normal,381 runs,Null,West Indies,bat,JO Holder,"RJ Tucker, CB Gaffaney",JJ Crowe,Test,male
+1158063,2019-01-31,North Sound,"Sir Vivian Richards Stadium, Antigua","West Indies, England",West Indies,normal,10 wickets,Null,West Indies,field,KAJ Roach,"HDPK Dharmasena, CB Gaffaney",JJ Crowe,Test,male
+1158064,2019-02-09,Gros Islet,"Daren Sammy National Cricket Stadium, St Lucia","West Indies, England",England,normal,232 runs,Null,West Indies,field,MA Wood,"RJ Tucker, HDPK Dharmasena",JJ Crowe,Test,male
+1168025,2019-07-18,Taunton,The Cooper Associates County Ground,"England, Australia",Null,draw,Null,Null,Australia,bat,EA Perry,"MJ Saggers, AG Wharf",Wayne Noon,Test,female
+1183530,2019-11-21,Brisbane,"Brisbane Cricket Ground, Woolloongabba","Australia, Pakistan",Australia,normal,5 runs,Null,Pakistan,bat,M Labuschagne,"RA Kettleborough, RK Illingworth",JJ Crowe,Test,male
+1183531,2019-11-29,Adelaide,Adelaide Oval,"Australia, Pakistan",Australia,normal,48 runs,Null,Australia,bat,DA Warner,"MA Gough, RK Illingworth",JJ Crowe,Test,male
+1183532,2019-12-12,Perth,Perth Stadium,"Australia, New Zealand",Australia,normal,296 runs,Null,Australia,bat,MA Starc,"Aleem Dar, NJ Llong",RB Richardson,Test,male
+1183533,2019-12-26,Melbourne,Melbourne Cricket Ground,"Australia, New Zealand",Australia,normal,247 runs,Null,New Zealand,field,TM Head,"NJ Llong, M Erasmus",RB Richardson,Test,male
+1183534,2020-01-03,Sydney,Sydney Cricket Ground,"Australia, New Zealand",Australia,normal,279 runs,Null,Australia,bat,M Labuschagne,"Aleem Dar, M Erasmus",RB Richardson,Test,male
+1185304,2019-12-26,Centurion,SuperSport Park,"South Africa, England",South Africa,normal,107 runs,Null,England,field,Q de Kock,"CB Gaffaney, PR Reiffel",AJ Pycroft,Test,male
+1185305,2020-01-03,Cape Town,Newlands,"South Africa, England",England,normal,189 runs,Null,England,bat,BA Stokes,"HDPK Dharmasena, PR Reiffel",AJ Pycroft,Test,male
+1185306,2020-01-16,Port Elizabeth,St George's Park,"South Africa, England",England,normal,53 runs,Null,England,bat,OJ Pope,"RJ Tucker, BNJ Oxenford",AJ Pycroft,Test,male
+1185307,2020-01-24,Johannesburg,The Wanderers Stadium,"South Africa, England",England,normal,191 runs,Null,England,bat,MA Wood,"RJ Tucker, JS Wilson",AJ Pycroft,Test,male
+1187007,2019-10-02,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,"India, South Africa",India,normal,203 runs,Null,India,bat,RG Sharma,"RK Illingworth, CB Gaffaney",RB Richardson,Test,male
+1187008,2019-10-10,Pune,Maharashtra Cricket Association Stadium,"India, South Africa",India,normal,137 runs,Null,India,bat,V Kohli,"CB Gaffaney, NJ Llong",RB Richardson,Test,male
+1187009,2019-10-19,Ranchi,JSCA International Stadium Complex,"India, South Africa",India,normal,202 runs,Null,India,bat,RG Sharma,"RK Illingworth, NJ Llong",RB Richardson,Test,male
+1187016,2019-11-14,Indore,Holkar Cricket Stadium,"India, Bangladesh",India,normal,130 runs,Null,Bangladesh,bat,MA Agarwal,"RJ Tucker, M Erasmus",RS Madugalle,Test,male
+1187017,2019-11-22,Kolkata,Eden Gardens,"India, Bangladesh",India,normal,46 runs,Null,Bangladesh,bat,I Sharma,"JS Wilson, M Erasmus",RS Madugalle,Test,male
+1187671,2019-11-21,Mount Maunganui,Bay Oval,"New Zealand, England",New Zealand,normal,65 runs,Null,England,bat,BJ Watling,"BNJ Oxenford, HDPK Dharmasena",J Srinath,Test,male
+1187672,2019-11-29,Hamilton,Seddon Park,"New Zealand, England",Null,draw,Null,Null,England,field,JE Root,"P Wilson, HDPK Dharmasena",J Srinath,Test,male
+1187685,2020-02-21,Wellington,Basin Reserve,"New Zealand, India",New Zealand,normal,10 wickets,Null,New Zealand,field,TG Southee,"RA Kettleborough, Aleem Dar",RS Madugalle,Test,male
+1187686,2020-02-29,Christchurch,Hagley Oval,"New Zealand, India",New Zealand,normal,7 wickets,Null,New Zealand,field,KA Jamieson,"RA Kettleborough, MA Gough",RS Madugalle,Test,male
+1188628,2019-08-22,North Sound,"Sir Vivian Richards Stadium, Antigua","West Indies, India",India,normal,318 runs,Null,West Indies,field,AM Rahane,"RA Kettleborough, RJ Tucker",DC Boon,Test,male
+1188629,2019-08-30,Kingston,"Sabina Park, Jamaica","West Indies, India",India,normal,257 runs,Null,West Indies,field,GH Vihari,"RA Kettleborough, PR Reiffel",DC Boon,Test,male
+1192873,2019-08-14,Galle,Galle International Stadium,"Sri Lanka, New Zealand",Sri Lanka,normal,6 wickets,Null,New Zealand,bat,FDM Karunaratne,"MA Gough, RK Illingworth",AJ Pycroft,Test,male
+1192874,2019-08-22,Colombo,P Sara Oval,"Sri Lanka, New Zealand",New Zealand,normal,65 runs,Null,Sri Lanka,bat,TWM Latham,"MA Gough, BNJ Oxenford",AJ Pycroft,Test,male
+1198241,2020-08-05,Manchester,Old Trafford,"Pakistan, England",England,normal,3 wickets,Null,Pakistan,bat,CR Woakes,"RA Kettleborough, RK Illingworth",BC Broad,Test,male
+1198242,2020-08-13,Southampton,The Rose Bowl,"Pakistan, England",Null,draw,Null,Null,Pakistan,bat,Mohammad Rizwan,"RA Kettleborough, MA Gough",BC Broad,Test,male
+1198243,2020-08-21,Southampton,The Rose Bowl,"England, Pakistan",Null,draw,Null,Null,England,bat,Z Crawley,"MA Gough, RK Illingworth",BC Broad,Test,male
+1206635,2019-12-11,Rawalpindi,Rawalpindi Cricket Stadium,"Pakistan, Sri Lanka",Null,draw,Null,Null,Sri Lanka,bat,Abid Ali,"RA Kettleborough, MA Gough",AJ Pycroft,Test,male
+1206636,2019-12-19,Karachi,National Stadium,"Pakistan, Sri Lanka",Pakistan,normal,263 runs,Null,Pakistan,bat,Abid Ali,"JS Wilson, BNJ Oxenford",JJ Crowe,Test,male
+1212541,2020-01-19,Harare,Harare Sports Club,"Zimbabwe, Sri Lanka",Sri Lanka,normal,10 wickets,Null,Zimbabwe,bat,AD Mathews,"M Erasmus, Nitin Menon",J Srinath,Test,male
+1212542,2020-01-27,Harare,Harare Sports Club,"Zimbabwe, Sri Lanka",Null,draw,Null,Null,Zimbabwe,bat,Sikandar Raza,"Aleem Dar, Nitin Menon",J Srinath,Test,male
+1213062,2020-02-07,Rawalpindi,Rawalpindi Cricket Stadium,"Pakistan, Bangladesh",Pakistan,normal,44 runs,Null,Pakistan,field,Naseem Shah,"CB Gaffaney, NJ Llong",RB Richardson,Test,male
+1214666,2020-02-22,Dhaka,"Shere Bangla National Stadium, Mirpur","Bangladesh, Zimbabwe",Bangladesh,normal,106 runs,Null,Zimbabwe,bat,Mushfiqur Rahim,"JS Wilson, PR Reiffel",JJ Crowe,Test,male
+1223869,2020-12-17,Adelaide,Adelaide Oval,"India, Australia",Australia,normal,8 wickets,Null,India,bat,TD Paine,"BNJ Oxenford, PR Reiffel",DC Boon,Test,male
+1223870,2020-12-26,Melbourne,Melbourne Cricket Ground,"Australia, India",India,normal,8 wickets,Null,Australia,bat,AM Rahane,"BNJ Oxenford, PR Reiffel",DC Boon,Test,male
+1223871,2021-01-07,Sydney,Sydney Cricket Ground,"Australia, India",Null,draw,Null,Null,Australia,bat,SPD Smith,"PR Reiffel, P Wilson",DC Boon,Test,male
+1223872,2021-01-15,Brisbane,Brisbane Cricket Ground,"Australia, India",India,normal,3 wickets,Null,Australia,bat,RR Pant,"BNJ Oxenford, P Wilson",DC Boon,Test,male
+1225247,2020-07-08,Southampton,The Rose Bowl,"England, West Indies",West Indies,normal,4 wickets,Null,England,bat,ST Gabriel,"RA Kettleborough, RK Illingworth",BC Broad,Test,male
+1225248,2020-07-16,Manchester,Old Trafford,"England, West Indies",England,normal,113 runs,Null,West Indies,field,BA Stokes,"MA Gough, RK Illingworth",BC Broad,Test,male
+1225249,2020-07-24,Manchester,Old Trafford,"England, West Indies",England,normal,269 runs,Null,West Indies,field,SCJ Broad,"RA Kettleborough, MA Gough",BC Broad,Test,male
+1233957,2020-12-03,Hamilton,Seddon Park,"New Zealand, West Indies",New Zealand,normal,134 runs,Null,West Indies,field,KS Williamson,"CB Gaffaney, WR Knights",JJ Crowe,Test,male
+1233958,2020-12-11,Wellington,Basin Reserve,"New Zealand, West Indies",New Zealand,normal,12 runs,Null,West Indies,field,HM Nicholls,"CM Brown, CB Gaffaney",JJ Crowe,Test,male
+1233962,2020-12-26,Mount Maunganui,Bay Oval,"New Zealand, Pakistan",New Zealand,normal,101 runs,Null,Pakistan,field,KS Williamson,"CB Gaffaney, WR Knights",JJ Crowe,Test,male
+1233963,2021-01-03,Christchurch,Hagley Oval,"Pakistan, New Zealand",New Zealand,normal,176 runs,Null,New Zealand,field,KA Jamieson,"CM Brown, CB Gaffaney",JJ Crowe,Test,male
+1237356,2020-12-26,Centurion,SuperSport Park,"Sri Lanka, South Africa",South Africa,normal,45 runs,Null,Sri Lanka,bat,F du Plessis,"AT Holdstock, M Erasmus",AJ Pycroft,Test,male
+1237357,2021-01-03,Johannesburg,The Wanderers Stadium,"Sri Lanka, South Africa",South Africa,normal,10 wickets,Null,Sri Lanka,bat,D Elgar,"AT Holdstock, M Erasmus",AJ Pycroft,Test,male
+1239543,2021-08-04,Nottingham,"Trent Bridge, Nottingham","England, India",Null,draw,Null,Null,England,bat,JE Root,"MA Gough, RA Kettleborough",BC Broad,Test,male
+1239544,2021-08-12,London,"Lord's, London","India, England",India,normal,151 runs,Null,England,field,KL Rahul,"MA Gough, RK Illingworth",BC Broad,Test,male
+1239545,2021-08-25,Leeds,"Headingley, Leeds","India, England",England,normal,76 runs,Null,India,bat,OE Robinson,"AG Wharf, RA Kettleborough",BC Broad,Test,male
+1239546,2021-09-02,London,"Kennington Oval, London","India, England",India,normal,157 runs,Null,England,field,RG Sharma,"AG Wharf, RK Illingworth",BC Broad,Test,male
+1243015,2021-01-14,Galle,Galle International Stadium,"Sri Lanka, England",England,normal,7 wickets,Null,Sri Lanka,bat,JE Root,"HDPK Dharmasena, RSA Palliyaguruge",RS Madugalle,Test,male
+1243016,2021-01-22,Galle,Galle International Stadium,"Sri Lanka, England",England,normal,6 wickets,Null,Sri Lanka,bat,JE Root,"HDPK Dharmasena, RSA Palliyaguruge",RS Madugalle,Test,male
+1243017,2021-01-26,Karachi,National Stadium,"South Africa, Pakistan",Pakistan,normal,7 wickets,Null,South Africa,bat,Fawad Alam,"Ahsan Raza, Aleem Dar",Muhammad Javed,Test,male
+1243018,2021-02-04,Rawalpindi,Rawalpindi Cricket Stadium,"Pakistan, South Africa",Pakistan,normal,95 runs,Null,Pakistan,bat,Hasan Ali,"Ahsan Raza, Aleem Dar",Muhammad Javed,Test,male
+1243384,2021-02-05,Chennai,MA Chidambaram Stadium,"England, India",England,normal,227 runs,Null,England,bat,JE Root,"AK Chaudhary, Nitin Menon",J Srinath,Test,male
+1243385,2021-02-13,Chennai,MA Chidambaram Stadium,"India, England",India,normal,317 runs,Null,India,bat,R Ashwin,"Nitin Menon, VK Sharma",J Srinath,Test,male
+1243386,2021-02-24,Ahmedabad,Narendra Modi Stadium,"England, India",India,normal,10 wickets,Null,England,bat,AR Patel,"AK Chaudhary, Nitin Menon",J Srinath,Test,male
+1243387,2021-03-04,Ahmedabad,Narendra Modi Stadium,"England, India",India,normal,25 runs,Null,England,bat,RR Pant,"Nitin Menon, VK Sharma",J Srinath,Test,male
+1244025,2021-02-03,Chattogram,Zahur Ahmed Chowdhury Stadium,"Bangladesh, West Indies",West Indies,normal,3 wickets,Null,Bangladesh,bat,KR Mayers,"RK Illingworth, Sharfuddoula",Neeyamur Rashid,Test,male
+1244026,2021-02-11,Dhaka,Shere Bangla National Stadium,"West Indies, Bangladesh",West Indies,normal,17 runs,Null,West Indies,bat,RRS Cornwall,"RK Illingworth, Sharfuddoula",Neeyamur Rashid,Test,male
+1249210,2021-06-02,London,"Lord's, London","New Zealand, England",Null,draw,Null,Null,New Zealand,bat,DP Conway,"MA Gough, RA Kettleborough",BC Broad,Test,male
+1249211,2021-06-10,Birmingham,"Edgbaston, Birmingham","England, New Zealand",New Zealand,normal,8 wickets,Null,England,bat,MJ Henry,"RK Illingworth, RA Kettleborough",BC Broad,Test,male
+1249875,2021-06-18,Southampton,"The Rose Bowl, Southampton","India, New Zealand",New Zealand,normal,8 wickets,Null,New Zealand,field,KA Jamieson,"MA Gough, RK Illingworth",BC Broad,Test,male
+1252073,2021-03-21,North Sound,Sir Vivian Richards Stadium,"Sri Lanka, West Indies",Null,draw,Null,Null,West Indies,field,NE Bonner,"GO Brathwaite, JS Wilson",RB Richardson,Test,male
+1252074,2021-03-29,North Sound,Sir Vivian Richards Stadium,"West Indies, Sri Lanka",Null,draw,Null,Null,Sri Lanka,field,KC Brathwaite,"GO Brathwaite, JS Wilson",RB Richardson,Test,male
+1255828,2021-04-21,Pallekele,Pallekele International Cricket Stadium,"Sri Lanka, Bangladesh",Null,draw,Null,Null,Bangladesh,bat,FDM Karunaratne,"HDPK Dharmasena, RSA Palliyaguruge",RS Madugalle,Test,male
+1255829,2021-04-29,Kandy,Pallekele International Cricket Stadium,"Sri Lanka, Bangladesh",Sri Lanka,normal,209 runs,Null,Sri Lanka,bat,P Jayawickrama,"HDPK Dharmasena, RSA Palliyaguruge",RS Madugalle,Test,male
+1256726,2022-03-08,North Sound,"Sir Vivian Richards Stadium, North Sound, Antigua","England, West Indies",Null,draw,Null,Null,England,bat,NE Bonner,"GO Brathwaite, JS Wilson",RB Richardson,Test,male
+1256727,2022-03-16,Bridgetown,"Kensington Oval, Bridgetown, Barbados","England, West Indies",Null,draw,Null,Null,England,bat,KC Brathwaite,"JS Wilson, N Duguid",RB Richardson,Test,male
+1256728,2022-03-24,St George's,"National Cricket Stadium, St George's, Grenada","England, West Indies",West Indies,normal,10 wickets,Null,West Indies,field,J Da Silva,"GO Brathwaite, JS Wilson",RB Richardson,Test,male
+1257186,2021-04-29,Harare,Harare Sports Club,"Zimbabwe, Pakistan",Pakistan,normal,116 runs,Null,Zimbabwe,bat,Hasan Ali,"L Rusere, M Erasmus",AJ Pycroft,Test,male
+1257187,2021-05-07,Harare,Harare Sports Club,"Pakistan, Zimbabwe",Pakistan,normal,147 runs,Null,Pakistan,bat,Abid Ali,"L Rusere, M Erasmus",AJ Pycroft,Test,male
+1260093,2021-06-16,Bristol,"County Ground, Bristol","England, India",Null,draw,Null,Null,England,bat,Shafali Verma,"Chris Watts, S Redfern",DT Jukes,Test,female
+1263149,2021-06-10,Gros Islet,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia","West Indies, South Africa",South Africa,normal,63 runs,Null,West Indies,bat,Q de Kock,"GO Brathwaite, JS Wilson",RB Richardson,Test,male
+1263150,2021-06-18,Gros Islet,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia","South Africa, West Indies",South Africa,normal,158 runs,Null,West Indies,field,K Rabada,"GO Brathwaite, JS Wilson",RB Richardson,Test,male
+1263169,2021-08-12,Kingston,"Sabina Park, Kingston, Jamaica","Pakistan, West Indies",West Indies,normal,1 wickets,Null,West Indies,field,JNT Seales,"GO Brathwaite, JS Wilson",RB Richardson,Test,male
+1263170,2021-08-20,Kingston,"Sabina Park, Kingston, Jamaica","Pakistan, West Indies",Pakistan,normal,109 runs,Null,West Indies,field,Shaheen Shah Afridi,"GO Brathwaite, JS Wilson",RB Richardson,Test,male
+1263462,2021-12-08,Brisbane,"Brisbane Cricket Ground, Woolloongabba, Brisbane","England, Australia",Australia,normal,9 wickets,Null,England,bat,TM Head,"PR Reiffel, RJ Tucker",DC Boon,Test,male
+1263463,2021-12-16,Adelaide,Adelaide Oval,"Australia, England",Australia,normal,275 runs,Null,Australia,bat,M Labuschagne,"P Wilson, RJ Tucker",DC Boon,Test,male
+1263464,2021-12-26,Melbourne,Melbourne Cricket Ground,"England, Australia",Australia,normal,14 runs,Null,Australia,field,SM Boland,"PR Reiffel, P Wilson",DC Boon,Test,male
+1263465,2022-01-05,Sydney,Sydney Cricket Ground,"Australia, England",Null,draw,Null,Null,Australia,bat,UT Khawaja,"PR Reiffel, RJ Tucker",SR Bernard,Test,male
+1263466,2022-01-14,Hobart,"Bellerive Oval, Hobart","Australia, England",Australia,normal,146 runs,Null,England,field,TM Head,"P Wilson, RJ Tucker",DC Boon,Test,male
+1263571,2022-01-27,Canberra,"Manuka Oval, Canberra","Australia, England",Null,draw,Null,Null,England,field,HC Knight,"Eloise Sheridan, MW Graham-Smith",SR Bernard,Test,female
+1263620,2021-09-30,Carrara,Carrara Oval,"India, Australia",Null,draw,Null,Null,Australia,field,S Mandhana,"CA Polosak, PJ Gillespie",RW Stratford,Test,female
+1267676,2021-07-07,Harare,Harare Sports Club,"Bangladesh, Zimbabwe",Bangladesh,normal,220 runs,Null,Bangladesh,bat,Mahmudullah,"L Rusere, M Erasmus",AJ Pycroft,Test,male
+1276901,2022-06-02,London,"Lord's, London","New Zealand, England",England,normal,5 wickets,Null,New Zealand,bat,JE Root,"MA Gough, RJ Tucker",RB Richardson,Test,male
+1276902,2022-06-10,Nottingham,"Trent Bridge, Nottingham","New Zealand, England",England,normal,5 wickets,Null,England,field,JM Bairstow,"MA Gough, PR Reiffel",RB Richardson,Test,male
+1276903,2022-06-23,Leeds,"Headingley, Leeds","New Zealand, England",England,normal,7 wickets,Null,New Zealand,bat,MJ Leach,"M Erasmus, RA Kettleborough",DC Boon,Test,male
+1276916,2022-08-17,London,"Lord's, London","England, South Africa",South Africa,normal,12 runs,Null,South Africa,field,K Rabada,"Nitin Menon, RK Illingworth",RS Madugalle,Test,male
+1276917,2022-08-25,Manchester,"Old Trafford, Manchester","South Africa, England",England,normal,85 runs,Null,South Africa,bat,BA Stokes,"CB Gaffaney, RK Illingworth",RS Madugalle,Test,male
+1276918,2022-09-08,London,"Kennington Oval, London","South Africa, England",England,normal,9 wickets,Null,England,field,OE Robinson,"Nitin Menon, RA Kettleborough",RS Madugalle,Test,male
+1277079,2021-12-26,Centurion,"SuperSport Park, Centurion","India, South Africa",India,normal,113 runs,Null,India,bat,KL Rahul,"AT Holdstock, M Erasmus",AJ Pycroft,Test,male
+1277080,2022-01-03,Johannesburg,"The Wanderers Stadium, Johannesburg","India, South Africa",South Africa,normal,7 wickets,Null,India,bat,D Elgar,"A Paleker, M Erasmus",AJ Pycroft,Test,male
+1277081,2022-01-11,Cape Town,"Newlands, Cape Town","India, South Africa",South Africa,normal,7 wickets,Null,India,bat,KD Petersen,"AT Holdstock, M Erasmus",AJ Pycroft,Test,male
+1277100,2022-03-31,Durban,"Kingsmead, Durban","South Africa, Bangladesh",South Africa,normal,220 runs,Null,Bangladesh,field,KA Maharaj,"AT Holdstock, M Erasmus",AJ Pycroft,Test,male
+1277101,2022-04-08,Gqeberha,"St George's Park, Port Elizabeth","South Africa, Bangladesh",South Africa,normal,332 runs,Null,South Africa,bat,KA Maharaj,"A Paleker, M Erasmus",AJ Pycroft,Test,male
+1277977,2021-11-26,Chattogram,"Zahur Ahmed Chowdhury Stadium, Chattogram","Bangladesh, Pakistan",Pakistan,normal,8 wickets,Null,Bangladesh,bat,Abid Ali,"MA Gough, Sharfuddoula",Neeyamur Rashid,Test,male
+1277978,2021-12-04,Dhaka,"Shere Bangla National Stadium, Mirpur","Pakistan, Bangladesh",Pakistan,normal,8 runs,Null,Pakistan,bat,Sajid Khan,"MA Gough, Sharfuddoula",Neeyamur Rashid,Test,male
+1278674,2021-11-25,Kanpur,"Green Park, Kanpur","India, New Zealand",Null,draw,Null,Null,India,bat,SS Iyer,"Nitin Menon, VK Sharma",J Srinath,Test,male
+1278675,2021-12-03,Mumbai,"Wankhede Stadium, Mumbai","India, New Zealand",India,normal,372 runs,Null,India,bat,MA Agarwal,"AK Chaudhary, Nitin Menon",J Srinath,Test,male
+1278682,2022-03-04,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh","India, Sri Lanka",India,normal,222 runs,Null,India,bat,RA Jadeja,"Nitin Menon, VK Sharma",J Srinath,Test,male
+1278683,2022-03-12,Bengaluru,"M Chinnaswamy Stadium, Bengaluru","India, Sri Lanka",India,normal,238 runs,Null,India,bat,SS Iyer,"AK Chaudhary, Nitin Menon",J Srinath,Test,male
+1288310,2022-03-04,Rawalpindi,Rawalpindi Cricket Stadium,"Pakistan, Australia",Null,draw,Null,Null,Pakistan,bat,Imam-ul-Haq,"Ahsan Raza, Aleem Dar",RS Madugalle,Test,male
+1288311,2022-03-12,Karachi,"National Stadium, Karachi","Australia, Pakistan",Null,draw,Null,Null,Australia,bat,Babar Azam,"Ahsan Raza, Aleem Dar",RS Madugalle,Test,male
+1288312,2022-03-21,Lahore,"Gaddafi Stadium, Lahore","Australia, Pakistan",Australia,normal,115 runs,Null,Australia,bat,PJ Cummins,"Ahsan Raza, Aleem Dar",RS Madugalle,Test,male
+1288345,2021-11-21,Galle,Galle International Stadium,"Sri Lanka, West Indies",Sri Lanka,normal,187 runs,Null,Sri Lanka,bat,FDM Karunaratne,"HDPK Dharmasena, RSA Palliyaguruge",RS Madugalle,Test,male
+1288346,2021-11-29,Galle,Galle International Stadium,"Sri Lanka, West Indies",Sri Lanka,normal,164 runs,Null,Sri Lanka,bat,DM de Silva,"HDPK Dharmasena, RSA Palliyaguruge",RS Madugalle,Test,male
+1288979,2022-01-01,Mount Maunganui,"Bay Oval, Mount Maunganui","New Zealand, Bangladesh",Bangladesh,normal,8 wickets,Null,Bangladesh,field,Ebadat Hossain,"CM Brown, CB Gaffaney",JJ Crowe,Test,male
+1288980,2022-01-09,Christchurch,"Hagley Oval, Christchurch","New Zealand, Bangladesh",New Zealand,normal,117 runs,Null,Bangladesh,field,TWM Latham,"CB Gaffaney, WR Knights",JJ Crowe,Test,male
+1288981,2022-02-17,Christchurch,"Hagley Oval, Christchurch","South Africa, New Zealand",New Zealand,normal,276 runs,Null,New Zealand,field,MJ Henry,"CM Brown, CB Gaffaney",JJ Crowe,Test,male
+1288982,2022-02-25,Christchurch,"Hagley Oval, Christchurch","South Africa, New Zealand",South Africa,normal,198 runs,Null,South Africa,bat,K Rabada,"CM Brown, WR Knights",JJ Crowe,Test,male
+1301327,2022-06-27,Taunton,"The Cooper Associates County Ground, Taunton","South Africa, England",Null,draw,Null,Null,England,field,NR Sciver,"AY Harris, S Redfern",DT Jukes,Test,female
+1307301,2022-06-29,Galle,Galle International Stadium,"Sri Lanka, Australia",Australia,normal,10 wickets,Null,Sri Lanka,bat,C Green,"HDPK Dharmasena, Nitin Menon",J Srinath,Test,male
+1307302,2022-07-08,Galle,Galle International Stadium,"Australia, Sri Lanka",Sri Lanka,normal,39 runs,Null,Australia,bat,NGRP Jayasuriya,"HDPK Dharmasena, MA Gough",J Srinath,Test,male
+1308488,2022-05-15,Chattogram,"Zahur Ahmed Chowdhury Stadium, Chattogram","Sri Lanka, Bangladesh",Null,draw,Null,Null,Sri Lanka,bat,AD Mathews,"RA Kettleborough, Sharfuddoula",BC Broad,Test,male
+1308489,2022-05-23,Dhaka,"Shere Bangla National Stadium, Mirpur","Bangladesh, Sri Lanka",Sri Lanka,normal,10 wickets,Null,Bangladesh,bat,AM Fernando,"JS Wilson, Sharfuddoula",BC Broad,Test,male
+1317147,2022-06-16,North Sound,"Sir Vivian Richards Stadium, North Sound, Antigua","Bangladesh, West Indies",West Indies,normal,7 wickets,Null,West Indies,field,KAJ Roach,"CB Gaffaney, JS Wilson",JJ Crowe,Test,male
+1317148,2022-06-24,Gros Islet,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia","Bangladesh, West Indies",West Indies,normal,10 wickets,Null,West Indies,field,KR Mayers,"JS Wilson, RK Illingworth",JJ Crowe,Test,male
+1317484,2022-11-30,Perth,Perth Stadium,"Australia, West Indies",Australia,normal,164 runs,Null,Australia,bat,M Labuschagne,"RK Illingworth, RJ Tucker",BC Broad,Test,male
+1317485,2022-12-08,Adelaide,Adelaide Oval,"Australia, West Indies",Australia,normal,419 runs,Null,Australia,bat,TM Head,"HDPK Dharmasena, RJ Tucker",BC Broad,Test,male
+1317492,2022-12-17,Brisbane,"Brisbane Cricket Ground, Woolloongabba, Brisbane","South Africa, Australia",Australia,normal,6 wickets,Null,Australia,field,TM Head,"CB Gaffaney, RJ Tucker",RB Richardson,Test,male
+1317493,2022-12-26,Melbourne,Melbourne Cricket Ground,"South Africa, Australia",Australia,normal,182 runs,Null,Australia,field,DA Warner,"PR Reiffel, RA Kettleborough",RB Richardson,Test,male
+1317494,2023-01-04,Sydney,Sydney Cricket Ground,"Australia, South Africa",Null,draw,Null,Null,Australia,bat,UT Khawaja,"CB Gaffaney, PR Reiffel",RB Richardson,Test,male
+1320741,2022-07-01,Birmingham,"Edgbaston, Birmingham","India, England",England,normal,7 wickets,Null,England,field,JM Bairstow,"Aleem Dar, RA Kettleborough",DC Boon,Test,male
+1320953,2022-07-16,Galle,Galle International Stadium,"Sri Lanka, Pakistan",Pakistan,normal,4 wickets,Null,Sri Lanka,bat,Abdullah Shafique,"HDPK Dharmasena, M Erasmus",JJ Crowe,Test,male
+1320954,2022-07-24,Galle,Galle International Stadium,"Sri Lanka, Pakistan",Sri Lanka,normal,246 runs,Null,Sri Lanka,bat,DM de Silva,"HDPK Dharmasena, RJ Tucker",JJ Crowe,Test,male
+1322355,2023-02-16,Mount Maunganui,"Bay Oval, Mount Maunganui","England, New Zealand",England,normal,267 runs,Null,New Zealand,field,HC Brook,"Aleem Dar, CB Gaffaney",DC Boon,Test,male
+1322356,2023-02-24,Wellington,"Basin Reserve, Wellington","England, New Zealand",New Zealand,normal,1 runs,Null,New Zealand,field,KS Williamson,"CB Gaffaney, RJ Tucker",DC Boon,Test,male
+1322357,2023-03-09,Christchurch,"Hagley Oval, Christchurch","Sri Lanka, New Zealand",New Zealand,normal,2 wickets,Null,New Zealand,field,DJ Mitchell,"CB Gaffaney, MA Gough",RB Richardson,Test,male
+1322358,2023-03-17,Wellington,"Basin Reserve, Wellington","New Zealand, Sri Lanka",New Zealand,normal,58 runs,Null,Sri Lanka,field,HM Nicholls,"CB Gaffaney, RK Illingworth",RB Richardson,Test,male
+1330871,2022-12-01,Rawalpindi,Rawalpindi Cricket Stadium,"England, Pakistan",England,normal,74 runs,Null,England,bat,OE Robinson,"Ahsan Raza, JS Wilson",AJ Pycroft,Test,male
+1330872,2022-12-09,Multan,Multan Cricket Stadium,"England, Pakistan",England,normal,26 runs,Null,England,bat,HC Brook,"Aleem Dar, M Erasmus",AJ Pycroft,Test,male
+1330873,2022-12-17,Karachi,"National Stadium, Karachi","Pakistan, England",England,normal,8 wickets,Null,Pakistan,bat,HC Brook,"Ahsan Raza, JS Wilson",AJ Pycroft,Test,male
+1336043,2023-06-16,Birmingham,"Edgbaston, Birmingham","England, Australia",Australia,normal,2 wickets,Null,England,bat,UT Khawaja,"Ahsan Raza, M Erasmus",AJ Pycroft,Test,male
+1336044,2023-06-28,London,"Lord's, London","Australia, England",Australia,normal,43 runs,Null,England,field,SPD Smith,"Ahsan Raza, CB Gaffaney",AJ Pycroft,Test,male
+1336045,2023-07-06,Leeds,"Headingley, Leeds","Australia, England",England,normal,3 wickets,Null,England,field,MA Wood,"HDPK Dharmasena, Nitin Menon",RS Madugalle,Test,male
+1336046,2023-07-19,Manchester,"Old Trafford, Manchester","Australia, England",Null,draw,Null,Null,England,field,Z Crawley,"JS Wilson, Nitin Menon",RS Madugalle,Test,male
+1336047,2023-07-27,London,"Kennington Oval, London","England, Australia",England,normal,49 runs,Null,Australia,field,CR Woakes,"JS Wilson, HDPK Dharmasena",RS Madugalle,Test,male
+1336073,2023-06-22,Nottingham,"Trent Bridge, Nottingham","Australia, England",Australia,normal,89 runs,Null,Australia,bat,A Gardner,"AY Harris, S McLelland, S Redfern",DT Jukes,Test,female
+1336127,2023-06-01,London,"Lord's, London","Ireland, England",England,normal,10 wickets,Null,England,field,OJ Pope,"AT Holdstock, P Wilson",RB Richardson,Test,male
+1339599,2023-02-28,Centurion,"SuperSport Park, Centurion","South Africa, West Indies",South Africa,normal,87 runs,Null,South Africa,bat,AK Markram,"HDPK Dharmasena, M Erasmus",RS Madugalle,Test,male
+1339600,2023-03-08,Johannesburg,"The Wanderers Stadium, Johannesburg","South Africa, West Indies",South Africa,normal,284 runs,Null,South Africa,bat,T Bavuma,"M Erasmus, PR Reiffel",RS Madugalle,Test,male
+1339609,2022-12-26,Karachi,"National Stadium, Karachi","Pakistan, New Zealand",Null,draw,Null,Null,Pakistan,bat,KS Williamson,"Aleem Dar, AG Wharf",Muhammad Javed,Test,male
+1339610,2023-01-02,Karachi,"National Stadium, Karachi","New Zealand, Pakistan",Null,draw,Null,Null,New Zealand,bat,Sarfraz Ahmed,"Aleem Dar, AG Wharf",DC Boon,Test,male
+1340848,2022-12-14,Chattogram,"Zahur Ahmed Chowdhury Stadium, Chattogram","India, Bangladesh",India,normal,188 runs,Null,India,bat,Kuldeep Yadav,"MA Gough, Sharfuddoula",RS Madugalle,Test,male
+1340849,2022-12-22,Dhaka,"Shere Bangla National Stadium, Mirpur","Bangladesh, India",India,normal,3 wickets,Null,Bangladesh,bat,R Ashwin,"CM Brown, Sharfuddoula",RS Madugalle,Test,male
+1348652,2023-02-09,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur","Australia, India",India,normal,132 runs,Null,Australia,bat,RA Jadeja,"Nitin Menon, RK Illingworth",AJ Pycroft,Test,male
+1348653,2023-02-17,Delhi,"Arun Jaitley Stadium, Delhi","Australia, India",India,normal,6 wickets,Null,Australia,bat,RA Jadeja,"MA Gough, Nitin Menon",AJ Pycroft,Test,male
+1348654,2023-03-01,Indore,"Holkar Cricket Stadium, Indore","India, Australia",Australia,normal,9 wickets,Null,India,bat,NM Lyon,"JS Wilson, Nitin Menon",BC Broad,Test,male
+1348655,2023-03-09,Ahmedabad,"Narendra Modi Stadium, Ahmedabad","Australia, India",Null,draw,Null,Null,Australia,bat,V Kohli,"Nitin Menon, RA Kettleborough",BC Broad,Test,male
+1350681,2023-02-04,Bulawayo,"Queens Sports Club, Bulawayo","West Indies, Zimbabwe",Null,draw,Null,Null,West Indies,bat,T Chanderpaul,"L Rusere, PR Reiffel",JJ Crowe,Test,male
+1350682,2023-02-12,Bulawayo,"Queens Sports Club, Bulawayo","Zimbabwe, West Indies",West Indies,normal,4 runs,Null,Zimbabwe,bat,G Motie,"L Rusere, PR Reiffel",JJ Crowe,Test,male
+1355723,2023-04-04,Dhaka,"Shere Bangla National Stadium, Mirpur","Ireland, Bangladesh",Bangladesh,normal,7 wickets,Null,Ireland,bat,Mushfiqur Rahim,"Aleem Dar, Sharfuddoula",DC Boon,Test,male
+1358412,2023-06-07,London,"Kennington Oval, London","Australia, India",Australia,normal,209 runs,Null,India,field,TM Head,"CB Gaffaney, RK Illingworth",RB Richardson,Test,male
+1363447,2023-04-16,Galle,Galle International Stadium,"Sri Lanka, Ireland",Sri Lanka,normal,280 runs,Null,Sri Lanka,bat,NGRP Jayasuriya,"AT Holdstock, HDPK Dharmasena",J Srinath,Test,male
+1363448,2023-04-24,Galle,Galle International Stadium,"Ireland, Sri Lanka",Sri Lanka,normal,10 runs,Null,Ireland,bat,NGRP Jayasuriya,"HDPK Dharmasena, PR Reiffel",J Srinath,Test,male
+1375842,2023-12-14,Perth,Perth Stadium,"Australia, Pakistan",Australia,normal,360 runs,Null,Australia,bat,MR Marsh,"JS Wilson, RK Illingworth",J Srinath,Test,male
+1375843,2023-12-26,Melbourne,Melbourne Cricket Ground,"Australia, Pakistan",Australia,normal,79 runs,Null,Pakistan,field,PJ Cummins,"JS Wilson, MA Gough",J Srinath,Test,male
+1375844,2024-01-03,Sydney,Sydney Cricket Ground,"Pakistan, Australia",Australia,normal,8 wickets,Null,Pakistan,bat,Aamer Jamal,"MA Gough, RK Illingworth",J Srinath,Test,male
+1375845,2024-01-17,Adelaide,Adelaide Oval,"West Indies, Australia",Australia,normal,10 wickets,Null,Australia,field,TM Head,"AT Holdstock, Nitin Menon",AJ Pycroft,Test,male
+1375846,2024-01-25,Brisbane,"Brisbane Cricket Ground, Woolloongabba, Brisbane","West Indies, Australia",West Indies,normal,8 runs,Null,West Indies,bat,S Joseph,"Nitin Menon, Sharfuddoula",AJ Pycroft,Test,male
+1375875,2024-02-15,Perth,"Western Australia Cricket Association Ground, Perth","South Africa, Australia",Australia,normal,284 runs,Null,Australia,field,A Sutherland,"CA Polosak, Eloise Sheridan",Dave Gilbert,Test,female
+1381212,2023-07-12,Roseau,"Windsor Park, Roseau, Dominica","West Indies, India",India,normal,141 runs,Null,West Indies,bat,YBK Jaiswal,"MA Gough, RA Kettleborough",JJ Crowe,Test,male
+1381213,2023-07-20,Port of Spain,"Queen's Park Oval, Port of Spain, Trinidad","India, West Indies",Null,draw,Null,Null,West Indies,field,Mohammed Siraj,"M Erasmus, RA Kettleborough",JJ Crowe,Test,male
+1385685,2023-07-16,Galle,Galle International Stadium,"Sri Lanka, Pakistan",Pakistan,normal,4 wickets,Null,Sri Lanka,bat,Saud Shakeel,"AG Wharf, RJ Tucker",DC Boon,Test,male
+1385686,2023-07-24,Colombo,"Sinhalese Sports Club Ground, Colombo","Sri Lanka, Pakistan",Pakistan,normal,222 runs,Null,Sri Lanka,bat,Abdullah Shafique,"AG Wharf, CB Gaffaney, RR Wimalasiri",DC Boon,Test,male
+1385691,2024-07-10,London,"Lord's, London","West Indies, England",England,normal,114 runs,Null,England,field,AAP Atkinson,"Nitin Menon, RJ Tucker",J Srinath,Test,male
+1385692,2024-07-18,Nottingham,"Trent Bridge, Nottingham","England, West Indies",England,normal,241 runs,Null,West Indies,field,OJ Pope,"AT Holdstock, RJ Tucker",J Srinath,Test,male
+1385693,2024-07-26,Birmingham,"Edgbaston, Birmingham","West Indies, England",England,normal,10 wickets,Null,West Indies,bat,MA Wood,"AT Holdstock, Nitin Menon",J Srinath,Test,male
+1385694,2024-08-21,Manchester,"Old Trafford, Manchester","Sri Lanka, England",England,normal,5 wickets,Null,Sri Lanka,bat,JL Smith,"CB Gaffaney, PR Reiffel",DC Boon,Test,male
+1385695,2024-08-29,London,"Lord's, London","England, Sri Lanka",England,normal,190 runs,Null,Sri Lanka,field,AAP Atkinson,"JS Wilson, PR Reiffel",DC Boon,Test,male
+1385696,2024-09-06,London,"Kennington Oval, London","England, Sri Lanka",Sri Lanka,normal,8 wickets,Null,Sri Lanka,field,P Nissanka,"CB Gaffaney, JS Wilson",DC Boon,Test,male
+1387603,2023-12-26,Centurion,"SuperSport Park, Centurion","India, South Africa",South Africa,normal,32 runs,Null,South Africa,field,D Elgar,"L Rusere, PR Reiffel",BC Broad,Test,male
+1387604,2024-01-03,Cape Town,"Newlands, Cape Town","South Africa, India",India,normal,7 wickets,Null,South Africa,bat,Mohammed Siraj,"Ahsan Raza, L Rusere",BC Broad,Test,male
+1388221,2024-02-04,Mount Maunganui,"Bay Oval, Mount Maunganui","New Zealand, South Africa",New Zealand,normal,281 runs,Null,South Africa,field,R Ravindra,"Ahsan Raza, RA Kettleborough",J Srinath,Test,male
+1388222,2024-02-13,Hamilton,"Seddon Park, Hamilton","South Africa, New Zealand",New Zealand,normal,7 wickets,Null,South Africa,bat,W O'Rourke,"Ahsan Raza, RK Illingworth",J Srinath,Test,male
+1388226,2024-02-29,Wellington,"Basin Reserve, Wellington","Australia, New Zealand",Australia,normal,172 runs,Null,New Zealand,field,C Green,"M Erasmus, MA Gough",RS Madugalle,Test,male
+1388227,2024-03-08,Christchurch,"Hagley Oval, Christchurch","New Zealand, Australia",Australia,normal,3 wickets,Null,Australia,field,AT Carey,"M Erasmus, Nitin Menon",RS Madugalle,Test,male
+1389399,2024-01-25,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad","England, India",England,normal,28 runs,Null,England,bat,OJ Pope,"CB Gaffaney, PR Reiffel",RB Richardson,Test,male
+1389400,2024-02-02,Visakhapatnam,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam","India, England",India,normal,106 runs,Null,India,bat,JJ Bumrah,"CB Gaffaney, M Erasmus",RB Richardson,Test,male
+1389401,2024-02-15,Rajkot,"Saurashtra Cricket Association Stadium, Rajkot","India, England",India,normal,434 runs,Null,India,bat,RA Jadeja,"JS Wilson, HDPK Dharmasena",JJ Crowe,Test,male
+1389402,2024-02-23,Ranchi,"JSCA International Stadium Complex, Ranchi","England, India",India,normal,5 wickets,Null,England,bat,Dhruv Jurel,"HDPK Dharmasena, RJ Tucker",JJ Crowe,Test,male
+1389403,2024-03-07,Dharamsala,"Himachal Pradesh Cricket Association Stadium, Dharamsala","England, India",India,normal,64 runs,Null,England,bat,Kuldeep Yadav,"JS Wilson, RJ Tucker",JJ Crowe,Test,male
+1395703,2023-11-28,Sylhet,Sylhet International Cricket Stadium,"Bangladesh, New Zealand",Bangladesh,normal,150 runs,Null,Bangladesh,bat,Taijul Islam,"Ahsan Raza, PR Reiffel",DC Boon,Test,male
+1395704,2023-12-06,Dhaka,"Shere Bangla National Stadium, Mirpur","Bangladesh, New Zealand",New Zealand,normal,4 wickets,Null,Bangladesh,bat,GD Phillips,"PR Reiffel, RJ Tucker",DC Boon,Test,male
+1406076,2023-12-14,Navi Mumbai,"Dr DY Patil Sports Academy, Mumbai","India, England",India,normal,347 runs,Null,India,bat,DB Sharma,"KN Ananthapadmanabhan, VG Rathi",GS Lakshmi,Test,female
+1406077,2023-12-21,Mumbai,"Wankhede Stadium, Mumbai","Australia, India",India,normal,8 wickets,Null,Australia,bat,S Rana,"AK Chaudhary, N Janani",GS Lakshmi,Test,female
+1419830,2024-03-22,Sylhet,Sylhet International Cricket Stadium,"Sri Lanka, Bangladesh",Sri Lanka,normal,328 runs,Null,Bangladesh,field,DM de Silva,"CB Gaffaney, RK Illingworth",JJ Crowe,Test,male
+1419831,2024-03-30,Chattogram,"Zahur Ahmed Chowdhury Stadium, Chattogram","Sri Lanka, Bangladesh",Sri Lanka,normal,192 runs,Null,Sri Lanka,bat,PHKD Mendis,"RK Illingworth, RJ Tucker",JJ Crowe,Test,male
+1426555,2024-11-22,Perth,Perth Stadium,"India, Australia",India,normal,295 runs,Null,India,bat,JJ Bumrah,"CB Gaffaney, RA Kettleborough",RS Madugalle,Test,male
+1426556,2024-12-06,Adelaide,Adelaide Oval,"India, Australia",Australia,normal,10 wickets,Null,India,bat,TM Head,"CB Gaffaney, RK Illingworth",RS Madugalle,Test,male
+1426557,2024-12-14,Brisbane,"Brisbane Cricket Ground, Woolloongabba, Brisbane","Australia, India",Null,draw,Null,Null,India,field,TM Head,"RK Illingworth, RA Kettleborough",RS Madugalle,Test,male
+1426558,2024-12-26,Melbourne,Melbourne Cricket Ground,"Australia, India",Australia,normal,184 runs,Null,Australia,bat,PJ Cummins,"JS Wilson, MA Gough",AJ Pycroft,Test,male
+1426559,2025-01-03,Sydney,Sydney Cricket Ground,"India, Australia",Australia,normal,6 wickets,Null,India,bat,SM Boland,"MA Gough, Sharfuddoula",AJ Pycroft,Test,male
+1426629,2025-01-30,Melbourne,Melbourne Cricket Ground,"England, Australia",Australia,normal,122 runs,Null,Australia,field,A Sutherland,"CA Polosak, Eloise Sheridan",Kent Hannam,Test,female
+1428554,2024-11-28,Christchurch,"Hagley Oval, Christchurch","New Zealand, England",England,normal,8 wickets,Null,England,field,BA Carse,"Ahsan Raza, RJ Tucker",DC Boon,Test,male
+1428555,2024-12-06,Wellington,"Basin Reserve, Wellington","England, New Zealand",England,normal,323 runs,Null,New Zealand,field,HC Brook,"AT Holdstock, RJ Tucker",DC Boon,Test,male
+1428556,2024-12-14,Hamilton,"Seddon Park, Hamilton","New Zealand, England",New Zealand,normal,423 runs,Null,England,field,MJ Santner,"AT Holdstock, Ahsan Raza",DC Boon,Test,male
+1431085,2024-07-25,Belfast,"Civil Service Cricket Club, Stormont, Belfast","Zimbabwe, Ireland",Ireland,normal,4 wickets,Null,Ireland,field,AR McBrine,"RA Kettleborough, Sharfuddoula",JJ Crowe,Test,male
+1432209,2024-11-27,Durban,"Kingsmead, Durban","South Africa, Sri Lanka",South Africa,normal,233 runs,Null,Sri Lanka,field,M Jansen,"PR Reiffel, Sharfuddoula",J Srinath,Test,male
+1432210,2024-12-05,Gqeberha,"St George's Park, Gqeberha","South Africa, Sri Lanka",South Africa,normal,109 runs,Null,South Africa,bat,D Paterson,"JS Wilson, PR Reiffel",J Srinath,Test,male
+1432217,2024-12-26,Centurion,"SuperSport Park, Centurion","Pakistan, South Africa",South Africa,normal,2 wickets,Null,South Africa,field,AK Markram,"AG Wharf, Nitin Menon",RB Richardson,Test,male
+1432218,2025-01-03,Cape Town,"Newlands, Cape Town","South Africa, Pakistan",South Africa,normal,10 wickets,Null,South Africa,bat,RD Rickelton,"HDPK Dharmasena, Nitin Menon",RB Richardson,Test,male
+1432231,2024-12-15,Bloemfontein,"Mangaung Oval, Bloemfontein","England, South Africa",England,normal,286 runs,Null,England,bat,LK Bell,"K Klaaste, Lauren Agenbag",SA Fritz,Test,female
+1433365,2024-08-07,Port of Spain,"Queen's Park Oval, Port of Spain, Trinidad","South Africa, West Indies",Null,draw,Null,Null,South Africa,bat,KA Maharaj,"Ahsan Raza, RK Illingworth",AJ Pycroft,Test,male
+1433366,2024-08-15,Providence,"Providence Stadium, Guyana","South Africa, West Indies",South Africa,normal,40 runs,Null,South Africa,bat,PWA Mulder,"Ahsan Raza, Sharfuddoula",AJ Pycroft,Test,male
+1433378,2024-11-22,North Sound,"Sir Vivian Richards Stadium, North Sound, Antigua","West Indies, Bangladesh",West Indies,normal,201 runs,Null,Bangladesh,field,JP Greaves,"HDPK Dharmasena, Nitin Menon",JJ Crowe,Test,male
+1433379,2024-11-30,Kingston,"Sabina Park, Kingston, Jamaica","Bangladesh, West Indies",Bangladesh,normal,101 runs,Null,Bangladesh,bat,Taijul Islam,"Asif Yaqoob, HDPK Dharmasena",JJ Crowe,Test,male
+1434290,2024-06-28,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai","India, South Africa",India,normal,10 wickets,Null,India,bat,S Rana,"Gayathri Venugopal, VK Sharma",GS Lakshmi,Test,female
+1439891,2024-09-19,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai","India, Bangladesh",India,normal,280 runs,Null,Bangladesh,field,R Ashwin,"RA Kettleborough, RJ Tucker",JJ Crowe,Test,male
+1439892,2024-09-27,Kanpur,"Green Park, Kanpur","Bangladesh, India",India,normal,7 wickets,Null,India,field,YBK Jaiswal,"CM Brown, RA Kettleborough",JJ Crowe,Test,male
+1439896,2024-10-16,Bengaluru,"M Chinnaswamy Stadium, Bengaluru","India, New Zealand",New Zealand,normal,8 wickets,Null,India,bat,R Ravindra,"MA Gough, PR Reiffel",DC Boon,Test,male
+1439897,2024-10-24,Pune,"Maharashtra Cricket Association Stadium, Pune","New Zealand, India",New Zealand,normal,113 runs,Null,New Zealand,bat,MJ Santner,"PR Reiffel, RK Illingworth",DC Boon,Test,male
+1439898,2024-11-01,Mumbai,"Wankhede Stadium, Mumbai","New Zealand, India",New Zealand,normal,25 runs,Null,New Zealand,bat,AY Patel,"MA Gough, RK Illingworth",DC Boon,Test,male
+1442213,2024-08-21,Rawalpindi,Rawalpindi Cricket Stadium,"Pakistan, Bangladesh",Bangladesh,normal,10 wickets,Null,Bangladesh,field,Mushfiqur Rahim,"AT Holdstock, RA Kettleborough",RS Madugalle,Test,male
+1442214,2024-08-30,Rawalpindi,Rawalpindi Cricket Stadium,"Pakistan, Bangladesh",Bangladesh,normal,6 wickets,Null,Bangladesh,field,Liton Das,"MA Gough, RA Kettleborough",RS Madugalle,Test,male
+1442215,2024-10-07,Multan,Multan Cricket Stadium,"Pakistan, England",England,normal,47 runs,Null,Pakistan,bat,HC Brook,"HDPK Dharmasena, Sharfuddoula",RB Richardson,Test,male
+1442216,2024-10-15,Multan,Multan Cricket Stadium,"Pakistan, England",Pakistan,normal,152 runs,Null,Pakistan,bat,Sajid Khan,"CB Gaffaney, HDPK Dharmasena",RB Richardson,Test,male
+1442217,2024-10-24,Rawalpindi,Rawalpindi Cricket Stadium,"England, Pakistan",Pakistan,normal,9 wickets,Null,England,bat,Saud Shakeel,"CB Gaffaney, Sharfuddoula",RB Richardson,Test,male
+1442218,2025-01-17,Multan,Multan Cricket Stadium,"Pakistan, West Indies",Pakistan,normal,127 runs,Null,Pakistan,bat,Sajid Khan,"RA Kettleborough, RJ Tucker",RS Madugalle,Test,male
+1442219,2025-01-25,Multan,Multan Cricket Stadium,"West Indies, Pakistan",West Indies,normal,120 runs,Null,West Indies,bat,JA Warrican,"PR Reiffel, RJ Tucker",RS Madugalle,Test,male
+1447096,2024-09-18,Galle,Galle International Stadium,"Sri Lanka, New Zealand",Sri Lanka,normal,63 runs,Null,Sri Lanka,bat,NGRP Jayasuriya,"Ahsan Raza, MA Gough",J Srinath,Test,male
+1447097,2024-09-26,Galle,Galle International Stadium,"Sri Lanka, New Zealand",Sri Lanka,normal,154 runs,Null,Sri Lanka,bat,PHKD Mendis,"MA Gough, Nitin Menon",J Srinath,Test,male
+1453293,2024-10-21,Dhaka,"Shere Bangla National Stadium, Mirpur","Bangladesh, South Africa",South Africa,normal,7 wickets,Null,Bangladesh,bat,K Verreynne,"JS Wilson, Nitin Menon",AJ Pycroft,Test,male
+1453294,2024-10-29,Chattogram,"Zahur Ahmed Chowdhury Stadium, Chattogram","South Africa, Bangladesh",South Africa,normal,273 runs,Null,South Africa,bat,T de Zorzi,"JS Wilson, L Rusere",AJ Pycroft,Test,male
+1459906,2025-01-29,Galle,Galle International Stadium,"Australia, Sri Lanka",Australia,normal,242 runs,Null,Australia,bat,UT Khawaja,"AT Holdstock, CB Gaffaney",JJ Crowe,Test,male
+1459907,2025-02-06,Galle,Galle International Stadium,"Sri Lanka, Australia",Australia,normal,9 wickets,Null,Sri Lanka,bat,AT Carey,"AT Holdstock, JS Wilson",JJ Crowe,Test,male
+1467700,2025-02-06,Bulawayo,"Queens Sports Club, Bulawayo","Ireland, Zimbabwe",Ireland,normal,63 runs,Null,Ireland,bat,AR McBrine,"Ahsan Raza, HDPK Dharmasena",RB Richardson,Test,male
+207334,2005-04-21,Bridgetown,Kensington Oval,"West Indies, South Africa",South Africa,normal,86 runs,Null,West Indies,bat,A Nel,"BF Bowden, SJA Taufel",JJ Crowe,Test,male
+208321,2005-04-29,St John's,Antigua Recreation Ground,"South Africa, West Indies",Null,draw,Null,Null,South Africa,bat,CH Gayle,"BF Bowden, SJA Taufel",JJ Crowe,Test,male
+210366,2005-06-03,Chester-le-Street,Riverside Ground,"Bangladesh, England",England,normal,27 runs,Null,England,field,MJ Hoggard,"DJ Harper, AL Hill",AG Hurst,Test,male
+215253,2005-08-07,Harare,Harare Sports Club,"New Zealand, Zimbabwe",New Zealand,normal,294 runs,Null,Zimbabwe,field,DL Vettori,"DB Hair, MR Benson",BC Broad,Test,male
+216055,2005-08-15,Bulawayo,Queens Sports Club,"Zimbabwe, New Zealand",New Zealand,normal,46 runs,Null,Zimbabwe,bat,SE Bond,"DB Hair, MR Benson",BC Broad,Test,male
+216932,2005-08-24,Worcester,"County Ground, New Road, Worcester","Australia, England",England,normal,6 wickets,Null,England,field,KH Brunt,"J Hayes, RK Illingworth",Null,Test,female
+218813,2005-09-12,Colombo,R.Premadasa Stadium,"Bangladesh, Sri Lanka",Sri Lanka,normal,96 runs,Null,Sri Lanka,field,M Muralitharan,"Asad Rauf, SA Bucknor",CH Lloyd,Test,male
+219062,2005-09-13,Bulawayo,Queens Sports Club,"Zimbabwe, India",India,normal,90 runs,Null,Zimbabwe,bat,IK Pathan,"Aleem Dar, DJ Harper",MJ Procter,Test,male
+219612,2005-09-20,Colombo,P Sara Oval,"Sri Lanka, Bangladesh",Sri Lanka,normal,69 runs,Null,Sri Lanka,bat,TT Samaraweera,"BF Bowden, SA Bucknor",CH Lloyd,Test,male
+221840,2005-10-14,Sydney,Sydney Cricket Ground,"Australia, ICC World XI",Australia,normal,210 runs,Null,Australia,bat,ML Hayden,"RE Koertzen, SJA Taufel",RS Madugalle,Test,male
+225164,2006-08-08,Leicester,"Grace Road, Leicester","England, India",Null,draw,Null,Null,England,bat,Null,"JW Lloyds, TE Jesty",Null,Test,female
+225255,2006-07-13,London,Lord's,"England, Pakistan",Null,draw,Null,Null,England,bat,Mohammad Yousuf,"SA Bucknor, SJA Taufel",RS Madugalle,Test,male
+225256,2006-07-27,Manchester,Old Trafford,"Pakistan, England",England,normal,120 runs,Null,Pakistan,bat,SJ Harmison,"SA Bucknor, SJA Taufel",RS Madugalle,Test,male
+225257,2006-08-04,Leeds,Headingley,"England, Pakistan",England,normal,167 runs,Null,England,bat,Younis Khan,"DB Hair, BR Doctrove",RS Madugalle,Test,male
+225258,2006-08-17,London,Kennington Oval,"England, Pakistan",England,normal,Null,Null,Pakistan,field,Null,"DB Hair, BR Doctrove",MJ Procter,Test,male
+225264,2006-05-11,London,Lord's,"England, Sri Lanka",Null,draw,Null,Null,England,bat,DPMD Jayawardene,"Aleem Dar, RE Koertzen",AG Hurst,Test,male
+225265,2006-05-25,Birmingham,Edgbaston,"Sri Lanka, England",England,normal,6 wickets,Null,Sri Lanka,bat,KP Pietersen,"Aleem Dar, DB Hair",AG Hurst,Test,male
+225266,2006-06-02,Nottingham,Trent Bridge,"Sri Lanka, England",Sri Lanka,normal,134 runs,Null,Sri Lanka,bat,M Muralitharan,"RE Koertzen, DB Hair",AG Hurst,Test,male
+225443,2005-11-12,Multan,Multan Cricket Stadium,"Pakistan, England",Pakistan,normal,22 runs,Null,Pakistan,bat,Salman Butt,"BF Bowden, SJA Taufel",RS Mahanama,Test,male
+226120,2005-11-17,Hobart,Bellerive Oval,"West Indies, Australia",Australia,normal,9 wickets,Null,West Indies,bat,MEK Hussey,"Aleem Dar, RE Koertzen",MJ Procter,Test,male
+226350,2005-11-20,Faisalabad,Iqbal Stadium,"Pakistan, England",Null,draw,Null,Null,Pakistan,bat,Inzamam-ul-Haq,"DB Hair, SJA Taufel",RS Mahanama,Test,male
+226363,2005-12-18,Ahmedabad,Sardar Patel Stadium,"India, Sri Lanka",India,normal,259 runs,Null,India,bat,Harbhajan Singh,"BF Bowden, Nadeem Ghauri",CH Lloyd,Test,male
+226372,2005-12-26,Melbourne,Melbourne Cricket Ground,"Australia, South Africa",Australia,normal,184 runs,Null,Australia,bat,MEK Hussey,"Asad Rauf, SA Bucknor",BC Broad,Test,male
+226373,2006-01-02,Sydney,Sydney Cricket Ground,"South Africa, Australia",Australia,normal,8 wickets,Null,South Africa,bat,RT Ponting,"BF Bowden, Aleem Dar",BC Broad,Test,male
+233797,2006-01-21,Faisalabad,Iqbal Stadium,"Pakistan, India",Null,draw,Null,Null,Pakistan,bat,RP Singh,"RE Koertzen, SJA Taufel",RS Madugalle,Test,male
+234783,2006-01-29,Karachi,National Stadium,"Pakistan, India",Pakistan,normal,341 runs,Null,India,field,Kamran Akmal,"DJ Harper, SJA Taufel",RS Madugalle,Test,male
+238167,2006-02-28,Chattogram,Zahur Ahmed Chowdhury Stadium,"Bangladesh, Sri Lanka",Sri Lanka,normal,8 wickets,Null,Bangladesh,bat,Mohammad Ashraful,"Asad Rauf, SA Bucknor",CH Lloyd,Test,male
+238168,2006-03-08,Bogra,Shaheed Chandu Stadium,"Bangladesh, Sri Lanka",Sri Lanka,normal,10 wickets,Null,Bangladesh,bat,WU Tharanga,"Asad Rauf, K Hariharan",CH Lloyd,Test,male
+238171,2006-04-09,Fatullah,Khan Shaheb Osman Ali Stadium,"Bangladesh, Australia",Australia,normal,3 wickets,Null,Bangladesh,bat,AC Gilchrist,"Aleem Dar, Nadeem Ghauri",JJ Crowe,Test,male
+238180,2006-03-09,Auckland,Eden Park,"New Zealand, West Indies",New Zealand,normal,27 runs,Null,West Indies,field,SE Bond,"RE Koertzen, DJ Harper",MJ Procter,Test,male
+238186,2006-03-09,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali","England, India",India,normal,9 wickets,Null,England,bat,A Kumble,"DB Hair, SJA Taufel",RS Madugalle,Test,male
+238201,2006-03-16,Cape Town,Newlands,"South Africa, Australia",Australia,normal,7 wickets,Null,South Africa,bat,SR Clark,"Aleem Dar, BR Doctrove",BC Broad,Test,male
+238202,2006-03-24,Durban,Kingsmead,"Australia, South Africa",Australia,normal,112 runs,Null,Australia,bat,SK Warne,"SA Bucknor, BR Doctrove",BC Broad,Test,male
+238203,2006-03-31,Johannesburg,The Wanderers Stadium,"South Africa, Australia",Australia,normal,2 wickets,Null,South Africa,bat,B Lee,"SA Bucknor, AL Hill",BC Broad,Test,male
+238205,2006-04-15,Centurion,SuperSport Park,"South Africa, New Zealand",South Africa,normal,128 runs,Null,South Africa,bat,M Ntini,"MR Benson, DJ Harper",RS Madugalle,Test,male
+238206,2006-04-27,Cape Town,Newlands,"New Zealand, South Africa",Null,draw,Null,Null,South Africa,field,SP Fleming,"MR Benson, EAR de Silva",RS Madugalle,Test,male
+238207,2006-05-05,Johannesburg,The Wanderers Stadium,"New Zealand, South Africa",South Africa,normal,4 wickets,Null,South Africa,field,GC Smith,"EAR de Silva, DB Hair",RS Madugalle,Test,male
+238217,2006-04-03,Kandy,Asgiriya Stadium,"Sri Lanka, Pakistan",Pakistan,normal,8 wickets,Null,Pakistan,field,Mohammad Asif,"SJ Davis, DJ Harper",AG Hurst,Test,male
+239025,2006-03-01,Nagpur,Vidarbha C.A. Ground,"England, India",Null,draw,Null,Null,England,bat,MJ Hoggard,"Aleem Dar, IL Howell",RS Madugalle,Test,male
+239920,2006-06-02,Antigua,"Antigua Recreation Ground, St John's","India, West Indies",Null,draw,Null,Null,India,bat,W Jaffer,"Asad Rauf, SJA Taufel",JJ Crowe,Test,male
+239921,2006-06-10,St Lucia,"Daren Sammy National Cricket Stadium, Gros Islet","India, West Indies",Null,draw,Null,Null,India,bat,V Sehwag,"Asad Rauf, SJA Taufel",JJ Crowe,Test,male
+239922,2006-06-22,St Kitts,"Warner Park, Basseterre","West Indies, India",Null,draw,Null,Null,West Indies,bat,D Ganga,"RE Koertzen, BG Jerling",JJ Crowe,Test,male
+239923,2006-06-30,Jamaica,"Sabina Park, Kingston","India, West Indies",India,normal,49 runs,Null,India,bat,R Dravid,"RE Koertzen, BG Jerling",JJ Crowe,Test,male
+249193,2006-07-27,Colombo,Sinhalese Sports Club Ground,"South Africa, Sri Lanka",Sri Lanka,normal,153 runs,Null,South Africa,bat,DPMD Jayawardene,"MR Benson, BF Bowden",J Srinath,Test,male
+249194,2006-08-04,Colombo,P Sara Oval,"South Africa, Sri Lanka",Sri Lanka,normal,1 wickets,Null,South Africa,bat,DPMD Jayawardene,"BF Bowden, Aleem Dar",J Srinath,Test,male
+249215,2006-12-15,Johannesburg,The Wanderers Stadium,"India, South Africa",India,normal,123 runs,Null,India,bat,S Sreesanth,"MR Benson, DJ Harper",RS Mahanama,Test,male
+249216,2006-12-26,Durban,Kingsmead,"South Africa, India",South Africa,normal,174 runs,Null,South Africa,bat,M Ntini,"MR Benson, Asad Rauf",RS Mahanama,Test,male
+249217,2007-01-02,Cape Town,Newlands,"India, South Africa",South Africa,normal,5 wickets,Null,India,bat,GC Smith,"Asad Rauf, DJ Harper",RS Mahanama,Test,male
+249222,2006-11-23,Brisbane,"Brisbane Cricket Ground, Woolloongabba","Australia, England",Australia,normal,277 runs,Null,Australia,bat,RT Ponting,"BF Bowden, SA Bucknor",JJ Crowe,Test,male
+249223,2006-12-01,Adelaide,Adelaide Oval,"England, Australia",Australia,normal,6 wickets,Null,England,bat,RT Ponting,"SA Bucknor, RE Koertzen",JJ Crowe,Test,male
+249224,2006-12-14,Perth,W.A.C.A. Ground,"Australia, England",Australia,normal,206 runs,Null,Australia,bat,MEK Hussey,"Aleem Dar, RE Koertzen",JJ Crowe,Test,male
+249225,2006-12-26,Melbourne,Melbourne Cricket Ground,"England, Australia",Australia,normal,99 runs,Null,England,bat,SK Warne,"Aleem Dar, RE Koertzen",RS Madugalle,Test,male
+249226,2007-01-02,Sydney,Sydney Cricket Ground,"England, Australia",Australia,normal,10 wickets,Null,England,bat,SR Clark,"BF Bowden, Aleem Dar",RS Madugalle,Test,male
+250666,2007-01-19,Port Elizabeth,St George's Park,"South Africa, Pakistan",Pakistan,normal,5 wickets,Null,South Africa,bat,Inzamam-ul-Haq,"PD Parker, BR Doctrove",BC Broad,Test,male
+250667,2007-01-26,Cape Town,Newlands,"Pakistan, South Africa",South Africa,normal,5 wickets,Null,South Africa,field,JH Kallis,"PD Parker, SA Bucknor",BC Broad,Test,male
+251485,2006-12-07,Christchurch,AMI Stadium,"Sri Lanka, New Zealand",New Zealand,normal,5 wickets,Null,Sri Lanka,bat,SE Bond,"SJA Taufel, BG Jerling",J Srinath,Test,male
+251486,2006-12-15,Wellington,Basin Reserve,"Sri Lanka, New Zealand",Sri Lanka,normal,217 runs,Null,Sri Lanka,bat,LPC Silva,"SJA Taufel, BG Jerling",J Srinath,Test,male
+257765,2006-11-11,Lahore,Gaddafi Stadium,"West Indies, Pakistan",Pakistan,normal,9 wickets,Null,West Indies,bat,Umar Gul,"EAR de Silva, SJA Taufel",RS Mahanama,Test,male
+257766,2006-11-19,Null,Multan Cricket Stadium,"Pakistan, West Indies",Null,draw,Null,Null,Pakistan,bat,Mohammad Yousuf,"MR Benson, DJ Harper",RS Mahanama,Test,male
+258459,2007-05-17,London,Lord's,"England, West Indies",Null,draw,Null,Null,West Indies,field,AN Cook,"Asad Rauf, RE Koertzen",AG Hurst,Test,male
+258460,2007-05-25,Leeds,Headingley,"England, West Indies",England,normal,283 runs,Null,England,bat,KP Pietersen,"Asad Rauf, RE Koertzen",AG Hurst,Test,male
+258461,2007-06-07,Manchester,Old Trafford,"England, West Indies",England,normal,60 runs,Null,England,bat,MS Panesar,"BF Bowden, Aleem Dar",AG Hurst,Test,male
+258462,2007-06-15,Chester-le-Street,Riverside Ground,"West Indies, England",England,normal,7 wickets,Null,England,field,S Chanderpaul,"BF Bowden, Aleem Dar",AG Hurst,Test,male
+258468,2007-07-19,London,Lord's,"England, India",Null,draw,Null,Null,England,bat,KP Pietersen,"SA Bucknor, SJA Taufel",RS Madugalle,Test,male
+258469,2007-07-27,Nottingham,Trent Bridge,"England, India",India,normal,7 wickets,Null,India,field,Z Khan,"SJA Taufel, IL Howell",RS Madugalle,Test,male
+258470,2007-08-09,London,Kennington Oval,"India, England",Null,draw,Null,Null,India,bat,A Kumble,"SA Bucknor, IL Howell",RS Madugalle,Test,male
+282691,2007-05-18,Chattogram,Zahur Ahmed Chowdhury Stadium,"India, Bangladesh",Null,draw,Null,Null,India,bat,Mashrafe Mortaza,"DJ Harper, BR Doctrove",RS Mahanama,Test,male
+282692,2007-05-25,Dhaka,"Shere Bangla National Stadium, Mirpur","India, Bangladesh",India,normal,239 runs,Null,Bangladesh,field,Z Khan,"DJ Harper, BR Doctrove",RS Mahanama,Test,male
+291222,2007-12-01,Kandy,Asgiriya Stadium,"Sri Lanka, England",Sri Lanka,normal,88 runs,Null,Sri Lanka,bat,KC Sangakkara,"Asad Rauf, Aleem Dar",JJ Crowe,Test,male
+291223,2007-12-09,Colombo,Sinhalese Sports Club Ground,"England, Sri Lanka",Null,draw,Null,Null,England,bat,DPMD Jayawardene,"Aleem Dar, DJ Harper",JJ Crowe,Test,male
+291224,2007-12-18,Null,Galle International Stadium,"Sri Lanka, England",Null,draw,Null,Null,England,field,DPMD Jayawardene,"Asad Rauf, DJ Harper",JJ Crowe,Test,male
+291338,2007-11-08,Brisbane,"Brisbane Cricket Ground, Woolloongabba","Australia, Sri Lanka",Australia,normal,40 runs,Null,Sri Lanka,field,B Lee,"RE Koertzen, AL Hill",MJ Procter,Test,male
+291339,2007-11-16,Hobart,Bellerive Oval,"Australia, Sri Lanka",Australia,normal,96 runs,Null,Australia,bat,B Lee,"Aleem Dar, RE Koertzen",MJ Procter,Test,male
+291351,2007-12-26,Melbourne,Melbourne Cricket Ground,"Australia, India",Australia,normal,337 runs,Null,Australia,bat,ML Hayden,"MR Benson, BF Bowden",MJ Procter,Test,male
+291352,2008-01-02,Sydney,Sydney Cricket Ground,"Australia, India",Australia,normal,122 runs,Null,Australia,bat,A Symonds,"MR Benson, SA Bucknor",MJ Procter,Test,male
+291353,2008-01-16,Perth,Western Australia Cricket Association Ground,"Australia, India",India,normal,72 runs,Null,India,bat,IK Pathan,"Asad Rauf, BF Bowden",MJ Procter,Test,male
+291354,2008-01-24,Adelaide,Adelaide Oval,"Australia, India",Null,draw,Null,Null,India,bat,SR Tendulkar,"Asad Rauf, BF Bowden",MJ Procter,Test,male
+293478,2007-06-25,Colombo,Sinhalese Sports Club Ground,"Bangladesh, Sri Lanka",Sri Lanka,normal,234 runs,Null,Sri Lanka,field,M Muralitharan,"Asad Rauf, SL Shastri",JJ Crowe,Test,male
+293479,2007-07-03,Colombo,P Sara Oval,"Bangladesh, Sri Lanka",Sri Lanka,normal,90 runs,Null,Sri Lanka,field,KC Sangakkara,"Asad Rauf, RE Koertzen",JJ Crowe,Test,male
+293480,2007-07-11,Kandy,Asgiriya Stadium,"Bangladesh, Sri Lanka",Sri Lanka,normal,193 runs,Null,Sri Lanka,field,M Muralitharan,"RE Koertzen, SL Shastri",JJ Crowe,Test,male
+296900,2008-05-15,London,Lord's,"England, New Zealand",Null,draw,Null,Null,England,field,DL Vettori,"SA Bucknor, SJA Taufel",RS Madugalle,Test,male
+296901,2008-05-23,Manchester,Old Trafford,"England, New Zealand",England,normal,6 wickets,Null,New Zealand,bat,MS Panesar,"DB Hair, SJA Taufel",RS Madugalle,Test,male
+296902,2008-06-05,Nottingham,Trent Bridge,"England, New Zealand",England,normal,9 runs,Null,New Zealand,field,JM Anderson,"SA Bucknor, DB Hair",RS Madugalle,Test,male
+296909,2008-07-10,London,Lord's,"England, South Africa",Null,draw,Null,Null,South Africa,field,IR Bell,"BF Bowden, DJ Harper",JJ Crowe,Test,male
+296910,2008-07-18,Leeds,Headingley,"England, South Africa",South Africa,normal,10 wickets,Null,South Africa,field,AG Prince,"BF Bowden, DJ Harper",JJ Crowe,Test,male
+296911,2008-07-30,Birmingham,Edgbaston,"England, South Africa",South Africa,normal,5 wickets,Null,England,bat,GC Smith,"Aleem Dar, SJ Davis",RS Madugalle,Test,male
+296912,2008-08-07,London,Kennington Oval,"England, South Africa",England,normal,6 wickets,Null,South Africa,bat,KP Pietersen,"Aleem Dar, SJ Davis",RS Madugalle,Test,male
+297806,2007-11-22,Delhi,Arun Jaitley Stadium,"Pakistan, India",India,normal,6 wickets,Null,Pakistan,bat,A Kumble,"SJA Taufel, BR Doctrove",RS Madugalle,Test,male
+297807,2007-11-30,Kolkata,Eden Gardens,"India, Pakistan",Null,draw,Null,Null,India,bat,W Jaffer,"RE Koertzen, BR Doctrove",RS Madugalle,Test,male
+297808,2007-12-08,Bengaluru,M.Chinnaswamy Stadium,"India, Pakistan",Null,draw,Null,Null,India,bat,SC Ganguly,"RE Koertzen, SJA Taufel",RS Madugalle,Test,male
+298793,2007-11-08,Johannesburg,The Wanderers Stadium,"South Africa, New Zealand",South Africa,normal,358 runs,Null,South Africa,bat,DW Steyn,"MR Benson, DJ Harper",J Srinath,Test,male
+298794,2007-11-16,Centurion,SuperSport Park,"New Zealand, South Africa",South Africa,normal,59 runs,Null,New Zealand,bat,DW Steyn,"MR Benson, DJ Harper",J Srinath,Test,male
+298801,2007-12-26,Port Elizabeth,St George's Park,"West Indies, South Africa",West Indies,normal,128 runs,Null,South Africa,field,MN Samuels,"RB Tiffin, Aleem Dar",RS Mahanama,Test,male
+298802,2008-01-02,Cape Town,Newlands,"South Africa, West Indies",South Africa,normal,7 wickets,Null,West Indies,bat,AG Prince,"SJA Taufel, RB Tiffin",RS Mahanama,Test,male
+298803,2008-01-10,Durban,Kingsmead,"South Africa, West Indies",South Africa,normal,100 runs,Null,South Africa,field,AG Prince,"Aleem Dar, SJA Taufel",RS Mahanama,Test,male
+299004,2007-10-01,Karachi,National Stadium,"South Africa, Pakistan",South Africa,normal,160 runs,Null,South Africa,bat,JH Kallis,"MR Benson, SJA Taufel",AG Hurst,Test,male
+299005,2007-10-08,Lahore,Gaddafi Stadium,"South Africa, Pakistan",Null,draw,Null,Null,South Africa,bat,JH Kallis,"MR Benson, SJA Taufel",AG Hurst,Test,male
+300429,2008-01-04,Dunedin,University Oval,"New Zealand, Bangladesh",New Zealand,normal,9 wickets,Null,New Zealand,field,JDP Oram,"NJ Llong, PD Parker",BC Broad,Test,male
+300430,2008-01-12,Wellington,Basin Reserve,"New Zealand, Bangladesh",New Zealand,normal,137 runs,Null,New Zealand,field,DL Vettori,"NJ Llong, PD Parker",BC Broad,Test,male
+300442,2008-03-05,Hamilton,Seddon Park,"New Zealand, England",New Zealand,normal,189 runs,Null,New Zealand,bat,DL Vettori,"SJ Davis, DJ Harper",J Srinath,Test,male
+300443,2008-03-13,Wellington,Basin Reserve,"New Zealand, England",England,normal,126 runs,Null,New Zealand,field,TR Ambrose,"SJ Davis, RE Koertzen",J Srinath,Test,male
+300444,2008-03-22,Napier,McLean Park,"New Zealand, England",England,normal,121 runs,Null,England,bat,RJ Sidebottom,"DJ Harper, RE Koertzen",J Srinath,Test,male
+312450,2008-02-15,Bowral,"Bradman Oval, Bowral","Australia, England",England,normal,6 wickets,Null,England,field,IT Guha,"PR Reiffel, RJ Tucker",Tim Donahoo,Test,female
+319132,2008-03-22,Guyana,Providence Stadium,"West Indies, Sri Lanka",Sri Lanka,normal,121 runs,Null,Sri Lanka,bat,WPUJC Vaas,"BF Bowden, SJA Taufel",BC Broad,Test,male
+319133,2008-04-03,Trinidad,"Queen's Park Oval, Port of Spain","West Indies, Sri Lanka",West Indies,normal,6 wickets,Null,West Indies,field,RR Sarwan,"BF Bowden, SJA Taufel",BC Broad,Test,male
+319139,2008-05-22,Jamaica,"Sabina Park, Kingston","West Indies, Australia",Australia,normal,95 runs,Null,Australia,bat,SR Clark,"Aleem Dar, RB Tiffin",RS Mahanama,Test,male
+319140,2008-05-30,Antigua,"Sir Vivian Richards Stadium, North Sound","West Indies, Australia",Null,draw,Null,Null,Australia,bat,S Chanderpaul,"MR Benson, RB Tiffin",RS Mahanama,Test,male
+319141,2008-06-12,Barbados,"Kensington Oval, Bridgetown","West Indies, Australia",Australia,normal,87 runs,Null,West Indies,field,SM Katich,"Aleem Dar, MR Benson",RS Mahanama,Test,male
+323947,2008-02-22,Mirpur,Shere Bangla National Stadium,"Bangladesh, South Africa",South Africa,normal,5 wickets,Null,Bangladesh,bat,JH Kallis,"Aleem Dar, SA Bucknor",RS Madugalle,Test,male
+323948,2008-02-29,Null,Chittagong Divisional Stadium,"Bangladesh, South Africa",South Africa,normal,205 runs,Null,South Africa,bat,GC Smith,"Aleem Dar, SA Bucknor",RS Madugalle,Test,male
+332911,2008-03-26,Chennai,"MA Chidambaram Stadium, Chepauk","India, South Africa",Null,draw,Null,Null,South Africa,bat,V Sehwag,"Asad Rauf, AL Hill",RS Mahanama,Test,male
+332912,2008-04-03,Ahmedabad,"Sardar Patel Stadium, Motera","India, South Africa",South Africa,normal,90 runs,Null,India,bat,AB de Villiers,"BR Doctrove, AL Hill",RS Mahanama,Test,male
+332913,2008-04-11,Kanpur,Green Park,"India, South Africa",India,normal,8 wickets,Null,South Africa,bat,SC Ganguly,"Asad Rauf, BR Doctrove",RS Mahanama,Test,male
+343729,2008-07-23,Colombo,Sinhalese Sports Club Ground,"Sri Lanka, India",Sri Lanka,normal,239 runs,Null,Sri Lanka,bat,M Muralitharan,"MR Benson, BR Doctrove",AG Hurst,Test,male
+343730,2008-07-31,Null,Galle International Stadium,"Sri Lanka, India",India,normal,170 runs,Null,India,bat,V Sehwag,"BR Doctrove, RE Koertzen",AG Hurst,Test,male
+343731,2008-08-08,Colombo,P Saravanamuttu Stadium,"Sri Lanka, India",Sri Lanka,normal,8 wickets,Null,India,bat,KC Sangakkara,"MR Benson, RE Koertzen",AG Hurst,Test,male
+345669,2008-10-09,Bangalore,M Chinnaswamy Stadium,"India, Australia",Null,draw,Null,Null,Australia,bat,Z Khan,"Asad Rauf, RE Koertzen",BC Broad,Test,male
+345670,2008-10-17,Chandigarh,"Punjab Cricket Association Stadium, Mohali","India, Australia",India,normal,320 runs,Null,India,bat,MS Dhoni,"Asad Rauf, RE Koertzen",BC Broad,Test,male
+345671,2008-10-29,Delhi,Feroz Shah Kotla,"India, Australia",Null,draw,Null,Null,India,bat,VVS Laxman,"Aleem Dar, BF Bowden",BC Broad,Test,male
+345672,2008-11-06,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha","India, Australia",India,normal,172 runs,Null,India,bat,JJ Krejza,"Aleem Dar, BF Bowden",BC Broad,Test,male
+345970,2009-07-08,Cardiff,Sophia Gardens,"England, Australia",Null,draw,Null,Null,England,bat,RT Ponting,"Aleem Dar, BR Doctrove",JJ Crowe,Test,male
+345971,2009-07-16,London,Lord's,"England, Australia",England,normal,115 runs,Null,England,bat,A Flintoff,"BR Doctrove, RE Koertzen",JJ Crowe,Test,male
+345972,2009-07-30,Birmingham,Edgbaston,"England, Australia",Null,draw,Null,Null,Australia,bat,MJ Clarke,"Aleem Dar, RE Koertzen",JJ Crowe,Test,male
+345973,2009-08-07,Leeds,Headingley,"England, Australia",Australia,normal,80 runs,Null,England,bat,MJ North,"Asad Rauf, BF Bowden",RS Madugalle,Test,male
+345974,2009-08-20,London,Kennington Oval,"England, Australia",England,normal,197 runs,Null,England,bat,SCJ Broad,"Asad Rauf, BF Bowden",RS Madugalle,Test,male
+350345,2008-11-19,Bloemfontein,OUTsurance Oval,"South Africa, Bangladesh",South Africa,normal,129 runs,Null,Bangladesh,field,GC Smith,"SJ Davis, IJ Gould",AG Hurst,Test,male
+350346,2008-11-26,Centurion,SuperSport Park,"South Africa, Bangladesh",South Africa,normal,48 runs,Null,Bangladesh,bat,AG Prince,"SJ Davis, IJ Gould",AG Hurst,Test,male
+350472,2009-02-26,Johannesburg,New Wanderers Stadium,"South Africa, Australia",Australia,normal,162 runs,Null,Australia,bat,MG Johnson,"BF Bowden, SA Bucknor",JJ Crowe,Test,male
+350473,2009-03-06,Durban,Kingsmead,"South Africa, Australia",Australia,normal,175 runs,Null,Australia,bat,PJ Hughes,"Asad Rauf, BF Bowden",JJ Crowe,Test,male
+350474,2009-03-19,Cape Town,Newlands,"South Africa, Australia",South Africa,normal,20 runs,Null,Australia,bat,PL Harris,"Asad Rauf, SA Bucknor",JJ Crowe,Test,male
+351679,2008-11-20,Brisbane,"Brisbane Cricket Ground, Woolloongabba","Australia, New Zealand",Australia,normal,149 runs,Null,New Zealand,field,MG Johnson,"BR Doctrove, RE Koertzen",BC Broad,Test,male
+351680,2008-11-28,Adelaide,Adelaide Oval,"Australia, New Zealand",Australia,normal,62 runs,Null,New Zealand,bat,BJ Haddin,"BR Doctrove, RE Koertzen",BC Broad,Test,male
+351681,2008-12-17,Perth,Western Australia Cricket Association Ground,"Australia, South Africa",South Africa,normal,6 wickets,Null,Australia,bat,AB de Villiers,"Aleem Dar, EAR de Silva",RS Madugalle,Test,male
+351682,2008-12-26,Melbourne,Melbourne Cricket Ground,"Australia, South Africa",South Africa,normal,9 wickets,Null,Australia,bat,DW Steyn,"Aleem Dar, BR Doctrove",RS Madugalle,Test,male
+351683,2009-01-03,Sydney,Sydney Cricket Ground,"Australia, South Africa",Australia,normal,103 runs,Null,Australia,bat,PM Siddle,"BF Bowden, EAR de Silva",RS Madugalle,Test,male
+352661,2009-02-04,Jamaica,"Sabina Park, Kingston","West Indies, England",West Indies,normal,23 runs,Null,England,bat,JE Taylor,"AL Hill, RE Koertzen",AG Hurst,Test,male
+352662,2009-02-13,Antigua,"Sir Vivian Richards Stadium, North Sound","West Indies, England",Null,draw,Null,Null,West Indies,field,Null,"DJ Harper, AL Hill",AG Hurst,Test,male
+352663,2009-02-26,Barbados,"Kensington Oval, Bridgetown","West Indies, England",Null,draw,Null,Null,England,bat,RR Sarwan,"Aleem Dar, RB Tiffin",AG Hurst,Test,male
+352664,2009-03-06,Trinidad,"Queen's Park Oval, Port of Spain","West Indies, England",Null,draw,Null,Null,England,bat,MJ Prior,"DJ Harper, RB Tiffin",AG Hurst,Test,male
+361050,2008-12-11,Chennai,"MA Chidambaram Stadium, Chepauk","India, England",India,normal,6 wickets,Null,England,bat,V Sehwag,"BF Bowden, DJ Harper",JJ Crowe,Test,male
+361051,2008-12-19,Chandigarh,"Punjab Cricket Association Stadium, Mohali","India, England",Null,draw,Null,Null,India,bat,G Gambhir,"Asad Rauf, DJ Harper",JJ Crowe,Test,male
+361759,2008-10-25,Mirpur,Shere Bangla National Stadium,"Bangladesh, New Zealand",Null,draw,Null,Null,Bangladesh,field,DL Vettori,"EAR de Silva, DJ Harper",J Srinath,Test,male
+366628,2009-03-18,Hamilton,Seddon Park,"New Zealand, India",India,normal,10 wickets,Null,India,field,SR Tendulkar,"IJ Gould, SJA Taufel",AG Hurst,Test,male
+366629,2009-04-03,Wellington,Basin Reserve,"New Zealand, India",Null,draw,Null,Null,New Zealand,field,G Gambhir,"DJ Harper, SJA Taufel",AG Hurst,Test,male
+378751,2009-01-03,Null,Chittagong Divisional Stadium,"Bangladesh, Sri Lanka",Sri Lanka,normal,465 runs,Null,Sri Lanka,bat,TM Dilshan,"SA Bucknor, NJ Llong",JJ Crowe,Test,male
+380712,2009-05-06,London,Lord's,"England, West Indies",England,normal,10 wickets,Null,West Indies,field,GP Swann,"SJ Davis, EAR de Silva",AJ Pycroft,Test,male
+380713,2009-05-14,Chester-le-Street,Riverside Ground,"England, West Indies",England,normal,83 runs,Null,England,bat,JM Anderson,"SJ Davis, EAR de Silva",AJ Pycroft,Test,male
+383288,2009-07-10,Worcester,"County Ground, New Road, Worcester","Australia, England",Null,draw,Null,Null,Australia,bat,JM Fields,"NGB Cook, TE Jesty",DT Jukes,Test,female
+386496,2009-03-26,Napier,McLean Park,"New Zealand, India",Null,draw,Null,Null,New Zealand,bat,JD Ryder,"BR Doctrove, IJ Gould",AG Hurst,Test,male
+387570,2009-12-16,Centurion,SuperSport Park,"South Africa, England",Null,draw,Null,Null,England,field,GP Swann,"Aleem Dar, SJ Davis",RS Mahanama,Test,male
+387571,2009-12-26,Durban,Kingsmead,"South Africa, England",England,normal,98 runs,Null,South Africa,bat,GP Swann,"Aleem Dar, AM Saheba",RS Mahanama,Test,male
+387572,2010-01-03,Cape Town,Newlands,"South Africa, England",Null,draw,Null,Null,England,field,GC Smith,"DJ Harper, AL Hill",RS Mahanama,Test,male
+387573,2010-01-14,Johannesburg,New Wanderers Stadium,"South Africa, England",South Africa,normal,74 runs,Null,England,bat,"M Morkel, DW Steyn","SJ Davis, AL Hill",RS Mahanama,Test,male
+388993,2009-02-21,Karachi,National Stadium,"Pakistan, Sri Lanka",Null,draw,Null,Null,Sri Lanka,bat,Younis Khan,"SJ Davis, SJA Taufel",BC Broad,Test,male
+388994,2009-03-01,Lahore,Gaddafi Stadium,"Pakistan, Sri Lanka",Null,draw,Null,Null,Pakistan,field,Null,"SJ Davis, SJA Taufel",BC Broad,Test,male
+390680,2009-02-15,Antigua,"Antigua Recreation Ground, St John's","West Indies, England",Null,draw,Null,Null,West Indies,field,RR Sarwan,"DJ Harper, RE Koertzen",AG Hurst,Test,male
+401071,2009-07-09,St Vincent,"Arnos Vale Ground, Kingstown","West Indies, Bangladesh",Bangladesh,normal,95 runs,Null,Bangladesh,bat,Tamim Iqbal,"EAR de Silva, AL Hill",AJ Pycroft,Test,male
+401072,2009-07-17,Grenada,"National Cricket Stadium, St George's","West Indies, Bangladesh",Bangladesh,normal,4 wickets,Null,Bangladesh,field,Shakib Al Hasan,"EAR de Silva, AL Hill",AJ Pycroft,Test,male
+403367,2009-07-04,Null,Galle International Stadium,"Sri Lanka, Pakistan",Sri Lanka,normal,50 runs,Null,Pakistan,field,HMRKB Herath,"IJ Gould, DJ Harper",AG Hurst,Test,male
+403368,2009-07-12,Colombo,P Sara Oval,"Sri Lanka, Pakistan",Sri Lanka,normal,7 wickets,Null,Pakistan,bat,"Fawad Alam, KMDN Kulasekara","DJ Harper, SJA Taufel",AG Hurst,Test,male
+403369,2009-07-20,Colombo,Sinhalese Sports Club Ground,"Sri Lanka, Pakistan",Null,draw,Null,Null,Sri Lanka,field,KC Sangakkara,"IJ Gould, SJA Taufel",AG Hurst,Test,male
+403378,2009-08-18,Null,Galle International Stadium,"Sri Lanka, New Zealand",Sri Lanka,normal,202 runs,Null,New Zealand,field,TM Dilshan,"DJ Harper, NJ Llong",AJ Pycroft,Test,male
+403379,2009-08-26,Colombo,Sinhalese Sports Club Ground,"Sri Lanka, New Zealand",Sri Lanka,normal,96 runs,Null,Sri Lanka,bat,DPMD Jayawardene,"DJ Harper, NJ Llong",AJ Pycroft,Test,male
+406189,2009-11-26,Brisbane,"Brisbane Cricket Ground, Woolloongabba","Australia, West Indies",Australia,normal,65 runs,Null,Australia,bat,BW Hilfenhaus,"Asad Rauf, IJ Gould",BC Broad,Test,male
+406190,2009-12-04,Adelaide,Adelaide Oval,"Australia, West Indies",Null,draw,Null,Null,West Indies,bat,CH Gayle,"Asad Rauf, MR Benson, IJ Gould",BC Broad,Test,male
+406191,2009-12-16,Perth,Western Australia Cricket Association Ground,"Australia, West Indies",Australia,normal,35 runs,Null,Australia,bat,CH Gayle,"BF Bowden, IJ Gould",BC Broad,Test,male
+406199,2009-12-26,Melbourne,Melbourne Cricket Ground,"Australia, Pakistan",Australia,normal,170 runs,Null,Australia,bat,SR Watson,"BR Doctrove, RE Koertzen",RS Madugalle,Test,male
+406200,2010-01-03,Sydney,Sydney Cricket Ground,"Australia, Pakistan",Australia,normal,36 runs,Null,Australia,bat,MEK Hussey,"EAR de Silva, BR Doctrove",RS Madugalle,Test,male
+406201,2010-01-14,Hobart,Bellerive Oval,"Australia, Pakistan",Australia,normal,231 runs,Null,Australia,bat,RT Ponting,"EAR de Silva, RE Koertzen",RS Madugalle,Test,male
+423778,2009-11-24,Dunedin,University Oval,"New Zealand, Pakistan",New Zealand,normal,32 runs,Null,Pakistan,field,SE Bond,"BR Doctrove, SJA Taufel",AG Hurst,Test,male
+423779,2009-12-03,Wellington,Basin Reserve,"New Zealand, Pakistan",Pakistan,normal,141 runs,Null,New Zealand,field,Mohammad Asif,"RE Koertzen, SJA Taufel",AG Hurst,Test,male
+423780,2009-12-11,Napier,McLean Park,"New Zealand, Pakistan",Null,draw,Null,Null,Pakistan,bat,DL Vettori,"BR Doctrove, RE Koertzen",AG Hurst,Test,male
+423786,2010-02-15,Hamilton,Seddon Park,"New Zealand, Bangladesh",New Zealand,normal,121 runs,Null,Bangladesh,field,MJ Guptill,"RE Koertzen, RJ Tucker",AG Hurst,Test,male
+423789,2010-03-19,Wellington,Basin Reserve,"New Zealand, Australia",Australia,normal,10 wickets,Null,Australia,bat,MJ Clarke,"Asad Rauf, IJ Gould",J Srinath,Test,male
+423790,2010-03-27,Hamilton,Seddon Park,"New Zealand, Australia",Australia,normal,176 runs,Null,Australia,bat,MG Johnson,"Aleem Dar, Asad Rauf",J Srinath,Test,male
+426394,2010-07-13,London,Lord's,"Australia, Pakistan",Australia,normal,150 runs,Null,Pakistan,field,"SM Katich, Salman Butt","IJ Gould, RE Koertzen",BC Broad,Test,male
+426395,2010-07-21,Leeds,Headingley,"Australia, Pakistan",Pakistan,normal,3 wickets,Null,Australia,bat,"Mohammad Amir, SR Watson","IJ Gould, RE Koertzen",BC Broad,Test,male
+426401,2010-05-27,London,Lord's,"England, Bangladesh",England,normal,8 wickets,Null,Bangladesh,field,ST Finn,"BF Bowden, EAR de Silva",AG Hurst,Test,male
+426402,2010-06-04,Manchester,Old Trafford,"England, Bangladesh",England,normal,80 runs,Null,England,bat,IR Bell,"BF Bowden, EAR de Silva",AG Hurst,Test,male
+426413,2010-07-29,Nottingham,Trent Bridge,"England, Pakistan",England,normal,354 runs,Null,England,bat,JM Anderson,"EAR de Silva, AL Hill",RS Madugalle,Test,male
+426414,2010-08-06,Birmingham,Edgbaston,"England, Pakistan",England,normal,9 wickets,Null,Pakistan,bat,GP Swann,"SJ Davis, M Erasmus",RS Madugalle,Test,male
+426415,2010-08-18,London,Kennington Oval,"England, Pakistan",Pakistan,normal,4 wickets,Null,England,bat,Mohammad Amir,"SJ Davis, AL Hill",RS Madugalle,Test,male
+426416,2010-08-26,London,Lord's,"England, Pakistan",England,normal,225 runs,Null,Pakistan,field,SCJ Broad,"BF Bowden, AL Hill",RS Madugalle,Test,male
+426423,2010-03-12,Chittagong,Zohur Ahmed Chowdhury Stadium,"Bangladesh, England",England,normal,181 runs,Null,Bangladesh,field,GP Swann,"AL Hill, RJ Tucker",JJ Crowe,Test,male
+426424,2010-03-20,Mirpur,Shere Bangla National Stadium,"Bangladesh, England",England,normal,9 wickets,Null,Bangladesh,bat,Shakib Al Hasan,"AL Hill, RJ Tucker",JJ Crowe,Test,male
+428749,2010-11-25,Brisbane,"Brisbane Cricket Ground, Woolloongabba","Australia, England",Null,draw,Null,Null,England,bat,AN Cook,"Aleem Dar, BR Doctrove",JJ Crowe,Test,male
+428750,2010-12-03,Adelaide,Adelaide Oval,"Australia, England",England,normal,71 runs,Null,Australia,bat,KP Pietersen,"M Erasmus, AL Hill",JJ Crowe,Test,male
+428751,2010-12-16,Perth,Western Australia Cricket Association Ground,"Australia, England",Australia,normal,267 runs,Null,England,field,MG Johnson,"BR Doctrove, M Erasmus",JJ Crowe,Test,male
+428752,2010-12-26,Melbourne,Melbourne Cricket Ground,"Australia, England",England,normal,157 runs,Null,England,field,IJL Trott,"Aleem Dar, AL Hill",RS Madugalle,Test,male
+428753,2011-01-03,Sydney,Sydney Cricket Ground,"Australia, England",England,normal,83 runs,Null,Australia,bat,AN Cook,"Aleem Dar, BF Bowden",RS Madugalle,Test,male
+430881,2009-11-16,Ahmedabad,"Sardar Patel Stadium, Motera","India, Sri Lanka",Null,draw,Null,Null,India,bat,DPMD Jayawardene,"DJ Harper, AL Hill",JJ Crowe,Test,male
+430882,2009-11-24,Kanpur,Green Park,"India, Sri Lanka",India,normal,144 runs,Null,India,bat,S Sreesanth,"AL Hill, NJ Llong",JJ Crowe,Test,male
+430883,2009-12-02,Mumbai,Brabourne Stadium,"India, Sri Lanka",India,normal,24 runs,Null,Sri Lanka,bat,V Sehwag,"DJ Harper, NJ Llong",JJ Crowe,Test,male
+434256,2010-01-17,Chittagong,Zahur Ahmed Chowdhury Stadium,"Bangladesh, India",India,normal,113 runs,Null,Bangladesh,field,SR Tendulkar,"BF Bowden, M Erasmus",AJ Pycroft,Test,male
+434257,2010-01-24,Mirpur,Shere Bangla National Stadium,"Bangladesh, India",India,normal,10 wickets,Null,Bangladesh,bat,Z Khan,"BF Bowden, M Erasmus",AJ Pycroft,Test,male
+439152,2010-06-10,Trinidad,"Queen's Park Oval, Port of Spain","West Indies, South Africa",South Africa,normal,163 runs,Null,South Africa,bat,DW Steyn,"Asad Rauf, SJ Davis",RS Mahanama,Test,male
+439153,2010-06-18,St Kitts,"Warner Park, Basseterre","West Indies, South Africa",Null,draw,Null,Null,South Africa,bat,S Chanderpaul,"Asad Rauf, SJA Taufel",JJ Crowe,Test,male
+439154,2010-06-26,Barbados,"Kensington Oval, Bridgetown","West Indies, South Africa",South Africa,normal,7 wickets,Null,West Indies,bat,J Botha,"SJ Davis, SJA Taufel",JJ Crowe,Test,male
+441825,2010-02-06,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha","India, South Africa",South Africa,normal,6 runs,Null,South Africa,bat,HM Amla,"SJ Davis, IJ Gould",AJ Pycroft,Test,male
+441826,2010-02-14,Kolkata,Eden Gardens,"India, South Africa",India,normal,57 runs,Null,South Africa,bat,HM Amla,"SJ Davis, IJ Gould",AJ Pycroft,Test,male
+456669,2010-07-18,Null,Galle International Stadium,"Sri Lanka, India",Sri Lanka,normal,10 wickets,Null,Sri Lanka,bat,SL Malinga,"DJ Harper, RJ Tucker",AJ Pycroft,Test,male
+456670,2010-07-26,Colombo,Sinhalese Sports Club Ground,"Sri Lanka, India",Null,draw,Null,Null,Sri Lanka,bat,KC Sangakkara,"DJ Harper, RJ Tucker",AJ Pycroft,Test,male
+456671,2010-08-03,Colombo,P Sara Oval,"Sri Lanka, India",India,normal,5 wickets,Null,Sri Lanka,bat,VVS Laxman,"SJA Taufel, RJ Tucker",AJ Pycroft,Test,male
+461571,2010-11-12,Dubai,Dubai International Cricket Stadium,"Pakistan, South Africa",Null,draw,Null,Null,South Africa,bat,Younis Khan,"EAR de Silva, DJ Harper",AJ Pycroft,Test,male
+461572,2010-11-20,Abu Dhabi,Sheikh Zayed Stadium,"Pakistan, South Africa",Null,draw,Null,Null,Pakistan,field,AB de Villiers,"EAR de Silva, DJ Harper",AJ Pycroft,Test,male
+463146,2010-12-16,Centurion,SuperSport Park,"South Africa, India",South Africa,normal,25 runs,Null,South Africa,field,JH Kallis,"SJ Davis, IJ Gould",AJ Pycroft,Test,male
+463147,2010-12-26,Durban,Kingsmead,"South Africa, India",India,normal,87 runs,Null,South Africa,field,VVS Laxman,"Asad Rauf, SJ Davis",AJ Pycroft,Test,male
+463148,2011-01-02,Cape Town,Newlands,"South Africa, India",Null,draw,Null,Null,India,field,JH Kallis,"IJ Gould, SJA Taufel",AJ Pycroft,Test,male
+464526,2010-10-01,Chandigarh,"Punjab Cricket Association Stadium, Mohali","India, Australia",India,normal,1 wickets,Null,Australia,bat,Z Khan,"BF Bowden, IJ Gould",BC Broad,Test,male
+464527,2010-10-09,Bangalore,M Chinnaswamy Stadium,"India, Australia",India,normal,7 wickets,Null,Australia,bat,SR Tendulkar,"BF Bowden, IJ Gould",BC Broad,Test,male
+464531,2010-11-04,Ahmedabad,"Sardar Patel Stadium, Motera","India, New Zealand",Null,draw,Null,Null,India,bat,Harbhajan Singh,"SJ Davis, HDPK Dharmasena",RS Madugalle,Test,male
+464532,2010-11-12,Hyderabad,"Rajiv Gandhi International Stadium, Uppal","India, New Zealand",Null,draw,Null,Null,New Zealand,bat,BB McCullum,"HDPK Dharmasena, SJA Taufel",RS Madugalle,Test,male
+464533,2010-11-20,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha","India, New Zealand",India,normal,198 runs,Null,New Zealand,bat,R Dravid,"NJ Llong, SJA Taufel",RS Madugalle,Test,male
+464987,2010-11-15,Null,Galle International Stadium,"Sri Lanka, West Indies",Null,draw,Null,Null,West Indies,bat,CH Gayle,"SJ Davis, RA Kettleborough",AG Hurst,Test,male
+464988,2010-11-23,Colombo,R Premadasa Stadium,"Sri Lanka, West Indies",Null,draw,Null,Null,Sri Lanka,bat,KC Sangakkara,"Asad Rauf, RA Kettleborough",AG Hurst,Test,male
+464989,2010-12-01,Pallekele,Pallekele International Cricket Stadium,"Sri Lanka, West Indies",Null,draw,Null,Null,Sri Lanka,field,Null,"Asad Rauf, BNJ Oxenford",AG Hurst,Test,male
+473921,2011-01-07,Hamilton,Seddon Park,"New Zealand, Pakistan",Pakistan,normal,10 wickets,Null,Pakistan,field,Abdur Rehman,"DJ Harper, RJ Tucker",RS Mahanama,Test,male
+473922,2011-01-15,Wellington,Basin Reserve,"New Zealand, Pakistan",Null,draw,Null,Null,New Zealand,bat,Misbah-ul-Haq,"DJ Harper, RJ Tucker",RS Mahanama,Test,male
+474463,2011-05-26,Cardiff,Sophia Gardens,"England, Sri Lanka",England,normal,14 runs,Null,Sri Lanka,bat,IJL Trott,"Aleem Dar, BR Doctrove",J Srinath,Test,male
+474464,2011-06-03,London,Lord's,"England, Sri Lanka",Null,draw,Null,Null,Sri Lanka,field,TM Dilshan,"BR Doctrove, RJ Tucker",J Srinath,Test,male
+474465,2011-06-16,Southampton,The Rose Bowl,"England, Sri Lanka",Null,draw,Null,Null,England,field,CT Tremlett,"Aleem Dar, RJ Tucker",AG Hurst,Test,male
+474472,2011-07-21,London,Lord's,"England, India",England,normal,196 runs,Null,India,field,KP Pietersen,"Asad Rauf, BF Bowden",RS Madugalle,Test,male
+474473,2011-07-29,Nottingham,Trent Bridge,"England, India",England,normal,319 runs,Null,India,field,SCJ Broad,"Asad Rauf, M Erasmus",RS Madugalle,Test,male
+474474,2011-08-10,Birmingham,Edgbaston,"England, India",England,normal,242 runs,Null,England,field,AN Cook,"SJ Davis, SJA Taufel",RS Madugalle,Test,male
+474475,2011-08-18,London,Kennington Oval,"England, India",England,normal,8 runs,Null,England,bat,IR Bell,"SJA Taufel, RJ Tucker",RS Madugalle,Test,male
+474625,2011-01-22,Sydney,"Bankstown Oval, Sydney","England, Australia",Australia,normal,7 wickets,Null,England,bat,RM Farrell,"AJ Barrow, P Wilson",PL Marshall,Test,female
+489218,2011-05-12,Guyana,Providence Stadium,"West Indies, Pakistan",West Indies,normal,40 runs,Null,West Indies,bat,DJG Sammy,"BF Bowden, AL Hill",AG Hurst,Test,male
+489219,2011-05-20,St Kitts,"Warner Park, Basseterre","West Indies, Pakistan",Pakistan,normal,196 runs,Null,Pakistan,bat,Taufeeq Umar,"BF Bowden, EAR de Silva",AG Hurst,Test,male
+489226,2011-06-20,Jamaica,"Sabina Park, Kingston","West Indies, India",India,normal,63 runs,Null,India,bat,R Dravid,"IJ Gould, DJ Harper",JJ Crowe,Test,male
+489227,2011-06-28,Barbados,"Kensington Oval, Bridgetown","West Indies, India",Null,draw,Null,Null,West Indies,field,I Sharma,"Asad Rauf, IJ Gould",BC Broad,Test,male
+489228,2011-07-06,Dominica,"Windsor Park, Roseau","West Indies, India",Null,draw,Null,Null,India,field,S Chanderpaul,"Asad Rauf, RA Kettleborough",BC Broad,Test,male
+514029,2011-11-09,Cape Town,Newlands,"South Africa, Australia",South Africa,normal,8 wickets,Null,South Africa,field,VD Philander,"BR Doctrove, IJ Gould",RS Mahanama,Test,male
+514030,2011-11-17,Johannesburg,New Wanderers Stadium,"South Africa, Australia",Australia,normal,2 wickets,Null,South Africa,bat,PJ Cummins,"BF Bowden, IJ Gould",RS Mahanama,Test,male
+514032,2011-12-15,Centurion,SuperSport Park,"South Africa, Sri Lanka",South Africa,normal,81 runs,Null,South Africa,field,VD Philander,"SJ Davis, RJ Tucker",BC Broad,Test,male
+514033,2011-12-26,Durban,Kingsmead,"South Africa, Sri Lanka",Sri Lanka,normal,208 runs,Null,Sri Lanka,bat,HMRKB Herath,"SJ Davis, RA Kettleborough",BC Broad,Test,male
+514034,2012-01-03,Cape Town,Newlands,"South Africa, Sri Lanka",South Africa,normal,10 wickets,Null,Sri Lanka,field,JH Kallis,"RA Kettleborough, RJ Tucker",BC Broad,Test,male
+516212,2011-08-31,Null,Galle International Stadium,"Sri Lanka, Australia",Australia,normal,125 runs,Null,Australia,bat,MEK Hussey,"Aleem Dar, RA Kettleborough",BC Broad,Test,male
+516213,2011-09-08,Pallekele,Pallekele International Cricket Stadium,"Sri Lanka, Australia",Null,draw,Null,Null,Sri Lanka,bat,MEK Hussey,"AL Hill, RA Kettleborough",BC Broad,Test,male
+516214,2011-09-16,Colombo,Sinhalese Sports Club Ground,"Sri Lanka, Australia",Null,draw,Null,Null,Sri Lanka,field,MEK Hussey,"Aleem Dar, AL Hill",BC Broad,Test,male
+518947,2011-12-01,Brisbane,"Brisbane Cricket Ground, Woolloongabba","Australia, New Zealand",Australia,normal,9 wickets,Null,New Zealand,bat,JL Pattinson,"Aleem Dar, Asad Rauf",AJ Pycroft,Test,male
+518948,2011-12-09,Hobart,Bellerive Oval,"Australia, New Zealand",New Zealand,normal,7 runs,Null,Australia,field,DA Warner,"Asad Rauf, NJ Llong",AJ Pycroft,Test,male
+518950,2011-12-26,Melbourne,Melbourne Cricket Ground,"Australia, India",Australia,normal,122 runs,Null,Australia,bat,JL Pattinson,"M Erasmus, IJ Gould",RS Madugalle,Test,male
+518951,2012-01-03,Sydney,Sydney Cricket Ground,"Australia, India",Australia,normal,68 runs,Null,India,bat,MJ Clarke,"M Erasmus, IJ Gould",RS Madugalle,Test,male
+518952,2012-01-13,Perth,Western Australia Cricket Association Ground,"Australia, India",Australia,normal,37 runs,Null,Australia,field,DA Warner,"Aleem Dar, HDPK Dharmasena",RS Madugalle,Test,male
+518953,2012-01-24,Adelaide,Adelaide Oval,"Australia, India",Australia,normal,298 runs,Null,Australia,bat,PM Siddle,"Aleem Dar, HDPK Dharmasena",RS Madugalle,Test,male
+520591,2012-01-26,Napier,McLean Park,"New Zealand, Zimbabwe",New Zealand,normal,301 runs,Null,Zimbabwe,field,CS Martin,"Enamul Haque, RJ Tucker",DC Boon,Test,male
+520603,2012-03-07,Dunedin,University Oval,"New Zealand, South Africa",Null,draw,Null,Null,New Zealand,field,GC Smith,"Aleem Dar, BR Doctrove",RS Mahanama,Test,male
+520604,2012-03-15,Hamilton,Seddon Park,"New Zealand, South Africa",South Africa,normal,9 wickets,Null,South Africa,field,VD Philander,"BR Doctrove, RA Kettleborough",RS Madugalle,Test,male
+520605,2012-03-23,Wellington,Basin Reserve,"New Zealand, South Africa",Null,draw,Null,Null,New Zealand,field,M Morkel,"Aleem Dar, RA Kettleborough",RS Madugalle,Test,male
+521225,2012-03-26,Null,Galle International Stadium,"Sri Lanka, England",Sri Lanka,normal,75 runs,Null,Sri Lanka,bat,HMRKB Herath,"Asad Rauf, RJ Tucker",J Srinath,Test,male
+521226,2012-04-03,Colombo,P Sara Oval,"Sri Lanka, England",England,normal,8 wickets,Null,Sri Lanka,bat,KP Pietersen,"Asad Rauf, BNJ Oxenford",J Srinath,Test,male
+522245,2011-08-04,Null,Harare Sports Club,"Zimbabwe, Bangladesh",Zimbabwe,normal,130 runs,Null,Bangladesh,field,BRM Taylor,"HDPK Dharmasena, BNJ Oxenford",RS Mahanama,Test,male
+523731,2011-09-01,Bulawayo,Queens Sports Club,"Zimbabwe, Pakistan",Pakistan,normal,7 wickets,Null,Pakistan,field,Mohammad Hafeez,"IJ Gould, RJ Tucker",DC Boon,Test,male
+527017,2011-11-01,Bulawayo,Queens Sports Club,"Zimbabwe, New Zealand",New Zealand,normal,34 runs,Null,New Zealand,bat,DL Vettori,"M Erasmus, BNJ Oxenford",BC Broad,Test,male
+530424,2011-10-18,Abu Dhabi,Sheikh Zayed Stadium,"Pakistan, Sri Lanka",Null,draw,Null,Null,Pakistan,field,KC Sangakkara,"AL Hill, RJ Tucker",DC Boon,Test,male
+530425,2011-10-26,Dubai,Dubai International Cricket Stadium,"Pakistan, Sri Lanka",Pakistan,normal,9 wickets,Null,Sri Lanka,bat,Saeed Ajmal,"AL Hill, SK Tarapore",DC Boon,Test,male
+530426,2011-11-03,Sharjah,Sharjah Cricket Stadium,"Pakistan, Sri Lanka",Null,draw,Null,Null,Sri Lanka,bat,KC Sangakkara,"SK Tarapore, SJA Taufel",DC Boon,Test,male
+531628,2012-01-17,Dubai,Dubai International Cricket Stadium,"England, Pakistan",Pakistan,normal,10 wickets,Null,England,bat,Saeed Ajmal,"BF Bowden, BNJ Oxenford",J Srinath,Test,male
+531629,2012-01-25,Abu Dhabi,Sheikh Zayed Stadium,"England, Pakistan",Pakistan,normal,72 runs,Null,Pakistan,bat,Abdur Rehman,"SJ Davis, BNJ Oxenford",J Srinath,Test,male
+531630,2012-02-03,Dubai,Dubai International Cricket Stadium,"England, Pakistan",Pakistan,normal,71 runs,Null,Pakistan,bat,Azhar Ali,"SJ Davis, SJA Taufel",JJ Crowe,Test,male
+531986,2011-10-21,Chittagong,Zahur Ahmed Chowdhury Stadium,"Bangladesh, West Indies",Null,draw,Null,Null,Bangladesh,bat,Elias Sunny,"HDPK Dharmasena, NJ Llong",AJ Pycroft,Test,male
+531987,2011-10-29,Mirpur,Shere Bangla National Stadium,"Bangladesh, West Indies",West Indies,normal,229 runs,Null,West Indies,bat,KA Edwards,"HDPK Dharmasena, NJ Llong",AJ Pycroft,Test,male
+534205,2012-05-17,London,Lord's,"England, West Indies",England,normal,5 wickets,Null,England,field,SCJ Broad,"Aleem Dar, M Erasmus",RS Mahanama,Test,male
+534206,2012-05-25,Nottingham,Trent Bridge,"England, West Indies",England,normal,9 wickets,Null,West Indies,bat,TT Bresnan,"Aleem Dar, Asad Rauf",RS Mahanama,Test,male
+534207,2012-06-07,Birmingham,Edgbaston,"England, West Indies",Null,draw,Null,Null,England,field,TL Best,"HDPK Dharmasena, AL Hill",RS Mahanama,Test,male
+534225,2012-07-19,London,Kennington Oval,"England, South Africa",South Africa,normal,12 runs,Null,England,bat,HM Amla,"Asad Rauf, SJ Davis",JJ Crowe,Test,male
+534226,2012-08-02,Leeds,Headingley,"England, South Africa",Null,draw,Null,Null,England,field,KP Pietersen,"SJ Davis, RJ Tucker",JJ Crowe,Test,male
+534227,2012-08-16,London,Lord's,"England, South Africa",South Africa,normal,51 runs,Null,South Africa,bat,VD Philander,"HDPK Dharmasena, SJA Taufel",JJ Crowe,Test,male
+535997,2011-11-06,Delhi,Feroz Shah Kotla,"India, West Indies",India,normal,5 wickets,Null,West Indies,bat,R Ashwin,"HDPK Dharmasena, RJ Tucker",JJ Crowe,Test,male
+535998,2011-11-14,Kolkata,Eden Gardens,"India, West Indies",India,normal,15 runs,Null,India,bat,VVS Laxman,"BNJ Oxenford, RJ Tucker",JJ Crowe,Test,male
+535999,2011-11-22,Mumbai,Wankhede Stadium,"India, West Indies",Null,draw,Null,Null,West Indies,bat,R Ashwin,"AL Hill, BNJ Oxenford",DC Boon,Test,male
+538072,2011-12-09,Chittagong,Zahur Ahmed Chowdhury Stadium,"Bangladesh, Pakistan",Pakistan,normal,184 runs,Null,Pakistan,field,Younis Khan,"BR Doctrove, SK Tarapore",J Srinath,Test,male
+538073,2011-12-17,Mirpur,Shere Bangla National Stadium,"Bangladesh, Pakistan",Pakistan,normal,7 wickets,Null,Pakistan,field,Shakib Al Hasan,"BR Doctrove, SK Tarapore",DC Boon,Test,male
+540176,2012-04-07,Barbados,"Kensington Oval, Bridgetown","West Indies, Australia",Australia,normal,3 wickets,Null,West Indies,bat,RJ Harris,"IJ Gould, AL Hill",JJ Crowe,Test,male
+540177,2012-04-15,Trinidad,"Queen's Park Oval, Port of Spain","West Indies, Australia",Null,draw,Null,Null,Australia,bat,KAJ Roach,"M Erasmus, IJ Gould",JJ Crowe,Test,male
+540178,2012-04-23,Dominica,"Windsor Park, Roseau","West Indies, Australia",Australia,normal,75 runs,Null,Australia,bat,MS Wade,"M Erasmus, AL Hill",JJ Crowe,Test,male
+560929,2012-07-25,Antigua,"Sir Vivian Richards Stadium, North Sound","West Indies, New Zealand",West Indies,normal,9 wickets,Null,New Zealand,bat,SP Narine,"RA Kettleborough, PR Reiffel",RS Madugalle,Test,male
+560930,2012-08-02,Jamaica,"Sabina Park, Kingston","West Indies, New Zealand",West Indies,normal,5 wickets,Null,West Indies,field,MN Samuels,"M Erasmus, PR Reiffel",RS Madugalle,Test,male
+562444,2012-06-22,Null,Galle International Stadium,"Sri Lanka, Pakistan",Sri Lanka,normal,209 runs,Null,Sri Lanka,bat,KC Sangakkara,"SJ Davis, IJ Gould",DC Boon,Test,male
+562445,2012-06-30,Colombo,Sinhalese Sports Club Ground,"Sri Lanka, Pakistan",Null,draw,Null,Null,Sri Lanka,field,Junaid Khan,"IJ Gould, SJA Taufel",DC Boon,Test,male
+562446,2012-07-08,Pallekele,Pallekele International Cricket Stadium,"Sri Lanka, Pakistan",Null,draw,Null,Null,Sri Lanka,field,Asad Shafiq,"SJ Davis, SJA Taufel",DC Boon,Test,male
+565806,2012-11-15,Ahmedabad,"Sardar Patel Stadium, Motera","India, England",India,normal,9 wickets,Null,India,bat,CA Pujara,"Aleem Dar, AL Hill",RS Mahanama,Test,male
+565807,2012-11-23,Mumbai,Wankhede Stadium,"India, England",England,normal,10 wickets,Null,India,bat,KP Pietersen,"Aleem Dar, AL Hill",RS Mahanama,Test,male
+565808,2012-12-05,Kolkata,Eden Gardens,"India, England",England,normal,7 wickets,Null,India,bat,AN Cook,"HDPK Dharmasena, RJ Tucker",JJ Crowe,Test,male
+565809,2012-12-13,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha","India, England",Null,draw,Null,Null,England,bat,JM Anderson,"HDPK Dharmasena, RJ Tucker",JJ Crowe,Test,male
+565817,2012-08-23,Hyderabad,"Rajiv Gandhi International Stadium, Uppal","India, New Zealand",India,normal,115 runs,Null,India,bat,R Ashwin,"SJ Davis, IJ Gould",BC Broad,Test,male
+565818,2012-08-31,Bangalore,M Chinnaswamy Stadium,"India, New Zealand",India,normal,5 wickets,Null,New Zealand,bat,V Kohli,"SJ Davis, IJ Gould",BC Broad,Test,male
+566921,2013-05-16,London,Lord's,"England, New Zealand",England,normal,170 runs,Null,England,bat,SCJ Broad,"Aleem Dar, SJ Davis",DC Boon,Test,male
+566922,2013-05-24,Leeds,Headingley,"England, New Zealand",England,normal,247 runs,Null,England,bat,GP Swann,"SJ Davis, M Erasmus",DC Boon,Test,male
+566932,2013-07-10,Nottingham,Trent Bridge,"England, Australia",England,normal,14 runs,Null,England,bat,JM Anderson,"Aleem Dar, HDPK Dharmasena",RS Madugalle,Test,male
+566933,2013-07-18,London,Lord's,"England, Australia",England,normal,347 runs,Null,England,bat,JE Root,"HDPK Dharmasena, M Erasmus",RS Madugalle,Test,male
+566934,2013-08-01,Manchester,Old Trafford,"England, Australia",Null,draw,Null,Null,Australia,bat,MJ Clarke,"M Erasmus, AL Hill",RS Madugalle,Test,male
+566935,2013-08-09,Chester-le-Street,Riverside Ground,"England, Australia",England,normal,74 runs,Null,England,bat,SCJ Broad,"Aleem Dar, AL Hill",RS Mahanama,Test,male
+566936,2013-08-21,London,Kennington Oval,"England, Australia",Null,draw,Null,Null,Australia,bat,SR Watson,"Aleem Dar, HDPK Dharmasena",RS Mahanama,Test,male
+567356,2013-01-02,Cape Town,Newlands,"South Africa, New Zealand",South Africa,normal,27 runs,Null,New Zealand,bat,VD Philander,"IJ Gould, RJ Tucker",DC Boon,Test,male
+567357,2013-01-11,Port Elizabeth,St George's Park,"South Africa, New Zealand",South Africa,normal,193 runs,Null,South Africa,bat,DW Steyn,"HDPK Dharmasena, IJ Gould",DC Boon,Test,male
+567363,2013-02-01,Johannesburg,New Wanderers Stadium,"South Africa, Pakistan",South Africa,normal,211 runs,Null,South Africa,bat,DW Steyn,"BF Bowden, BNJ Oxenford",JJ Crowe,Test,male
+567364,2013-02-14,Cape Town,Newlands,"South Africa, Pakistan",South Africa,normal,4 wickets,Null,South Africa,field,RJ Peterson,"SJ Davis, BNJ Oxenford",JJ Crowe,Test,male
+567365,2013-02-22,Centurion,SuperSport Park,"South Africa, Pakistan",South Africa,normal,18 runs,Null,South Africa,bat,KJ Abbott,"BF Bowden, SJ Davis",JJ Crowe,Test,male
+569243,2013-03-06,Dunedin,University Oval,"New Zealand, England",Null,draw,Null,Null,New Zealand,field,Null,"Asad Rauf, PR Reiffel",RS Mahanama,Test,male
+569244,2013-03-14,Wellington,Basin Reserve,"New Zealand, England",Null,draw,Null,Null,New Zealand,field,Null,"Asad Rauf, RJ Tucker",RS Mahanama,Test,male
+569245,2013-03-22,Auckland,Eden Park,"New Zealand, England",Null,draw,Null,Null,England,field,Null,"PR Reiffel, RJ Tucker",RS Mahanama,Test,male
+573007,2012-11-09,Brisbane,"Brisbane Cricket Ground, Woolloongabba","Australia, South Africa",Null,draw,Null,Null,South Africa,bat,MJ Clarke,"Asad Rauf, BF Bowden",RS Madugalle,Test,male
+573008,2012-11-22,Adelaide,Adelaide Oval,"Australia, South Africa",Null,draw,Null,Null,Australia,bat,F du Plessis,"BF Bowden, RA Kettleborough",RS Madugalle,Test,male
+573009,2012-11-30,Perth,Western Australia Cricket Association Ground,"Australia, South Africa",South Africa,normal,309 runs,Null,South Africa,bat,HM Amla,"Asad Rauf, RA Kettleborough",RS Madugalle,Test,male
+573011,2012-12-14,Hobart,Bellerive Oval,"Australia, Sri Lanka",Australia,normal,137 runs,Null,Australia,bat,PM Siddle,"AL Hill, NJ Llong",BC Broad,Test,male
+573012,2012-12-26,Melbourne,Melbourne Cricket Ground,"Australia, Sri Lanka",Australia,normal,201 runs,Null,Sri Lanka,bat,MG Johnson,"Aleem Dar, NJ Llong",BC Broad,Test,male
+573013,2013-01-03,Sydney,Sydney Cricket Ground,"Australia, Sri Lanka",Australia,normal,5 wickets,Null,Australia,field,JM Bird,"Aleem Dar, AL Hill",BC Broad,Test,male
+582192,2012-11-17,Null,Galle International Stadium,"Sri Lanka, New Zealand",Sri Lanka,normal,10 wickets,Null,New Zealand,bat,HMRKB Herath,"M Erasmus, NJ Llong",J Srinath,Test,male
+582193,2012-11-25,Colombo,P Sara Oval,"Sri Lanka, New Zealand",New Zealand,normal,167 runs,Null,New Zealand,bat,LRPL Taylor,"M Erasmus, NJ Llong",J Srinath,Test,male
+587469,2012-11-13,Mirpur,Shere Bangla National Stadium,"Bangladesh, West Indies",West Indies,normal,77 runs,Null,West Indies,bat,KOA Powell,"RK Illingworth, BNJ Oxenford",DC Boon,Test,male
+587470,2012-11-21,Khulna,Sheikh Abu Naser Stadium,"Bangladesh, West Indies",West Indies,normal,10 wickets,Null,Bangladesh,bat,MN Samuels,"RK Illingworth, BNJ Oxenford",DC Boon,Test,male
+592397,2013-11-21,Brisbane,"Brisbane Cricket Ground, Woolloongabba","Australia, England",Australia,normal,381 runs,Null,Australia,bat,MG Johnson,"Aleem Dar, HDPK Dharmasena",JJ Crowe,Test,male
+592398,2013-12-05,Adelaide,Adelaide Oval,"Australia, England",Australia,normal,218 runs,Null,Australia,bat,MG Johnson,"HDPK Dharmasena, M Erasmus",JJ Crowe,Test,male
+592399,2013-12-13,Perth,Western Australia Cricket Association Ground,"Australia, England",Australia,normal,150 runs,Null,Australia,bat,SPD Smith,"BF Bowden, M Erasmus",JJ Crowe,Test,male
+592400,2013-12-26,Melbourne,Melbourne Cricket Ground,"Australia, England",Australia,normal,8 wickets,Null,Australia,field,MG Johnson,"Aleem Dar, HDPK Dharmasena",RS Madugalle,Test,male
+592401,2014-01-03,Sydney,Sydney Cricket Ground,"Australia, England",Australia,normal,281 runs,Null,England,field,RJ Harris,"Aleem Dar, M Erasmus",RS Madugalle,Test,male
+593722,2013-08-11,Wormsley,Sir Paul Getty's Ground,"England, Australia",Null,draw,Null,Null,Australia,bat,HC Knight,"MR Benson, M Burns",DT Jukes,Test,female
+593988,2013-03-12,Barbados,"Kensington Oval, Bridgetown","West Indies, Zimbabwe",West Indies,normal,9 wickets,Null,Zimbabwe,bat,S Shillingford,"REJ Martinesz, BNJ Oxenford",JJ Crowe,Test,male
+593989,2013-03-20,Dominica,"Windsor Park, Roseau","West Indies, Zimbabwe",West Indies,normal,65 runs,Null,West Indies,field,S Shillingford,"AL Hill, REJ Martinesz",JJ Crowe,Test,male
+598812,2013-02-22,Chennai,"MA Chidambaram Stadium, Chepauk","India, Australia",India,normal,8 wickets,Null,Australia,bat,MS Dhoni,"HDPK Dharmasena, M Erasmus",BC Broad,Test,male
+598813,2013-03-02,Hyderabad,"Rajiv Gandhi International Stadium, Uppal","India, Australia",India,normal,135 runs,Null,Australia,bat,CA Pujara,"HDPK Dharmasena, M Erasmus",BC Broad,Test,male
+598814,2013-03-14,Chandigarh,"Punjab Cricket Association Stadium, Mohali","India, Australia",India,normal,6 wickets,Null,Australia,bat,S Dhawan,"Aleem Dar, RA Kettleborough",RS Madugalle,Test,male
+598815,2013-03-22,Delhi,Feroz Shah Kotla,"India, Australia",India,normal,6 wickets,Null,Australia,bat,RA Jadeja,"Aleem Dar, RA Kettleborough",RS Madugalle,Test,male
+602472,2013-03-08,Null,Galle International Stadium,"Sri Lanka, Bangladesh",Null,draw,Null,Null,Sri Lanka,bat,Mushfiqur Rahim,"RK Illingworth, NJ Llong",DC Boon,Test,male
+602473,2013-03-16,Colombo,R Premadasa Stadium,"Sri Lanka, Bangladesh",Sri Lanka,normal,7 wickets,Null,Sri Lanka,field,HMRKB Herath,"RK Illingworth, NJ Llong",DC Boon,Test,male
+623576,2013-04-17,Null,Harare Sports Club,"Zimbabwe, Bangladesh",Zimbabwe,normal,335 runs,Null,Bangladesh,field,BRM Taylor,"BF Bowden, AL Hill",BC Broad,Test,male
+623577,2013-04-25,Null,Harare Sports Club,"Zimbabwe, Bangladesh",Bangladesh,normal,143 runs,Null,Zimbabwe,field,Mushfiqur Rahim,"IJ Gould, AL Hill",BC Broad,Test,male
+63963,2001-12-19,Bengaluru,"M Chinnaswamy Stadium, Bangalore","England, India",Null,draw,Null,Null,England,bat,A Flintoff,"AV Jayaprakash, EAR de Silva",DT Lindsay,Test,male
+64012,2002-12-26,Melbourne,Melbourne Cricket Ground,"Australia, England",Australia,normal,5 wickets,Null,Australia,bat,JL Langer,"DL Orchard, RB Tiffin",Wasim Raja,Test,male
+64013,2003-01-02,Sydney,Sydney Cricket Ground,"England, Australia",England,normal,225 runs,Null,England,bat,MP Vaughan,"DL Orchard, RB Tiffin",Wasim Raja,Test,male
+64022,2002-12-26,Durban,"Kingsmead, Durban","South Africa, Pakistan",South Africa,normal,10 wickets,Null,Pakistan,field,JH Kallis,"S Venkataraghavan, SA Bucknor",GR Viswanath,Test,male
+64023,2003-01-02,Cape Town,"Newlands, Cape Town","South Africa, Pakistan",South Africa,normal,142 runs,Null,South Africa,bat,HH Gibbs,"S Venkataraghavan, SA Bucknor",GR Viswanath,Test,male
+64027,2003-05-09,St John's,"Antigua Recreation Ground, St John's, Antigua","Australia, West Indies",West Indies,normal,3 wickets,Null,Australia,bat,S Chanderpaul,"DR Shepherd, S Venkataraghavan",MJ Procter,Test,male
+64036,2003-07-18,Darwin,"Marrara Cricket Ground, Darwin","Bangladesh, Australia",Australia,normal,132 runs,Null,Australia,field,SR Waugh,"DR Shepherd, RE Koertzen",MJ Procter,Test,male
+64038,2003-07-24,Birmingham,"Edgbaston, Birmingham","South Africa, England",Null,draw,Null,Null,South Africa,bat,GC Smith,"DJ Harper, S Venkataraghavan",RS Madugalle,Test,male
+64040,2003-08-14,Nottingham,"Trent Bridge, Nottingham","England, South Africa",England,normal,70 runs,Null,England,bat,RJ Kirtley,"DB Hair, DJ Harper",RS Madugalle,Test,male
+64041,2003-08-21,Leeds,"Headingley, Leeds","South Africa, England",South Africa,normal,191 runs,Null,South Africa,bat,G Kirsten,"BF Bowden, SJA Taufel",RS Madugalle,Test,male
+64042,2003-09-04,London,"Kennington Oval, London","South Africa, England",England,normal,9 wickets,Null,South Africa,bat,ME Trescothick,"SJA Taufel, S Venkataraghavan",RS Madugalle,Test,male
+64045,2003-09-03,Multan,Multan Cricket Stadium,"Bangladesh, Pakistan",Pakistan,normal,1 wickets,Null,Bangladesh,bat,Inzamam-ul-Haq,"EAR de Silva, RB Tiffin",MJ Procter,Test,male
+64047,2003-10-16,Chandigarh,"Punjab Cricket Association Stadium, Mohali, Chandigarh","New Zealand, India",Null,draw,Null,Null,New Zealand,bat,DR Tuffey,"DR Shepherd, RE Koertzen",RS Madugalle,Test,male
+64048,2003-10-09,Perth,"Western Australia Cricket Association Ground, Perth","Australia, Zimbabwe",Australia,normal,175 runs,Null,Zimbabwe,field,ML Hayden,"P Willey, S Venkataraghavan",GR Viswanath,Test,male
+64049,2003-10-17,Sydney,Sydney Cricket Ground,"Zimbabwe, Australia",Australia,normal,9 wickets,Null,Zimbabwe,bat,RT Ponting,"BF Bowden, S Venkataraghavan",GR Viswanath,Test,male
+64050,2003-10-17,Lahore,"Gaddafi Stadium, Lahore","South Africa, Pakistan",Pakistan,normal,8 wickets,Null,South Africa,bat,"Taufeeq Umar, Danish Kaneria","DB Hair, NA Mallender",CH Lloyd,Test,male
+64051,2003-10-24,Faisalabad,"Iqbal Stadium, Faisalabad","South Africa, Pakistan",Null,draw,Null,Null,South Africa,bat,"G Kirsten, Taufeeq Umar","DJ Harper, SJA Taufel",CH Lloyd,Test,male
+64052,2003-10-21,Dhaka,"Bangabandhu National Stadium, Dhaka","Bangladesh, England",England,normal,7 wickets,Null,Bangladesh,bat,SJ Harmison,"Aleem Dar, EAR de Silva",Wasim Raja,Test,male
+64053,2003-10-29,Chattogram,"MA Aziz Stadium, Chittagong","England, Bangladesh",England,normal,329 runs,Null,Bangladesh,field,RL Johnson,"Aleem Dar, EAR de Silva",Wasim Raja,Test,male
+64055,2003-11-12,Bulawayo,"Queens Sports Club, Bulawayo","West Indies, Zimbabwe",West Indies,normal,128 runs,Null,West Indies,bat,BC Lara,"RE Koertzen, SJA Taufel",GR Viswanath,Test,male
+64058,2003-12-18,Colombo,"Sinhalese Sports Club Ground, Colombo","England, Sri Lanka",Sri Lanka,normal,215 runs,Null,England,bat,TT Samaraweera,"Aleem Dar, SA Bucknor",CH Lloyd,Test,male
+64059,2003-12-04,Brisbane,"Brisbane Cricket Ground, Woolloongabba, Brisbane","Australia, India",Null,draw,Null,Null,India,field,SC Ganguly,"RE Koertzen, SA Bucknor",MJ Procter,Test,male
+64062,2004-01-02,Sydney,Sydney Cricket Ground,"India, Australia",Null,draw,Null,Null,India,bat,SR Tendulkar,"BF Bowden, SA Bucknor",MJ Procter,Test,male
+64063,2003-12-12,Johannesburg,"New Wanderers Stadium, Johannesburg","South Africa, West Indies",South Africa,normal,189 runs,Null,South Africa,bat,M Ntini,"DB Hair, SJA Taufel",RS Madugalle,Test,male
+64071,2004-03-08,Galle,Galle International Stadium,"Australia, Sri Lanka",Australia,normal,197 runs,Null,Australia,bat,ML Hayden,"DR Shepherd, RE Koertzen",BC Broad,Test,male
+64075,2004-03-18,Auckland,Eden Park,"South Africa, New Zealand",New Zealand,normal,9 wickets,Null,New Zealand,field,CS Martin,"Aleem Dar, EAR de Silva",CH Lloyd,Test,male
+64076,2004-03-26,Wellington,"Basin Reserve, Wellington","New Zealand, South Africa",South Africa,normal,6 wickets,Null,South Africa,field,GC Smith,"Aleem Dar, EAR de Silva",CH Lloyd,Test,male
+64080,2004-04-10,St John's,Antigua Recreation Ground,"West Indies, England",Null,draw,Null,Null,West Indies,bat,BC Lara,"Aleem Dar, DB Hair",MJ Procter,Test,male
+64083,2004-04-13,Rawalpindi,Rawalpindi Cricket Stadium,"Pakistan, India",India,normal,131 runs,Null,India,field,R Dravid,"DR Shepherd, RE Koertzen",RS Madugalle,Test,male
+64094,2004-07-29,Birmingham,Edgbaston,"England, West Indies",England,normal,256 runs,Null,England,bat,A Flintoff,"DB Hair, SJA Taufel",RS Madugalle,Test,male
+64096,2004-08-19,London,Kennington Oval,"England, West Indies",England,normal,10 wickets,Null,England,bat,SJ Harmison,"DB Hair, RE Koertzen",RS Madugalle,Test,male
+64100,2004-10-14,Chennai,MA Chidambaram Stadium,"Australia, India",Null,draw,Null,Null,Australia,bat,A Kumble,"DR Shepherd, RE Koertzen",RS Madugalle,Test,male
+64102,2004-11-03,Mumbai,Wankhede Stadium,"India, Australia",India,normal,13 runs,Null,India,bat,M Kartik,"Aleem Dar, RE Koertzen",RS Madugalle,Test,male
+64104,2004-10-26,Chattogram,MA Aziz Stadium,"New Zealand, Bangladesh",New Zealand,normal,101 runs,Null,New Zealand,bat,SP Fleming,"DJ Harper, MR Benson",AG Hurst,Test,male
+64107,2004-11-18,Brisbane,Brisbane Cricket Ground,"New Zealand, Australia",Australia,normal,156 runs,Null,New Zealand,bat,MJ Clarke,"Aleem Dar, SA Bucknor",MJ Procter,Test,male
+64108,2004-11-26,Adelaide,Adelaide Oval,"Australia, New Zealand",Australia,normal,213 runs,Null,Australia,bat,JL Langer,"DR Shepherd, SA Bucknor",MJ Procter,Test,male
+64109,2004-11-20,Kanpur,Green Park,"South Africa, India",Null,draw,Null,Null,South Africa,bat,AJ Hall,"DJ Harper, SJA Taufel",JJ Crowe,Test,male
+64110,2004-11-28,Kolkata,Eden Gardens,"South Africa, India",India,normal,8 wickets,Null,South Africa,bat,Harbhajan Singh,"DJ Harper, SJA Taufel",JJ Crowe,Test,male
+64111,2004-12-10,Dhaka,Bangabandhu National Stadium,"Bangladesh, India",India,normal,140 runs,Null,India,field,IK Pathan,"Aleem Dar, JW Lloyds",BC Broad,Test,male
+64113,2004-12-16,Perth,W.A.C.A. Ground,"Australia, Pakistan",Australia,normal,491 runs,Null,Pakistan,field,JL Langer,"BF Bowden, RE Koertzen",RS Madugalle,Test,male
+64118,2005-01-02,Cape Town,Newlands,"South Africa, England",South Africa,normal,196 runs,Null,South Africa,bat,JH Kallis,"DJ Harper, SA Bucknor",CH Lloyd,Test,male
+64123,2005-03-04,Cape Town,Newlands,"Zimbabwe, South Africa",South Africa,normal,21 runs,Null,Zimbabwe,bat,JH Kallis,"BF Bowden, BR Doctrove",AG Hurst,Test,male
+64124,2005-03-11,Centurion,SuperSport Park,"Zimbabwe, South Africa",South Africa,normal,62 runs,Null,South Africa,field,M Zondeki,"BR Doctrove, DJ Harper",AG Hurst,Test,male
+64128,2005-03-10,Christchurch,AMI Stadium,"New Zealand, Australia",Australia,normal,9 wickets,Null,Australia,field,AC Gilchrist,"Aleem Dar, DR Shepherd",CH Lloyd,Test,male
+64129,2005-03-18,Wellington,Basin Reserve,"Australia, New Zealand",Null,draw,Null,Null,New Zealand,field,AC Gilchrist,"DR Shepherd, RE Koertzen",CH Lloyd,Test,male
+64134,2005-04-11,Wellington,Basin Reserve,"Sri Lanka, New Zealand",New Zealand,normal,38 runs,Null,New Zealand,field,L Vincent,"DB Hair, SA Bucknor",MJ Procter,Test,male
+648665,2013-12-18,Johannesburg,New Wanderers Stadium,"South Africa, India",Null,draw,Null,Null,India,bat,V Kohli,"SJ Davis, RJ Tucker",AJ Pycroft,Test,male
+648667,2013-12-26,Durban,Kingsmead,"South Africa, India",South Africa,normal,10 wickets,Null,India,bat,DW Steyn,"SJ Davis, RJ Tucker",AJ Pycroft,Test,male
+648673,2014-02-12,Centurion,SuperSport Park,"South Africa, Australia",Australia,normal,281 runs,Null,South Africa,field,MG Johnson,"Aleem Dar, RK Illingworth",RS Mahanama,Test,male
+648675,2014-02-20,Port Elizabeth,St George's Park,"South Africa, Australia",South Africa,normal,231 runs,Null,South Africa,bat,JP Duminy,"HDPK Dharmasena, RK Illingworth",RS Mahanama,Test,male
+648677,2014-03-01,Cape Town,Newlands,"South Africa, Australia",Australia,normal,245 runs,Null,Australia,bat,DA Warner,"Aleem Dar, HDPK Dharmasena",RS Mahanama,Test,male
+649087,2013-10-14,Abu Dhabi,Sheikh Zayed Stadium,"Pakistan, South Africa",Pakistan,normal,7 wickets,Null,South Africa,bat,Khurram Manzoor,"PR Reiffel, RJ Tucker",DC Boon,Test,male
+649089,2013-10-23,Dubai,Dubai International Cricket Stadium,"Pakistan, South Africa",South Africa,normal,92 runs,Null,Pakistan,bat,GC Smith,"IJ Gould, RJ Tucker",DC Boon,Test,male
+657647,2013-12-31,Abu Dhabi,Sheikh Zayed Stadium,"Pakistan, Sri Lanka",Null,draw,Null,Null,Pakistan,field,AD Mathews,"RA Kettleborough, BNJ Oxenford",J Srinath,Test,male
+657649,2014-01-08,Dubai,Dubai International Cricket Stadium,"Pakistan, Sri Lanka",Sri Lanka,normal,9 wickets,Null,Sri Lanka,field,DPMD Jayawardene,"BNJ Oxenford, S Ravi",J Srinath,Test,male
+657651,2014-01-16,Sharjah,Sharjah Cricket Stadium,"Pakistan, Sri Lanka",Pakistan,normal,5 wickets,Null,Sri Lanka,bat,Azhar Ali,"RA Kettleborough, S Ravi",J Srinath,Test,male
+659555,2013-09-03,Null,Harare Sports Club,"Zimbabwe, Pakistan",Pakistan,normal,221 runs,Null,Zimbabwe,field,Younis Khan,"SJ Davis, REJ Martinesz",J Srinath,Test,male
+659557,2013-09-10,Null,Harare Sports Club,"Zimbabwe, Pakistan",Zimbabwe,normal,24 runs,Null,Zimbabwe,bat,TL Chatara,"SJ Davis, REJ Martinesz",J Srinath,Test,male
+661679,2013-12-03,Dunedin,University Oval,"New Zealand, West Indies",Null,draw,Null,Null,West Indies,field,LRPL Taylor,"NJ Llong, PR Reiffel",RS Mahanama,Test,male
+661681,2013-12-11,Wellington,Basin Reserve,"New Zealand, West Indies",New Zealand,normal,73 runs,Null,West Indies,field,TA Boult,"IJ Gould, PR Reiffel",RS Mahanama,Test,male
+661683,2013-12-19,Hamilton,Seddon Park,"New Zealand, West Indies",New Zealand,normal,8 wickets,Null,New Zealand,field,LRPL Taylor,"IJ Gould, NJ Llong",RS Mahanama,Test,male
+667651,2014-02-06,Auckland,Eden Park,"New Zealand, India",New Zealand,normal,40 runs,Null,India,field,BB McCullum,"SJ Davis, RA Kettleborough",RS Madugalle,Test,male
+667653,2014-02-14,Wellington,Basin Reserve,"New Zealand, India",Null,draw,Null,Null,India,field,BB McCullum,"SJ Davis, RA Kettleborough",RS Madugalle,Test,male
+667711,2014-07-09,Nottingham,Trent Bridge,"England, India",Null,draw,Null,Null,India,bat,JM Anderson,"HDPK Dharmasena, BNJ Oxenford",DC Boon,Test,male
+667713,2014-07-17,London,Lord's,"England, India",India,normal,95 runs,Null,England,field,I Sharma,"HDPK Dharmasena, BNJ Oxenford",DC Boon,Test,male
+667715,2014-07-27,Southampton,The Rose Bowl,"England, India",England,normal,266 runs,Null,England,bat,JM Anderson,"M Erasmus, RJ Tucker",DC Boon,Test,male
+667717,2014-08-07,Manchester,Old Trafford,"England, India",England,normal,54 runs,Null,India,bat,SCJ Broad,"M Erasmus, RJ Tucker",RS Madugalle,Test,male
+667719,2014-08-15,London,Kennington Oval,"England, India",England,normal,244 runs,Null,England,field,JE Root,"HDPK Dharmasena, PR Reiffel",RS Madugalle,Test,male
+667899,2014-06-12,London,Lord's,"England, Sri Lanka",Null,draw,Null,Null,Sri Lanka,field,JE Root,"BF Bowden, PR Reiffel",AJ Pycroft,Test,male
+667901,2014-06-20,Leeds,Headingley,"England, Sri Lanka",Sri Lanka,normal,100 runs,Null,England,field,AD Mathews,"BF Bowden, SJ Davis",AJ Pycroft,Test,male
+668949,2013-10-09,Chittagong,Zahur Ahmed Chowdhury Stadium,"Bangladesh, New Zealand",Null,draw,Null,Null,New Zealand,bat,Sohag Gazi,"BNJ Oxenford, S Ravi",J Srinath,Test,male
+668951,2013-10-21,Mirpur,Shere Bangla National Stadium,"Bangladesh, New Zealand",Null,draw,Null,Null,Bangladesh,bat,Mominul Haque,"RK Illingworth, BNJ Oxenford",J Srinath,Test,male
+67517,2003-02-22,Sydney,"Bankstown Oval, Sydney","Australia, England",Null,draw,Null,Null,England,field,LC Pearson,"NSD Fowler, SA Reed",Null,Test,female
+676525,2013-11-06,Kolkata,Eden Gardens,"India, West Indies",India,normal,51 runs,Null,West Indies,bat,RG Sharma,"RA Kettleborough, NJ Llong",AJ Pycroft,Test,male
+676527,2013-11-14,Mumbai,Wankhede Stadium,"India, West Indies",India,normal,126 runs,Null,India,field,PP Ojha,"RA Kettleborough, NJ Llong",AJ Pycroft,Test,male
+690347,2014-01-27,Mirpur,Shere Bangla National Stadium,"Bangladesh, Sri Lanka",Sri Lanka,normal,248 runs,Null,Sri Lanka,field,DPMD Jayawardene,"NJ Llong, PR Reiffel",J Srinath,Test,male
+690349,2014-02-04,Chittagong,Zahur Ahmed Chowdhury Stadium,"Bangladesh, Sri Lanka",Null,draw,Null,Null,Sri Lanka,bat,KC Sangakkara,"NJ Llong, PR Reiffel",DC Boon,Test,male
+722329,2014-12-17,Centurion,SuperSport Park,"South Africa, West Indies",South Africa,normal,220 runs,Null,West Indies,field,HM Amla,"Aleem Dar, BF Bowden",RS Madugalle,Test,male
+722331,2014-12-26,Port Elizabeth,St George's Park,"South Africa, West Indies",Null,draw,Null,Null,West Indies,field,KC Brathwaite,"BF Bowden, PR Reiffel",RS Madugalle,Test,male
+722333,2015-01-02,Cape Town,Newlands,"South Africa, West Indies",South Africa,normal,8 wickets,Null,West Indies,bat,AB de Villiers,"Aleem Dar, PR Reiffel",RS Madugalle,Test,male
+722387,2014-08-13,Wormsley,Sir Paul Getty's Ground,"England, India",India,normal,6 wickets,Null,India,field,JL Gunn,"DJ Millns, BV Taylor",DT Jukes,Test,female
+727927,2014-10-22,Dubai,Dubai International Cricket Stadium,"Australia, Pakistan",Pakistan,normal,221 runs,Null,Pakistan,bat,Younis Khan,"M Erasmus, RA Kettleborough",RS Madugalle,Test,male
+727929,2014-10-30,Abu Dhabi,Sheikh Zayed Stadium,"Australia, Pakistan",Pakistan,normal,356 runs,Null,Pakistan,bat,Misbah-ul-Haq,"RA Kettleborough, NJ Llong",RS Madugalle,Test,male
+730089,2014-07-16,Null,Galle International Stadium,"Sri Lanka, South Africa",South Africa,normal,153 runs,Null,South Africa,bat,DW Steyn,"BF Bowden, RA Kettleborough",JJ Crowe,Test,male
+730091,2014-07-24,Colombo,Sinhalese Sports Club Ground,"Sri Lanka, South Africa",Null,draw,Null,Null,Sri Lanka,bat,DPMD Jayawardene,"RA Kettleborough, NJ Llong",JJ Crowe,Test,male
+730277,2014-06-08,Jamaica,"Sabina Park, Kingston","West Indies, New Zealand",New Zealand,normal,186 runs,Null,New Zealand,bat,MD Craig,"RK Illingworth, RJ Tucker",BC Broad,Test,male
+730279,2014-06-16,Trinidad,"Queen's Park Oval, Port of Spain","West Indies, New Zealand",West Indies,normal,10 wickets,Null,New Zealand,bat,KC Brathwaite,"IJ Gould, RJ Tucker",BC Broad,Test,male
+730281,2014-06-26,Barbados,"Kensington Oval, Bridgetown","West Indies, New Zealand",New Zealand,normal,53 runs,Null,New Zealand,bat,KS Williamson,"IJ Gould, RK Illingworth",J Srinath,Test,male
+730295,2014-09-05,St Vincent,"Arnos Vale Ground, Kingstown","West Indies, Bangladesh",West Indies,normal,10 wickets,Null,Bangladesh,field,KC Brathwaite,"M Erasmus, RK Illingworth",RS Mahanama,Test,male
+730297,2014-09-13,St Lucia,"Beausejour Stadium, Gros Islet","West Indies, Bangladesh",West Indies,normal,296 runs,Null,Bangladesh,field,S Chanderpaul,"SJ Davis, RK Illingworth",RS Mahanama,Test,male
+736435,2014-08-09,Null,Harare Sports Club,"Zimbabwe, South Africa",South Africa,normal,9 wickets,Null,Zimbabwe,bat,DL Piedt,"Aleem Dar, CB Gaffaney",RS Mahanama,Test,male
+742611,2014-11-09,Abu Dhabi,Sheikh Zayed Stadium,"New Zealand, Pakistan",Pakistan,normal,248 runs,Null,Pakistan,bat,Rahat Ali,"REJ Martinesz, RJ Tucker",AJ Pycroft,Test,male
+742613,2014-11-17,Dubai,Dubai International Cricket Stadium,"New Zealand, Pakistan",Null,draw,Null,Null,New Zealand,bat,LRPL Taylor,"REJ Martinesz, PR Reiffel",AJ Pycroft,Test,male
+742615,2014-11-26,Sharjah,Sharjah Cricket Stadium,"New Zealand, Pakistan",New Zealand,normal,80 runs,Null,Pakistan,bat,MD Craig,"PR Reiffel, RJ Tucker",AJ Pycroft,Test,male
+743939,2015-05-21,London,Lord's,"England, New Zealand",England,normal,124 runs,Null,New Zealand,field,BA Stokes,"M Erasmus, S Ravi",DC Boon,Test,male
+743941,2015-05-29,Leeds,Headingley,"England, New Zealand",New Zealand,normal,199 runs,Null,England,field,BJ Watling,"S Ravi, RJ Tucker",DC Boon,Test,male
+743963,2015-07-08,Cardiff,Sophia Gardens,"England, Australia",England,normal,169 runs,Null,England,bat,JE Root,"HDPK Dharmasena, M Erasmus",RS Madugalle,Test,male
+743965,2015-07-16,London,Lord's,"England, Australia",Australia,normal,405 runs,Null,Australia,bat,SPD Smith,"HDPK Dharmasena, M Erasmus",RS Madugalle,Test,male
+743967,2015-07-29,Birmingham,Edgbaston,"England, Australia",England,normal,8 wickets,Null,Australia,bat,ST Finn,"Aleem Dar, CB Gaffaney",RS Madugalle,Test,male
+743969,2015-08-06,Nottingham,Trent Bridge,"England, Australia",England,normal,78 runs,Null,England,field,SCJ Broad,"Aleem Dar, S Ravi",RS Madugalle,Test,male
+743971,2015-08-20,London,Kennington Oval,"England, Australia",Australia,normal,46 runs,Null,England,field,SPD Smith,"Aleem Dar, HDPK Dharmasena",JJ Crowe,Test,male
+745153,2014-08-06,Null,Galle International Stadium,"Sri Lanka, Pakistan",Sri Lanka,normal,7 wickets,Null,Pakistan,bat,HMRKB Herath,"IJ Gould, BNJ Oxenford",AJ Pycroft,Test,male
+745155,2014-08-14,Colombo,Sinhalese Sports Club Ground,"Sri Lanka, Pakistan",Sri Lanka,normal,105 runs,Null,Sri Lanka,bat,HMRKB Herath,"IJ Gould, RK Illingworth",AJ Pycroft,Test,male
+749777,2014-12-26,Christchurch,Hagley Oval,"New Zealand, Sri Lanka",New Zealand,normal,8 wickets,Null,Sri Lanka,field,BB McCullum,"RK Illingworth, BNJ Oxenford",BC Broad,Test,male
+749779,2015-01-03,Wellington,Basin Reserve,"New Zealand, Sri Lanka",New Zealand,normal,193 runs,Null,Sri Lanka,field,KS Williamson,"SJ Davis, RK Illingworth",BC Broad,Test,male
+754737,2014-12-09,Adelaide,Adelaide Oval,"Australia, India",Australia,normal,48 runs,Null,Australia,bat,NM Lyon,"M Erasmus, IJ Gould",JJ Crowe,Test,male
+754739,2014-12-17,Brisbane,"Brisbane Cricket Ground, Woolloongabba","Australia, India",Australia,normal,4 wickets,Null,India,bat,SPD Smith,"M Erasmus, IJ Gould",JJ Crowe,Test,male
+754741,2014-12-26,Melbourne,Melbourne Cricket Ground,"Australia, India",Null,draw,Null,Null,Australia,bat,RJ Harris,"HDPK Dharmasena, RA Kettleborough",RS Mahanama,Test,male
+754743,2015-01-06,Sydney,Sydney Cricket Ground,"Australia, India",Null,draw,Null,Null,Australia,bat,SPD Smith,"HDPK Dharmasena, RA Kettleborough",RS Mahanama,Test,male
+760781,2014-10-25,Mirpur,Shere Bangla National Stadium,"Bangladesh, Zimbabwe",Bangladesh,normal,3 wickets,Null,Zimbabwe,bat,Taijul Islam,"HDPK Dharmasena, S Ravi",BC Broad,Test,male
+760783,2014-11-03,Khulna,Sheikh Abu Naser Stadium,"Bangladesh, Zimbabwe",Bangladesh,normal,162 runs,Null,Bangladesh,bat,Shakib Al Hasan,"Aleem Dar, BF Bowden",BC Broad,Test,male
+760785,2014-11-12,Chittagong,Zahur Ahmed Chowdhury Stadium,"Bangladesh, Zimbabwe",Bangladesh,normal,186 runs,Null,Bangladesh,bat,Mominul Haque,"Aleem Dar, CB Gaffaney",BC Broad,Test,male
+766929,2015-04-13,Antigua,"Sir Vivian Richards Stadium, North Sound","West Indies, England",Null,draw,Null,Null,West Indies,field,JO Holder,"BF Bowden, SJ Davis",AJ Pycroft,Test,male
+766931,2015-04-21,Grenada,"National Cricket Stadium, St George's","West Indies, England",England,normal,9 wickets,Null,England,field,JE Root,"SJ Davis, BNJ Oxenford",AJ Pycroft,Test,male
+766933,2015-05-01,Barbados,"Kensington Oval, Bridgetown","West Indies, England",West Indies,normal,5 wickets,Null,England,bat,J Blackwood,"BF Bowden, BNJ Oxenford",AJ Pycroft,Test,male
+798375,2015-08-11,Canterbury,St Lawrence Ground,"England, Australia",Australia,normal,161 runs,Null,Australia,bat,JL Jonassen,"NA Mallender, AG Wharf",DT Jukes,Test,female
+800461,2015-12-26,Durban,Kingsmead,"South Africa, England",England,normal,241 runs,Null,South Africa,field,MM Ali,"Aleem Dar, RJ Tucker",RS Madugalle,Test,male
+800463,2016-01-02,Cape Town,Newlands,"South Africa, England",Null,draw,Null,Null,England,bat,BA Stokes,"Aleem Dar, BNJ Oxenford",RS Madugalle,Test,male
+800465,2016-01-14,Johannesburg,New Wanderers Stadium,"South Africa, England",England,normal,7 wickets,Null,South Africa,bat,SCJ Broad,"Aleem Dar, RJ Tucker",RS Madugalle,Test,male
+800467,2016-01-22,Centurion,SuperSport Park,"South Africa, England",South Africa,normal,280 runs,Null,South Africa,bat,K Rabada,"HDPK Dharmasena, CB Gaffaney",RS Madugalle,Test,male
+810423,2015-06-03,Dominica,"Windsor Park, Roseau","West Indies, Australia",Australia,normal,9 wickets,Null,West Indies,bat,AC Voges,"Aleem Dar, RA Kettleborough",RS Mahanama,Test,male
+810425,2015-06-11,Jamaica,"Sabina Park, Kingston","West Indies, Australia",Australia,normal,277 runs,Null,West Indies,field,SPD Smith,"IJ Gould, RA Kettleborough",RS Mahanama,Test,male
+817213,2015-07-21,Chittagong,Zahur Ahmed Chowdhury Stadium,"Bangladesh, South Africa",Null,draw,Null,Null,South Africa,bat,Mustafizur Rahman,"RA Kettleborough, JS Wilson",BC Broad,Test,male
+817215,2015-07-30,Mirpur,Shere Bangla National Stadium,"Bangladesh, South Africa",Null,draw,Null,Null,Bangladesh,bat,Mushfiqur Rahim,"RA Kettleborough, PR Reiffel",BC Broad,Test,male
+858493,2015-04-28,Khulna,Sheikh Abu Naser Stadium,"Bangladesh, Pakistan",Null,draw,Null,Null,Bangladesh,bat,Tamim Iqbal,"NJ Llong, REJ Martinesz",JJ Crowe,Test,male
+858495,2015-05-06,Mirpur,Shere Bangla National Stadium,"Bangladesh, Pakistan",Pakistan,normal,328 runs,Null,Bangladesh,field,Azhar Ali,"NJ Llong, PR Reiffel",JJ Crowe,Test,male
+860263,2015-06-17,Null,Galle International Stadium,"Sri Lanka, Pakistan",Pakistan,normal,10 wickets,Null,Pakistan,field,Sarfraz Ahmed,"RK Illingworth, PR Reiffel",BC Broad,Test,male
+860265,2015-06-25,Colombo,P Sara Oval,"Sri Lanka, Pakistan",Sri Lanka,normal,7 wickets,Null,Pakistan,bat,KTGD Prasad,"RK Illingworth, S Ravi",BC Broad,Test,male
+860267,2015-07-03,Pallekele,Pallekele International Cricket Stadium,"Sri Lanka, Pakistan",Pakistan,normal,7 wickets,Null,Pakistan,field,Younis Khan,"IJ Gould, PR Reiffel",BC Broad,Test,male
+870729,2015-06-10,Fatullah,Khan Shaheb Osman Ali Stadium,"Bangladesh, India",Null,draw,Null,Null,India,bat,S Dhawan,"HDPK Dharmasena, NJ Llong",AJ Pycroft,Test,male
+892509,2015-11-05,Brisbane,"Brisbane Cricket Ground, Woolloongabba","Australia, New Zealand",Australia,normal,208 runs,Null,Australia,bat,DA Warner,"RK Illingworth, NJ Llong",RS Mahanama,Test,male
+892511,2015-11-13,Perth,Western Australia Cricket Association Ground,"Australia, New Zealand",Null,draw,Null,Null,Australia,bat,LRPL Taylor,"NJ Llong, S Ravi",RS Mahanama,Test,male
+892513,2015-11-27,Adelaide,Adelaide Oval,"Australia, New Zealand",Australia,normal,3 wickets,Null,New Zealand,bat,JR Hazlewood,"RK Illingworth, S Ravi",RS Mahanama,Test,male
+892515,2015-12-10,Hobart,Bellerive Oval,"Australia, West Indies",Australia,normal,212 runs,Null,Australia,bat,AC Voges,"M Erasmus, IJ Gould",BC Broad,Test,male
+892517,2015-12-26,Melbourne,Melbourne Cricket Ground,"Australia, West Indies",Australia,normal,177 runs,Null,West Indies,field,NM Lyon,"M Erasmus, CB Gaffaney",BC Broad,Test,male
+892519,2016-01-03,Sydney,Sydney Cricket Ground,"Australia, West Indies",Null,draw,Null,Null,West Indies,bat,DA Warner,"CB Gaffaney, IJ Gould",BC Broad,Test,male
+895773,2015-08-12,Null,Galle International Stadium,"Sri Lanka, India",Sri Lanka,normal,63 runs,Null,Sri Lanka,bat,LD Chandimal,"NJ Llong, BNJ Oxenford",AJ Pycroft,Test,male
+895775,2015-08-20,Colombo,P Sara Oval,"Sri Lanka, India",India,normal,278 runs,Null,India,bat,KL Rahul,"BNJ Oxenford, RJ Tucker",AJ Pycroft,Test,male
+895777,2015-08-28,Colombo,Sinhalese Sports Club Ground,"Sri Lanka, India",India,normal,117 runs,Null,Sri Lanka,field,CA Pujara,"NJ Llong, RJ Tucker",AJ Pycroft,Test,male
+902635,2015-10-13,Abu Dhabi,Sheikh Zayed Stadium,"England, Pakistan",Null,draw,Null,Null,Pakistan,bat,AN Cook,"BNJ Oxenford, PR Reiffel",AJ Pycroft,Test,male
+902637,2015-10-22,Dubai,Dubai International Cricket Stadium,"England, Pakistan",Pakistan,normal,178 runs,Null,Pakistan,bat,Wahab Riaz,"BNJ Oxenford, PR Reiffel",AJ Pycroft,Test,male
+902639,2015-11-01,Sharjah,Sharjah Cricket Stadium,"England, Pakistan",Pakistan,normal,127 runs,Null,Pakistan,bat,Mohammad Hafeez,"CB Gaffaney, BNJ Oxenford",AJ Pycroft,Test,male
+903603,2015-11-05,Chandigarh,"Punjab Cricket Association Stadium, Mohali","India, South Africa",India,normal,108 runs,Null,India,bat,RA Jadeja,"HDPK Dharmasena, RA Kettleborough",JJ Crowe,Test,male
+903605,2015-11-14,Bangalore,M Chinnaswamy Stadium,"India, South Africa",Null,draw,Null,Null,India,field,Null,"IJ Gould, RA Kettleborough",JJ Crowe,Test,male
+903607,2015-11-25,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha","India, South Africa",India,normal,124 runs,Null,India,bat,R Ashwin,"IJ Gould, BNJ Oxenford",JJ Crowe,Test,male
+903609,2015-12-03,Delhi,Feroz Shah Kotla,"India, South Africa",India,normal,337 runs,Null,India,bat,AM Rahane,"HDPK Dharmasena, BNJ Oxenford",JJ Crowe,Test,male
+913613,2016-05-19,Leeds,Headingley,"England, Sri Lanka",England,normal,88 runs,Null,Sri Lanka,field,JM Bairstow,"Aleem Dar, RJ Tucker",AJ Pycroft,Test,male
+913615,2016-05-27,Chester-le-Street,Riverside Ground,"England, Sri Lanka",England,normal,9 wickets,Null,England,bat,JM Anderson,"Aleem Dar, S Ravi",AJ Pycroft,Test,male
+913617,2016-06-09,London,Lord's,"England, Sri Lanka",Null,draw,Null,Null,England,bat,JM Bairstow,"S Ravi, RJ Tucker",AJ Pycroft,Test,male
+913641,2016-07-14,London,Lord's,"England, Pakistan",Pakistan,normal,75 runs,Null,Pakistan,bat,Yasir Shah,"HDPK Dharmasena, JS Wilson",RB Richardson,Test,male
+913643,2016-07-22,Manchester,Old Trafford,"England, Pakistan",England,normal,330 runs,Null,England,bat,JE Root,"HDPK Dharmasena, RJ Tucker",RB Richardson,Test,male
+913645,2016-08-03,Birmingham,Edgbaston,"England, Pakistan",England,normal,141 runs,Null,Pakistan,field,MM Ali,"BNJ Oxenford, JS Wilson",RB Richardson,Test,male
+913647,2016-08-11,London,Kennington Oval,"England, Pakistan",Pakistan,normal,10 wickets,Null,England,bat,Younis Khan,"M Erasmus, BNJ Oxenford",RB Richardson,Test,male
+914203,2015-12-10,Dunedin,University Oval,"New Zealand, Sri Lanka",New Zealand,normal,122 runs,Null,Sri Lanka,field,MJ Guptill,"RA Kettleborough, NJ Llong",DC Boon,Test,male
+914205,2015-12-18,Hamilton,Seddon Park,"New Zealand, Sri Lanka",New Zealand,normal,5 wickets,Null,New Zealand,field,KS Williamson,"NJ Llong, PR Reiffel",DC Boon,Test,male
+914237,2016-02-12,Wellington,Basin Reserve,"New Zealand, Australia",Australia,normal,52 runs,Null,Australia,field,AC Voges,"RK Illingworth, RA Kettleborough",BC Broad,Test,male
+914239,2016-02-20,Christchurch,Hagley Oval,"New Zealand, Australia",Australia,normal,7 wickets,Null,Australia,field,JA Burns,"RA Kettleborough, REJ Martinesz",BC Broad,Test,male
+915773,2015-10-14,Null,Galle International Stadium,"Sri Lanka, West Indies",Sri Lanka,normal,6 runs,Null,Sri Lanka,bat,HMRKB Herath,"M Erasmus, RK Illingworth",DC Boon,Test,male
+915775,2015-10-22,Colombo,P Sara Oval,"Sri Lanka, West Indies",Sri Lanka,normal,72 runs,Null,Sri Lanka,bat,TAM Siriwardana,"SD Fry, RJ Tucker",DC Boon,Test,male
+936127,2016-08-19,Durban,Kingsmead,"South Africa, New Zealand",Null,draw,Null,Null,South Africa,bat,Null,"IJ Gould, RK Illingworth",AJ Pycroft,Test,male
+936129,2016-08-27,Centurion,SuperSport Park,"South Africa, New Zealand",South Africa,normal,204 runs,Null,New Zealand,field,Q de Kock,"IJ Gould, PR Reiffel",AJ Pycroft,Test,male
+936147,2016-12-26,Port Elizabeth,St George's Park,"South Africa, Sri Lanka",South Africa,normal,206 runs,Null,South Africa,bat,SC Cook,"Aleem Dar, BNJ Oxenford",DC Boon,Test,male
+936149,2017-01-02,Cape Town,Newlands,"South Africa, Sri Lanka",South Africa,normal,282 runs,Null,Sri Lanka,field,K Rabada,"Aleem Dar, RJ Tucker",DC Boon,Test,male
+936151,2017-01-12,Johannesburg,New Wanderers Stadium,"South Africa, Sri Lanka",South Africa,normal,118 runs,Null,South Africa,bat,JP Duminy,"BNJ Oxenford, RJ Tucker",DC Boon,Test,male
+995451,2016-07-26,Pallekele,Pallekele International Cricket Stadium,"Sri Lanka, Australia",Sri Lanka,normal,106 runs,Null,Sri Lanka,bat,BKG Mendis,"RA Kettleborough, S Ravi",BC Broad,Test,male
+995453,2016-08-04,Null,Galle International Stadium,"Sri Lanka, Australia",Sri Lanka,normal,229 runs,Null,Sri Lanka,bat,MDK Perera,"CB Gaffaney, RA Kettleborough",BC Broad,Test,male
+995455,2016-08-13,Colombo,Sinhalese Sports Club Ground,"Sri Lanka, Australia",Sri Lanka,normal,163 runs,Null,Sri Lanka,bat,HMRKB Herath,"CB Gaffaney, S Ravi",BC Broad,Test,male
