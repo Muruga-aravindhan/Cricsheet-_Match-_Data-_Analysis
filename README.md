@@ -22,26 +22,6 @@ Power BI – Interactive dashboards
 
 Cricsheet JSON Data – Source of match data (ODI, T20, Test)
 
-📁 cricsheet-analysis-project/
-│
-├── data/                    # Raw JSON match files
-├── scripts/
-│   ├── json_to_df.py        # JSON to DataFrame conversion
-│   ├── insert_to_sql.py     # SQL table creation and data insertion
-│   └── eda_visuals.py       # EDA visualizations using matplotlib, seaborn, etc.
-│
-├── sql/
-│   ├── create_tables.sql    # SQL schema definitions
-│   └── analysis_queries.sql # 20 SQL queries for insights
-│
-├── powerbi/
-│   └── dashboard.pbix       # Power BI dashboard file
-│
-├── presentation/            # EDA graphs & insights
-│   └── eda_slides.pdf
-│
-└── README.md                # Project documentation
-
 #Key Features & Insights
 Preprocessing: Cleaned and structured JSON match data.
 
